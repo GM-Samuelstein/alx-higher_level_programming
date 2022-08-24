@@ -1,6 +1,9 @@
 <h1 align="center">0x01-PYTHON-IF_ELSE_LOOPS_FUNCTIONS</h1>
 
 <h2>Learning Resources</h2>
+<h3>Read</h2>
+<h3>Watch</h2
+[Identation Error](https://www.youtube.com/watch?v=1QXOd2ZQs-Q)
 
 <h2>Learning Objectives</h2>
 <ul>
