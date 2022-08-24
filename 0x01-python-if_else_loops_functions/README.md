@@ -1,10 +1,12 @@
 <h1 align="center">0x01-PYTHON-IF_ELSE_LOOPS_FUNCTIONS</h1>
 
 <h2>Learning Resources</h2>
+
 <h3>Read</h2>
 <ul>
-<a href="https://docs.python.org/3/tutorial/index.html">The Python Tutorial</a>
+<a href="https://docs.python.org/3/tutorial/index.html" target="_blank">The Python Tutorial</a>
 </ul>
+
 <h3>Watch</h2
 <ul>
 <a href="https://www.youtube.com/watch?v=1QXOd2ZQs-Q" target="_blank">Identation Error</a>
