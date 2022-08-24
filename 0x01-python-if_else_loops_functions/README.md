@@ -8,7 +8,9 @@
 <li><a href="https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program">Digital Ocean Python Tutorial series</a></li>
 </ul>
 <h3>Watch</h2>
-<a href="https://www.youtube.com/watch?v=1QXOd2ZQs-Q" target="_blank">Identation Error</a>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=1QXOd2ZQs-Q" target="_blank">Identation Error</a></li>
+</ul>
 
 <h2>Learning Objectives</h2>
 <ul>
