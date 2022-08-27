@@ -25,3 +25,15 @@ Hello, world!
 <li>What are indexing and slicing in Python.</li>
 <li>What is the official Python coding style and how to check your code with <code>pycodestyle</code>.</li>
 </ul>
+
+<table>
+  <tr>
+    <th>0. Run Python file</th>
+  </tr>
+  <tr>
+    <th> 
+      Write a Shell script that runs a Python script. The Python file name will be saved in the environment variable <code>$PYFILE</code>.<br>
+      <li align="left">File: 0-run</li>
+    </th>
+  </tr>
+</table>
