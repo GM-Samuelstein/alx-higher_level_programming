@@ -1,6 +1,6 @@
 <h1 align="center">0x01.PYTHON</h1>
 If/else, loops, functions.
-<h2>Learning Resources</h2>
+<h2>Resources</h2>
 
 <h3>Read</h3>
 <ul>
@@ -10,8 +10,8 @@ If/else, loops, functions.
 
 <h3>Watch</h3>
 <ul>
-<li><a href="https://www.youtube.com/watch?v=1QXOd2ZQs-Q" target="_blank">Identation Error.</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt" target="_blank">Learn to Program.</a></li>
+<li><a href="https://www.youtube.com/watch?v=1QXOd2ZQs-Q">Identation Error.</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt">Derek Barnas - Learn to Program</a></li>
 </ul>
 
 <h2>Learning Objectives</h2>
