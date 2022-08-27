@@ -1,5 +1,5 @@
-<h1 align="center">0x01-PYTHON-IF_ELSE_LOOPS_FUNCTIONS</h1>
-
+<h1 align="center">0x01.PYTHON</h1>
+If/else, loops, functions.
 <h2>Learning Resources</h2>
 
 <h3>Read</h3>
