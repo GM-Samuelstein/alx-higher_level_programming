@@ -1,1 +1,2 @@
-<h1 align="center">0x03-python-data_structures</h1>
+<h1 align="center">0x0.PYTHON</h1>
+Data structurs: Lists, Tuples
