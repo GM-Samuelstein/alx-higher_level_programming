@@ -4,7 +4,7 @@
 
 <h3>Read</h3>
 <ul>
-  <li><a href="https://docs.python.org/3/tutorial/index.html">The Python Tutorial</a></li>
+  <li><a href="https://docs.python.org/3/tutorial/index.html">The Python Tutorial(Python.org)</a></li>
   <li><a href="https://www.digitalocean.com/community/tutorials/how-to-write-your-first-python-3-program">Digital Ocean Python Tutorial series</a></li>
 </ul>
 
