@@ -5,7 +5,7 @@ Hello, world!
 <ul>
   <li><a href="https://docs.python.org/3/tutorial/index.html">The Python Tutorial(Python.org)</a></li>
   <li><a href="https://realpython.com/python-f-strings/">How to use string formatters in Python3</a></li>
-  <li><a href="https://pypi.org/project/pycodestyle/#files">Pycodestyle</a></li>
+  <li><a href="https://pypi.org/project/pycodestyle/">Pycodestyle</a></li>
 </ul>
 <h3>Watch</h3>
 <ul>
@@ -26,6 +26,7 @@ Hello, world!
 <li>What is the official Python coding style and how to check your code with <code>pycodestyle</code>.</li>
 </ul>
 
+<h2>Tasks</h2>
 <table>
   <tr>
     <th>0. Run Python file</th>
