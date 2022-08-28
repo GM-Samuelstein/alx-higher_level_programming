@@ -45,4 +45,4 @@ Hello, World!
 |101-compile||
 |102-magic_calculation.py||
 |lists.h||
-|The Zen of Python||
+|Zen|The Zen of Python|
