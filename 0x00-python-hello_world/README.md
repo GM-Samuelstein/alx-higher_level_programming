@@ -1,5 +1,5 @@
 <h1 align="center">0x00.PYTHON</h1>
-Hello, world!
+Hello, World!
 <h2>Resources</h2>
 <h3>Read</h3>
 <ul>
@@ -30,10 +30,10 @@ Hello, world!
 
 |Filename|Details|
 |---|---|
-|0-run||
-|1-run_inline||
-|2-print.py||
-|3-print_number.py||
+|0-run|Write a Shell script that runs a Python script. <br>The Python file name will be saved in the environment variable `$PYFILE`.|
+|1-run_inline|Write a Shell script that runs Python code. <br> The Python code will be saved in the environment variable `$PYCODE`.|
+|2-print.py|Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line. <br><ul><li>Use the function `print`.</li></ul>|
+|3-print_number.py|Complete this source code in order to print the integer stored in the variable number, followed by Battery street, followed by a new line.<br> <ul><li>You can find the source code here.</li><li> The output of the script should be: <ul> <li>the number, followed by Battery street,</li> <li>followed by a new line.</li></ul></li><li>You are not allowed to cast the variable number into a string</li><li>Your code must be 3 lines long</li><li>You have to use f-strings tips</li>|
 |4-print_float.py||
 |5-print_string.py||
 |6-concat.py||
@@ -45,3 +45,4 @@ Hello, world!
 |101-compile||
 |102-magic_calculation.py||
 |lists.h||
+|The Zen of Python||
