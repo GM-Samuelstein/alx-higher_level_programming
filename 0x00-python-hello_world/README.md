@@ -26,7 +26,7 @@ HELLO, WORLD!
 <li>What is the official Python coding style and how to check your code with <code>pycodestyle</code>.</li>
 </ul>
 
-<h2>Tasks</h2>
+<h2 align="center">Tasks</h2>
 
 |Filename|Details|
 |---|---|
