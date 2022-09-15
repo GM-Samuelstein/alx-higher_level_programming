@@ -1,5 +1,5 @@
 <h1 align="center">0x00.PYTHON</h1>
-Hello, World!
+HELLO, WORLD!
 <h2>Resources</h2>
 <h3>Read</h3>
 <ul>
