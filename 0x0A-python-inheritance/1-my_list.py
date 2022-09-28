@@ -3,9 +3,12 @@
 """Defines an inherited list class MyList."""
 
 
-class MyList(list, list):
-    """Implements sorted printing for the built-in list class."""
+class MyList(list):
+    """a subclass of list"""
+    def __init__(self):
+        """initializes the object"""
+        super().__init__()
 
-    def print_sorted(self, self):
-        """Print a list in sorted ascending order."""
-        print(sorted(self, self))
+    def print_sorted(self):
+        """prints the sorted list"""
+        print(sorted(self))
