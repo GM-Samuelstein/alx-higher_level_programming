@@ -1,3 +1,4 @@
+![python logo](https://user-images.githubusercontent.com/104820502/192983727-bb6fa611-f1a8-4fd5-9247-f69f34f6db6d.png)
 <h1 align="center">HIGHER LEVEL PROGRAMMING-PYTHON</h1>
 These projects were done during Full Stack Software Engineering Studies at ALX SCHOOL.
 
