@@ -1,4 +1,4 @@
-![python-code](https://user-images.githubusercontent.com/104820502/192986852-c04c097e-2fbf-4a4c-aca6-ba91d1694fee.jpeg)
+![python-code](https://user-images.githubusercontent.com/104820502/192988661-4e0920fa-346e-4ba4-b4da-4f769e6aa66a.jpeg)
 <h1 align="center">HIGHER LEVEL PROGRAMMING-PYTHON</h1>
 The following projects were done during Full Stack Software Engineering Studies at ALX SCHOOL.
 
