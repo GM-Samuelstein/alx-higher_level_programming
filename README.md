@@ -2,7 +2,7 @@
 
 <details>
   <summary>
-    <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/tree/master/0x00-python-hello_world"><h2>0x00.PYTHON - HELLO, WORLD.</h2></a>
+    <h2><a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/tree/master/0x00-python-hello_world">0x00.PYTHON - HELLO, WORLD.</h2>
   </summary>
   <p></p>
 </details>
