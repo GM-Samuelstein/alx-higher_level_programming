@@ -1,5 +1,5 @@
 <h1 align="center">HIGHER LEVEL PROGRAMMING-PYTHON</h1>
-These projects were done during Full Stack Software Engineering Studies at ALX School.
+These projects were done during Full Stack Software Engineering Studies at ALX SCHOOL.
 
 <details>
   <summary>
