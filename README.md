@@ -1,5 +1,6 @@
+![python-code](https://user-images.githubusercontent.com/104820502/192986852-c04c097e-2fbf-4a4c-aca6-ba91d1694fee.jpeg)
 <h1 align="center">HIGHER LEVEL PROGRAMMING-PYTHON</h1>
-These projects were done during Full Stack Software Engineering Studies at ALX SCHOOL.
+The following projects were done during Full Stack Software Engineering Studies at ALX SCHOOL.
 
 <details>
   <summary>
@@ -104,6 +105,13 @@ These projects were done during Full Stack Software Engineering Studies at ALX S
   <p></p>
 </details>
 
+<details>
+  <summary>
+    <h2>CREDITS</h2>
+  </summary>
+  <p>All codes written and managed by GM-Samuelstein.</p>
+</details>
+  
 <details>
   <summary>
     <h2></h2>
