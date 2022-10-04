@@ -170,6 +170,14 @@ Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/6-
 </ul>
 File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py">6-concat.py</a> <br><br>
 
+```
+guillaume@ubuntu:~/py/0x00$ ./6-concat.py
+Welcome to Holberton School!
+guillaume@ubuntu:~/py/0x00$ wc -l 6-concat.py
+5 6-concat.py
+guillaume@ubuntu:~/py/0x00$ 
+```
+
 <h2>7. Copy - Cut - Paste</h2>
 Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py">source code</a>.<br>
 <ul>
@@ -181,6 +189,15 @@ Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/7-
 </ul>
 File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py">7-edges.py</a> <br><br>
 
+```
+guillaume@ubuntu:~/py/0x00$ ./7-edges.py
+First 3 letters: Hol
+Last 2 letters: on
+Middle word: olberto
+guillaume@ubuntu:~/py/0x00$ wc -l 7-edges.py
+8 7-edges.py
+guillaume@ubuntu:~/py/0x00$ 
+```
 
 <h2>8. Create a new sentence</h2>
 Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py">source code</a> to print <code>object-oriented programming with Python</code>, followed by a new line.<br>
@@ -192,6 +209,14 @@ Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/8-
 </ul>
 File: <a href="(https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py">8-concat_edges.py</a> <br><br>
 
+```
+guillaume@ubuntu:~/py/0x00$ ./8-concat_edges.py
+object-oriented programming with Python
+guillaume@ubuntu:~/py/0x00$ wc -l 8-concat_edges.py
+5 8-concat_edges.py
+guillaume@ubuntu:~/py/0x00$ 
+```
+
 <h2>9. Easter Egg</h2>
 Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.<br>
 <ul>
@@ -199,6 +224,31 @@ Write a Python script that prints “The Zen of Python”, by TimPeters, followe
 </ul>
 File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/9-easter_egg.py">9-easter_egg.py</a> <br><br>
 
+```
+guillaume@ubuntu:~/py/0x00$ ./9-easter_egg.py
+The Zen of Python, by Tim Peters
+
+Beautiful is better than ugly.
+Explicit is better than implicit.
+Simple is better than complex.
+Complex is better than complicated.
+Flat is better than nested.
+Sparse is better than dense.
+Readability counts.
+Special cases aren't special enough to break the rules.
+Although practicality beats purity.
+Errors should never pass silently.
+Unless explicitly silenced.
+In the face of ambiguity, refuse the temptation to guess.
+There should be one-- and preferably only one --obvious way to do it.
+Although that way may not be obvious at first unless you're Dutch.
+Now is better than never.
+Although never is often better than *right* now.
+If the implementation is hard to explain, it's a bad idea.
+If the implementation is easy to explain, it may be a good idea.
+Namespaces are one honking great idea -- let's do more of those!
+guillaume@ubuntu:~/py/0x00$
+```
 
 <h2>10. Linked list cycle</h2>
 <b>Technical interview preparation:<b>br>
@@ -442,7 +492,7 @@ guillaume@ubuntu:~/py/0x00$
 ```  
   
 <h2>13. ByteCode -> Python #1</h2>  
-Write the Python function <code>def magic_calculation(a, b):<code> that does exactly the same as the Python bytecode below. 
+Write the Python function <code>def magic_calculation(a, b):</code> that does exactly the same as the Python bytecode below. 
  
 ```  
  3           0 LOAD_CONST               1 (98)
@@ -457,7 +507,3 @@ Write the Python function <code>def magic_calculation(a, b):<code> that does exa
   <li>Tips on Python Bytecode can be found <a href ="https://docs.python.org/3.4/library/dis.html">here</a>.</li>
 </ul>  
 File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py">102-magic_calculation.py</a> <br><br> 
- 
-<h2>13. ByteCode -> Python #1</h2>
-A header file containing a prototype of all the functions used in the C file.
-File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/lists.h">lists.h</a>
