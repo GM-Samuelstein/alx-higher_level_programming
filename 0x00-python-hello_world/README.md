@@ -207,7 +207,7 @@ Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/8-
   <li>You are not allowed to create new variables.</li>
   <li>You are not allowed to use string literals.</li>
 </ul>
-File: <a href="(https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py">8-concat_edges.py</a> <br><br>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py">8-concat_edges.py</a> <br><br>
 
 ```
 guillaume@ubuntu:~/py/0x00$ ./8-concat_edges.py
@@ -251,7 +251,7 @@ guillaume@ubuntu:~/py/0x00$
 ```
 
 <h2>10. Linked list cycle</h2>
-<b>Technical interview preparation:<b>br>
+<b>Technical interview preparation:<b><br>
 <ul>
   <li>You are not allowed to google anything.</li>
   <li>Whiteboard first.</li>
@@ -264,7 +264,7 @@ Write a function in C that checks if a singly linked list has a cycle in it.<br>
 </ul>
 Requirements:<br>
 <ul>
-  <li>Only these functions are allowed: `write`, `printf`, `putchar`, `puts`, `malloc`, `free`.</li>
+  <li>Only these functions are allowed: <code>write</code>, <code>printf</code>, <code>putchar</code>, <code>puts</code>, <code>malloc</code>, <code>free</code>.</li>
 </ul>
 File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c">10-check_cycle.c</a> <br><br>
 
@@ -445,7 +445,7 @@ Write a Python script that prints exactly <code>and that piece of art is useful 
   <li>Your script should print to <code>stderr</code>.</li>
   <li>Your script should exit with the status code <code>1</code>.</li>
 </ul>
-File: <a href="(https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/100-write.py">100-write.py></a> <br><br>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/100-write.py">100-write.py</a> <br><br>
   
 ```
 guillaume@ubuntu:~/py/0x00$ ./100-write.py
