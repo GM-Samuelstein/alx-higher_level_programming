@@ -85,7 +85,7 @@ guillaume@ubuntu:~/py/0x00$
 ```
 
 <h2>2. Hello, print</h2>
-Write a Python script that prints exactly <code>"Programming is like building a multilingual puzzle</code>, followed by a new line. <br>
+Write a Python script that prints exactly <code>"Programming is like building a multilingual puzzle</code>, followed by a new line.
 <ul>
   <li>Use the function <code>print</code>.</li>
 </ul>
@@ -98,7 +98,19 @@ guillaume@ubuntu:~/py/0x00$
 ```
 
 <h2>3. Print integer</h2>
-Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py">source code</a> in order to print the integer stored in the variable `number`, followed by `Battery street`, followed by a new line.<br> <ul><li> The output of the script should be: <ul> <li>the number, followed by `Battery street`,</li> <li>followed by a new line.</li></ul></li><li>You are not allowed to cast the variable `number` into a string.</li><li>Your code must be 3 lines long.</li><li>You have to use f-strings.</li> <br> File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/3-print_number.py">3-print_number.py</a> <br><br>
+Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py">source code</a> in order to print the integer stored in the variable `number`, followed by `Battery street`, followed by a new line.
+<ul>
+  <li> The output of the script should be: 
+    <ul> 
+      <li>the number, followed by `Battery street`,</li> 
+      <li>followed by a new line.</li>
+    </ul>
+  </li>
+  <li>You are not allowed to cast the variable `number` into a string.</li>
+  <li>Your code must be 3 lines long.</li>
+  <li>You have to use f-strings.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/3-print_number.py">3-print_number.py</a> <br><br>
 
 ```
 guillaume@ubuntu:~/py/0x00$ ./3-print_number.py
