@@ -3,9 +3,9 @@ HELLO, WORLD!
 <h2>Resources</h2>
 <h3>Read</h3>
 <ul>
-  <li><a href="https://docs.python.org/3/tutorial/index.html">The Python Tutorial(Python.org)</a>(Only the first 3 chapters.)</li>
-  <li><a href="https://realpython.com/python-f-strings/">How to use string formatters in Python3</a>(f-strings.)</li>
-  <li><a href="https://pypi.org/project/pycodestyle/">Pycodestyle</a></li>
+  <li><a href="https://docs.python.org/3/tutorial/index.html">The Python Tutorial(Python.org)</a>(Read only the first 3 chapters.)</li>
+  <li><a href="https://realpython.com/python-f-strings/">How to use string formatters in Python3</a>.</li>
+  <li><a href="https://pypi.org/project/pycodestyle/">Pycodestyle - Style Guide for Python Code.</a></li>
 </ul>
 <h3>Watch</h3>
 <ul>
@@ -51,6 +51,7 @@ HELLO, WORLD!
 <li>Your code should use the <code>Betty</code> style. It will be checked using <code>betty-style.pl</code> and <code>betty-doc.pl</code>.</li>
 <li>You are not allowed to use global variables.</li>
 <li>No more than 5 functions per file.</li>
+<li>In the following examples, the <code>main.c</code> files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own <code>main.c</code> files at compilation. Our <code>main.c</code> files might be different from the one shown in the examples</li>
 <li>The prototypes of all your functions should be included in your header file called <code>lists.h</code>.</li>
 <li>All your header files should be include guarded.</li>
 
