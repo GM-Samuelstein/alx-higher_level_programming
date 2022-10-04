@@ -54,15 +54,55 @@ HELLO, WORLD!
 <li>The prototypes of all your functions should be included in your header file called <code>lists.h</code>.</li>
 <li>All your header files should be include guarded.</li>
 
-<h2 align="center">TASKS</h2>
+<h1 align="center">TASKS</h1>
 
+<h2>0. Run Python file</h2>
+Write a Shell script that runs a Python script. <br>The Python file name will be saved in the environment variable <code>$PYFILE</code>. <br> File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/0-run">0-run</a> <br><br>
+
+```
+guillaume@ubuntu:~/py/0x00$ cat main.py 
+#!/usr/bin/python3
+print("Best School")
+
+guillaume@ubuntu:~/py/0x00$ export PYFILE=main.py
+guillaume@ubuntu:~/py/0x00$ ./0-run
+Best School
+guillaume@ubuntu:~/py/0x00$ 
+```
+
+<h2>1. Run inline</h2>
+Write a Shell script that runs Python code. <br> The Python code will be saved in the environment variable <code>$PYCODE</code>. <br> File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/1-run_inline">1-run_inline</a> <br><br>
+
+```
+guillaume@ubuntu:~/py/0x00$ export PYCODE='print(f"Best School: {88+10}")'
+guillaume@ubuntu:~/py/0x00$ ./1-run_inline 
+Best School: 98
+guillaume@ubuntu:~/py/0x00$ 
+```
+
+<h2>2. Hello, print</h2>
+Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line. <br><ul><li>Use the function <code>print</code>.</li></ul>File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/2-print.py">2-print.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/py/0x00$ ./2-print.py 
+"Programming is like building a multilingual puzzle
+guillaume@ubuntu:~/py/0x00$
+```
+
+<h2>3. Print integer</h2>
+Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py">source code</a> in order to print the integer stored in the variable `number`, followed by `Battery street`, followed by a new line.<br> <ul><li> The output of the script should be: <ul> <li>the number, followed by `Battery street`,</li> <li>followed by a new line.</li></ul></li><li>You are not allowed to cast the variable `number` into a string.</li><li>Your code must be 3 lines long.</li><li>You have to use f-strings.</li> <br> File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/3-print_number.py">3-print_number.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/py/0x00$ ./3-print_number.py
+98 Battery street
+guillaume@ubuntu:~/py/0x00$
+```
+  
+<h2>4. Print float</h2>
+Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py) in order to print the float stored in the variable `number` with a precision of 2 digits.<br> <ul><li> The output of the program should be: <ul> <li>`Float:`, followed by the float with only 2 digits.</li> <li>followed by a new line.</li></ul></li><li>You are not allowed to cast `number` to string.</li><li>You have to use f-strings.</li> <br> File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py">4-print_float.py</a> <br><br>
+  
 |Filename|Details|
 |---|---|
-|[**0-run**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/0-run)|Write a Shell script that runs a Python script. <br>The Python file name will be saved in the environment variable `$PYFILE`.|
-|[**1-run_inline**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/1-run_inline)|Write a Shell script that runs Python code. <br> The Python code will be saved in the environment variable `$PYCODE`.|
-|[**2-print.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/2-print.py)|Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line. <br><ul><li>Use the function `print`.</li></ul>|
-|[**3-print_number.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/3-print_number.py)|Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py) in order to print the integer stored in the variable `number`, followed by `Battery street`, followed by a new line.<br> <ul><li> The output of the script should be: <ul> <li>the number, followed by `Battery street`,</li> <li>followed by a new line.</li></ul></li><li>You are not allowed to cast the variable `number` into a string.</li><li>Your code must be 3 lines long.</li><li>You have to use f-strings.</li>|
-|[**4-print_float.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)|Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py) in order to print the float stored in the variable `number` with a precision of 2 digits.<br> <ul><li> The output of the program should be: <ul> <li>`Float:`, followed by the float with only 2 digits.</li> <li>followed by a new line.</li></ul></li><li>You are not allowed to cast `number` to string.</li><li>You have to use f-strings.</li>|
 |[**5-print_string.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py)|Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py)  in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters.<br> <ul><li> The output of the program should be: <ul> <li>3 times the value of `str`.</li> <li>followed by a new line.</li><li>followed by the 9 first characters of `str`.</li><li>followed by a new line.</li></ul></li><li>You are not allowed to use any loops or conditional statement.</li><li>Your program should be maximum 5 lines long.</li>|
 |[**6-concat.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py)|Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py) to print `Welcome to Holberton School!`<br><ul><li>You are not allowed to use any loops or conditional statements.</li><li>You have to use the variables `str1` and `str2` in your new line of code.</li><li>Your program should be exactly 5 lines long.</li></ul>|
 |[**7-edges.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py)|Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py).<br><ul><li>You are not allowed to use any loops or conditional statements.</li><li>Your program should be exactly 8 lines long.</li><li>`word_first_3` should contain the first 3 letters of the variable `word`.</li><li>`word_last_2` should contain the last 2 letters of the variable `word`.</li><li>`middle_word` should contain the value of the variable `word` without the first and last letters.</li></ul>|
@@ -74,11 +114,4 @@ HELLO, WORLD!
 |[**102-magic_calculation.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)|Write the Python function `def magic_calculation(a, b):` that does exactly the same as the Python bytecode below this table. <ul><li>Tips on Python Bytecode can be found [here](https://docs.python.org/3.4/library/dis.html).</li></ul>|
 |[**lists.h**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/lists.h)|A header file containing a prototype of all the functions used in the C file.|
 |[**Zen**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/Zen)|The Zen of Python.|
-```
-3           0 LOAD_CONST               1 (98)
-              3 LOAD_FAST                0 (a)
-              6 LOAD_FAST                1 (b)
-              9 BINARY_POWER
-             10 BINARY_ADD
-             11 RETURN_VALUE
-```
+
