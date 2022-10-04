@@ -129,8 +129,15 @@ Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/4-
   </li>
   <li>You are not allowed to cast <code>number</code> to string.</li>
   <li>You have to use f-strings.</li>
+</ul>
 File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py">4-print_float.py</a> <br><br>
-  
+<code>
+guillaume@ubuntu:~/py/0x00$ ./4-print_float.py
+Float: 3.14
+guillaume@ubuntu:~/py/0x00$ 
+</code>
+ 
+<h2>5. Print string</h2>
 |Filename|Details|
 |---|---|
 |[**5-print_string.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py)|Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py)  in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters.<br> <ul><li> The output of the program should be: <ul> <li>3 times the value of `str`.</li> <li>followed by a new line.</li><li>followed by the 9 first characters of `str`.</li><li>followed by a new line.</li></ul></li><li>You are not allowed to use any loops or conditional statement.</li><li>Your program should be maximum 5 lines long.</li>|
