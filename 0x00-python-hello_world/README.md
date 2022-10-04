@@ -98,15 +98,15 @@ guillaume@ubuntu:~/py/0x00$
 ```
 
 <h2>3. Print integer</h2>
-Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py">source code</a> in order to print the integer stored in the variable `number`, followed by `Battery street`, followed by a new line.
+Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py">source code</a> in order to print the integer stored in the variable <code>number</code>, followed by <code>Battery street</code>, followed by a new line.
 <ul>
   <li> The output of the script should be: 
     <ul> 
-      <li>the number, followed by `Battery street`,</li> 
+      <li>the number, followed by <code>Battery street</code>,</li> 
       <li>followed by a new line.</li>
     </ul>
   </li>
-  <li>You are not allowed to cast the variable `number` into a string.</li>
+  <li>You are not allowed to cast the variable <code>number</code> into a string.</li>
   <li>Your code must be 3 lines long.</li>
   <li>You have to use f-strings.</li>
 </ul>
