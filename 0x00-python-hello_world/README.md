@@ -132,24 +132,332 @@ Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/4-
 </ul>
 File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py">4-print_float.py</a> <br><br>
 
-<code>
+```
 guillaume@ubuntu:~/py/0x00$ ./4-print_float.py
 Float: 3.14
 guillaume@ubuntu:~/py/0x00$ 
-</code>
+```
  
 <h2>5. Print string</h2>
-|Filename|Details|
-|---|---|
-|[**5-print_string.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py)|Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py)  in order to print 3 times a string stored in the variable `str`, followed by its first 9 characters.<br> <ul><li> The output of the program should be: <ul> <li>3 times the value of `str`.</li> <li>followed by a new line.</li><li>followed by the 9 first characters of `str`.</li><li>followed by a new line.</li></ul></li><li>You are not allowed to use any loops or conditional statement.</li><li>Your program should be maximum 5 lines long.</li>|
-|[**6-concat.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py)|Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py) to print `Welcome to Holberton School!`<br><ul><li>You are not allowed to use any loops or conditional statements.</li><li>You have to use the variables `str1` and `str2` in your new line of code.</li><li>Your program should be exactly 5 lines long.</li></ul>|
-|[**7-edges.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py)|Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py).<br><ul><li>You are not allowed to use any loops or conditional statements.</li><li>Your program should be exactly 8 lines long.</li><li>`word_first_3` should contain the first 3 letters of the variable `word`.</li><li>`word_last_2` should contain the last 2 letters of the variable `word`.</li><li>`middle_word` should contain the value of the variable `word` without the first and last letters.</li></ul>|
-|[**8-concat_edges.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py)|Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py) to print `object-oriented programming with Python`, followed by a new line.<br><ul><li>You are not allowed to use any loops or conditional statements.</li><li>Your program should be exactly 5 lines long.</li><li>You are not allowed to create new variables.</li><li>You are not allowed to use string literals.</li></ul>|
-|[**9-easter_egg.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/9-easter_egg.py)|Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.<br><ul><li>Your script should be maximum 98 characters long (please check with `wc -m 9-easter_egg.py`)</li></ul>|
-|[**10-check_cycle.c**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c)|**Technical interview preparation:**<br><ul><li>You are not allowed to google anything.</li><li>Whiteboard first.</li><li>This task and all future technical interview prep tasks will include checks for the efficiency of your solution, i.e. is your solution’s runtime fast enough, does your solution require extra memory usage / mallocs, etc.</li></ul>Write a function in C that checks if a singly linked list has a cycle in it.<br> <ul><li>Prototype: `int check_cycle(listint_t *list);`</li><li>Return: `0` if there is no cycle, `1` if there is a cycle.</li></ul>Requirements:<br><ul><li>Only these functions are allowed: `write`, `printf`, `putchar`, `puts`, `malloc`, `free`.</li></ul>|
-|[**100-write.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/100-write.py)|Write a Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line.<ul><li>Use the function `write` from the `sys` module.</li><li>You are not allowed to use `print`.</li><li>Your script should print to `stderr`.</li><li>Your script should exit with the status code `1`.</li></ul>|
-|[**101-compile**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/101-compile)|Write a script that compiles a Python script file.<br><ul><li>The Python file name will be stored in the environment variable `$PYFILE`.</li><li>The output filename has to be `$PYFILEc` (ex: `export PYFILE=my_main.py` => output filename: `my_main.pyc`).</li></ul>|
-|[**102-magic_calculation.py**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)|Write the Python function `def magic_calculation(a, b):` that does exactly the same as the Python bytecode below this table. <ul><li>Tips on Python Bytecode can be found [here](https://docs.python.org/3.4/library/dis.html).</li></ul>|
-|[**lists.h**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/lists.h)|A header file containing a prototype of all the functions used in the C file.|
-|[**Zen**](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/Zen)|The Zen of Python.|
+Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py">source code</a> in order to print 3 times a string stored in the variable <code>str</code>, followed by its first 9 characters.<br> 
+<ul>
+  <li> The output of the program should be: 
+    <ul> 
+      <li>3 times the value of <code>str</code>.</li>
+      <li>followed by a new line.</li>
+      <li>followed by the 9 first characters of <code>str</code>.</li>
+      <li>followed by a new line.</li>
+    </ul>
+  </li>
+  <li>You are not allowed to use any loops or conditional statement.</li>
+  <li>Your program should be maximum 5 lines long.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py">5-print_string.py</a> <br><br>
 
+```
+guillaume@ubuntu:~/py/0x00$ ./5-print_string.py 
+Holberton SchoolHolberton SchoolHolberton School
+Holberton
+guillaume@ubuntu:~/py/0x00$ 
+```
+
+<h2>6. Play with strings</h2>
+Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py">source code</a> to print <code>Welcome to Holberton School!</code><br>
+<ul>
+  <li>You are not allowed to use any loops or conditional statements.</li>
+  <li>You have to use the variables <code>str1</code> and <code>str2</code> in your new line of code.</li>
+  <li>Your program should be exactly 5 lines long.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py">6-concat.py</a> <br><br>
+
+<h2>7. Copy - Cut - Paste</h2>
+Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py">source code</a>.<br>
+<ul>
+  <li>You are not allowed to use any loops or conditional statements.</li>
+  <li>Your program should be exactly 8 lines long.</li>
+  <li><code>word_first_3</code> should contain the first 3 letters of the variable <code>word</code>.</li>
+  <li><code>word_last_2</code> should contain the last 2 letters of the variable <code>word</code>.</li>
+  <li><code>middle_word</code> should contain the value of the variable <code>word</code> without the first and last letters.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py">7-edges.py</a> <br><br>
+
+
+<h2>8. Create a new sentence</h2>
+Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py">source code</a> to print <code>object-oriented programming with Python</code>, followed by a new line.<br>
+<ul>
+  <li>You are not allowed to use any loops or conditional statements.</li>
+  <li>Your program should be exactly 5 lines long.</li>
+  <li>You are not allowed to create new variables.</li>
+  <li>You are not allowed to use string literals.</li>
+</ul>
+File: <a href="(https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py">8-concat_edges.py</a> <br><br>
+
+<h2>9. Easter Egg</h2>
+Write a Python script that prints “The Zen of Python”, by TimPeters, followed by a new line.<br>
+<ul>
+  <li>Your script should be maximum 98 characters long (please check with <code>wc -m 9-easter_egg.py</code>)</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/9-easter_egg.py">9-easter_egg.py</a> <br><br>
+
+
+<h2>10. Linked list cycle</h2>
+<b>Technical interview preparation:<b>br>
+<ul>
+  <li>You are not allowed to google anything.</li>
+  <li>Whiteboard first.</li>
+  <li>This task and all future technical interview prep tasks will include checks for the efficiency of your solution, i.e. is your solution’s runtime fast enough, does your solution require extra memory usage / mallocs, etc.</li>
+</ul>
+Write a function in C that checks if a singly linked list has a cycle in it.<br>
+<ul>
+  <li>Prototype: <code>int check_cycle(listint_t *list);</code></li>
+  <li>Return: <code>0</code> if there is no cycle, <code>1</code> if there is a cycle.</li>
+</ul>
+Requirements:<br>
+<ul>
+  <li>Only these functions are allowed: `write`, `printf`, `putchar`, `puts`, `malloc`, `free`.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c">10-check_cycle.c</a> <br><br>
+
+```
+carrie@ubuntu:~/0x00$ cat lists.h
+#ifndef LISTS_H
+#define LISTS_H
+
+#include <stdlib.h>
+
+/**
+ * struct listint_s - singly linked list
+ * @n: integer
+ * @next: points to the next node
+ *
+ * Description: singly linked list node structure
+ * 
+ */
+typedef struct listint_s
+{
+    int n;
+    struct listint_s *next;
+} listint_t;
+
+size_t print_listint(const listint_t *h);
+listint_t *add_nodeint(listint_t **head, const int n);
+void free_listint(listint_t *head);
+int check_cycle(listint_t *list);
+
+#endif /* LISTS_H */
+```
+  
+```
+carrie@ubuntu:~/0x00$ cat 10-linked_lists.c
+#include <stdio.h>
+#include <stdlib.h>
+#include "lists.h"
+
+/**
+ * print_listint - prints all elements of a listint_t list
+ * @h: pointer to head of list
+ * Return: number of nodes
+ */
+size_t print_listint(const listint_t *h)
+{
+    const listint_t *current;
+    unsigned int n; /* number of nodes */
+
+    current = h;
+    n = 0;
+    while (current != NULL)
+    {
+        printf("%i\n", current->n);
+        current = current->next;
+        n++;
+    }
+
+    return (n);
+}
+
+/**
+ * add_nodeint - adds a new node at the beginning of a listint_t list
+ * @head: pointer to a pointer of the start of the list
+ * @n: integer to be included in node
+ * Return: address of the new element or NULL if it fails
+ */
+listint_t *add_nodeint(listint_t **head, const int n)
+{
+    listint_t *new;
+
+    new = malloc(sizeof(listint_t));
+    if (new == NULL)
+        return (NULL);
+
+    new->n = n;
+    new->next = *head;
+    *head = new;
+
+    return (new);
+}
+
+/**
+ * free_listint - frees a listint_t list
+ * @head: pointer to list to be freed
+ * Return: void
+ */
+void free_listint(listint_t *head)
+{
+    listint_t *current;
+
+    while (head != NULL)
+    {
+        current = head;
+        head = head->next;
+        free(current);
+    }
+}
+```
+  
+```
+carrie@ubuntu:~/0x00$ cat 10-main.c
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
+#include "lists.h"
+
+/**
+ * main - check the code
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    listint_t *head;
+    listint_t *current;
+    listint_t *temp;
+    int i;
+
+    head = NULL;
+    add_nodeint(&head, 0);
+    add_nodeint(&head, 1);
+    add_nodeint(&head, 2);
+    add_nodeint(&head, 3);
+    add_nodeint(&head, 4);
+    add_nodeint(&head, 98);
+    add_nodeint(&head, 402);
+    add_nodeint(&head, 1024);
+    print_listint(head);
+
+    if (check_cycle(head) == 0)
+        printf("Linked list has no cycle\n");
+    else if (check_cycle(head) == 1)
+        printf("Linked list has a cycle\n");
+
+    current = head;
+    for (i = 0; i < 4; i++)
+        current = current->next;
+    temp = current->next;
+    current->next = head;
+
+    if (check_cycle(head) == 0)
+        printf("Linked list has no cycle\n");
+    else if (check_cycle(head) == 1)
+        printf("Linked list has a cycle\n");
+
+    current = head;
+    for (i = 0; i < 4; i++)
+        current = current->next;
+    current->next = temp;
+
+    free_listint(head);
+
+    return (0);
+}
+```
+ 
+```
+carrie@ubuntu:~/0x00$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 10-main.c 10-check_cycle.c 10-linked_lists.c -o cycle
+carrie@ubuntu:~/0x00$$ ./cycle 
+1024
+402
+98
+4
+3
+2
+1
+0
+Linked list has no cycle
+Linked list has a cycle
+carrie@ubuntu:~/0x00$
+```
+  
+<h2>11. Hello, write</h2>
+Write a Python script that prints exactly <code>and that piece of art is useful - Dora Korpar, 2015-10-19</code>, followed by a new line.
+<ul>
+  <li>Use the function <code>write</code> from the <code>sys</code> module.</li>
+  <li>You are not allowed to use <code>print</code>.</li>
+  <li>Your script should print to <code>stderr</code>.</li>
+  <li>Your script should exit with the status code <code>1</code>.</li>
+</ul>
+File: <a href="(https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/100-write.py">100-write.py></a> <br><br>
+  
+```
+guillaume@ubuntu:~/py/0x00$ ./100-write.py
+and that piece of art is useful - Dora Korpar, 2015-10-19
+guillaume@ubuntu:~/py/0x00$ echo $?
+1
+guillaume@ubuntu:~/py/0x00$ ./100-write.py 2> q
+guillaume@ubuntu:~/py/0x00$ cat q
+and that piece of art is useful - Dora Korpar, 2015-10-19
+guillaume@ubuntu:~/py/0x00$ 
+```
+  
+<h2>12. Compile</h2>  
+Write a script that compiles a Python script file.
+<ul>
+  <li>The Python file name will be stored in the environment variable <code>$PYFILE</code>.</li>
+  <li>The output filename has to be <code>$PYFILEc</code> (ex: <code>export PYFILE=my_main.py</code> => output filename: <code>my_main.pyc</code>).</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/101-compile">101-compile</a> <br><br>
+  
+```
+guillaume@ubuntu:~/py/0x00$ cat main.py 
+#!/usr/bin/python3
+print("Best School")
+
+guillaume@ubuntu:~/py/0x00$ export PYFILE=main.py
+guillaume@ubuntu:~/py/0x00$ ./101-compile
+Compiling main.py ...
+guillaume@ubuntu:~/py/0x00$ ls
+101-compile  main.py  main.pyc
+guillaume@ubuntu:~/py/0x00$ cat main.pyc | zgrep -c "Best School"
+1
+guillaume@ubuntu:~/py/0x00$ od -t x1 main.pyc # SYSTEM DEPENDANT => CAN BE DIFFERENT
+0000000 ee 0c 0d 0a 91 26 3e 58 31 00 00 00 e3 00 00 00
+0000020 00 00 00 00 00 00 00 00 00 02 00 00 00 40 00 00
+0000040 00 73 0e 00 00 00 65 00 00 64 00 00 83 01 00 01
+0000060 64 01 00 53 29 02 7a 10 48 6f 6c 62 65 72 74 6f
+0000100 6e 20 53 63 68 6f 6f 6c 4e 29 01 da 05 70 72 69
+0000120 6e 74 a9 00 72 02 00 00 00 72 02 00 00 00 fa 07
+0000140 6d 61 69 6e 2e 70 79 da 08 3c 6d 6f 64 75 6c 65
+0000160 3e 02 00 00 00 73 00 00 00 00
+0000172
+guillaume@ubuntu:~/py/0x00$   
+```  
+  
+<h2>13. ByteCode -> Python #1</h2>  
+Write the Python function <code>def magic_calculation(a, b):<code> that does exactly the same as the Python bytecode below. 
+ 
+```  
+ 3           0 LOAD_CONST               1 (98)
+              3 LOAD_FAST                0 (a)
+              6 LOAD_FAST                1 (b)
+              9 BINARY_POWER
+             10 BINARY_ADD
+             11 RETURN_VALUE
+```  
+  
+<ul>
+  <li>Tips on Python Bytecode can be found <a href ="https://docs.python.org/3.4/library/dis.html">here</a>.</li>
+</ul>  
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py">102-magic_calculation.py</a> <br><br> 
+ 
+<h2>13. ByteCode -> Python #1</h2>
+A header file containing a prototype of all the functions used in the C file.
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/lists.h">lists.h</a>
