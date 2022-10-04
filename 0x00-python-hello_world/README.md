@@ -73,7 +73,9 @@ guillaume@ubuntu:~/py/0x00$
 ```
 
 <h2>1. Run inline</h2>
-Write a Shell script that runs Python code. <br> The Python code will be saved in the environment variable <code>$PYCODE</code>. <br> File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/1-run_inline">1-run_inline</a> <br><br>
+Write a Shell script that runs Python code. <br> 
+The Python code will be saved in the environment variable <code>$PYCODE</code>. <br> 
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/1-run_inline">1-run_inline</a> <br><br>
 
 ```
 guillaume@ubuntu:~/py/0x00$ export PYCODE='print(f"Best School: {88+10}")'
@@ -83,7 +85,11 @@ guillaume@ubuntu:~/py/0x00$
 ```
 
 <h2>2. Hello, print</h2>
-Write a Python script that prints exactly `"Programming is like building a multilingual puzzle`, followed by a new line. <br><ul><li>Use the function <code>print</code>.</li></ul>File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/2-print.py">2-print.py</a> <br><br>
+Write a Python script that prints exactly <code>"Programming is like building a multilingual puzzle</code>, followed by a new line. <br>
+<ul>
+  <li>Use the function <code>print</code>.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/2-print.py">2-print.py</a> <br><br>
 
 ```
 guillaume@ubuntu:~/py/0x00$ ./2-print.py 
