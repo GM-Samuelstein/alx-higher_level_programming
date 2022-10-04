@@ -57,7 +57,9 @@ HELLO, WORLD!
 <h1 align="center">TASKS</h1>
 
 <h2>0. Run Python file</h2>
-Write a Shell script that runs a Python script. <br>The Python file name will be saved in the environment variable <code>$PYFILE</code>. <br> File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/0-run">0-run</a> <br><br>
+Write a Shell script that runs a Python script.
+The Python file name will be saved in the environment variable <code>$PYFILE</code>.
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/0-run">0-run</a> <br><br>
 
 ```
 guillaume@ubuntu:~/py/0x00$ cat main.py 
