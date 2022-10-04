@@ -34,9 +34,70 @@ IF/ELSE, LOOPS, FUNCTIONS.
 <li>What are the arithmetic operators and how to use them.</li>
 </ul>
 
-<h2 align="center">TASKS</h2>
+<h1 align="center">TASKS</h1>
 
-|Filename|Details|
-|---|---|
-|[0-positive_or_negative.py]()|This [program](https://github.com/holbertonschool/0x01.py/blob/master/0-positive_or_negative_py) will assign a random signed number to the variable `number` each time it is executed. Complete the source code in order to print whether the number stored in the variable `number` is positive or negative. The output of the program should be: <ul><li>The number, followed by <ul><li>if the number is greater than 0: `is positive`</li><li>if the number is 0: `is zero`</li><li>if the number is less than 0: `is negative`</li></ul></li><li>followed by a new line.</li></ul>|
-|[1-last_digit.py]()|This [program](https://github.com/holbertonschool/0x01.py/blob/master/1-last_digit_py) will assign a random signed number to the variable `number` each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable `number`.|
+<h2>0. Positive anything is better than negative nothing<h2>
+This <a href="https://github.com/holbertonschool/0x01.py/blob/master/0-positive_or_negative_py">program</a> will assign a random signed number to the variable <code>number</code> each time it is executed. Complete the source code in order to print whether the number stored in the variable <code>number</code> is positive or negative. <br>
+The output of the program should be: 
+<ul>
+<li>The number, followed by 
+<ul>
+<li>if the number is greater than 0: <code>is positive</code></li>
+<li>if the number is 0: <code>is zero</code></li>
+<li>if the number is less than 0: <code>is negative</code></li>
+</ul>
+</li>
+<li>followed by a new line.</li></ul>
+File: <a href="">0-positive_or_negative.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ ./0-positive_or_negative.py 
+-4 is negative
+guillaume@ubuntu:~/0x01$ ./0-positive_or_negative.py 
+0 is zero
+guillaume@ubuntu:~/0x01$ ./0-positive_or_negative.py 
+-3 is negative
+guillaume@ubuntu:~/0x01$ ./0-positive_or_negative.py 
+-10 is negative
+guillaume@ubuntu:~/0x01$ ./0-positive_or_negative.py 
+10 is positive
+guillaume@ubuntu:~/0x01$ ./0-positive_or_negative.py 
+-5 is negative
+guillaume@ubuntu:~/0x01$ ./0-positive_or_negative.py 
+6 is positive
+guillaume@ubuntu:~/0x01$ ./0-positive_or_negative.py 
+7 is positive
+guillaume@ubuntu:~/0x01$ ./0-positive_or_negative.py 
+5 is positive
+guillaume@ubuntu:~/0x01$ 
+```
+
+<h2>1. The last digit<h2>
+This <a href="https://github.com/holbertonschool/0x01.py/blob/master/1-last_digit_py">program</a> will assign a random signed number to the variable <code>number</code> each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable <code>number</code>. <br>
+File: <a href="">1-last_digit.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ ./1-last_digit.py
+Last digit of 4205 is 5 and is less than 6 and not 0
+guillaume@ubuntu:~/0x01$ ./1-last_digit.py
+Last digit of -626 is -6 and is less than 6 and not 0
+guillaume@ubuntu:~/0x01$ ./1-last_digit.py
+Last digit of 1144 is 4 and is less than 6 and not 0
+guillaume@ubuntu:~/0x01$ ./1-last_digit.py
+Last digit of -9200 is 0 and is 0
+guillaume@ubuntu:~/0x01$ ./1-last_digit.py
+Last digit of 5247 is 7 and is greater than 5
+guillaume@ubuntu:~/0x01$ ./1-last_digit.py
+Last digit of -9318 is -8 and is less than 6 and not 0
+guillaume@ubuntu:~/0x01$ ./1-last_digit.py
+Last digit of 3369 is 9 and is greater than 5
+guillaume@ubuntu:~/0x01$ ./1-last_digit.py
+Last digit of -5224 is -4 and is less than 6 and not 0
+guillaume@ubuntu:~/0x01$ ./1-last_digit.py
+Last digit of -4485 is -5 and is less than 6 and not 0
+guillaume@ubuntu:~/0x01$ ./1-last_digit.py
+Last digit of 3850 is 0 and is 0
+guillaume@ubuntu:~/0x01$ ./1-last_digit.py
+Last digit of 5169 is 9 and is greater than 5
+guillaume@ubuntu:~/0x01$ 
+```
