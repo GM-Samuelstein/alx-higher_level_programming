@@ -119,7 +119,17 @@ guillaume@ubuntu:~/py/0x00$
 ```
   
 <h2>4. Print float</h2>
-Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py) in order to print the float stored in the variable `number` with a precision of 2 digits.<br> <ul><li> The output of the program should be: <ul> <li>`Float:`, followed by the float with only 2 digits.</li> <li>followed by a new line.</li></ul></li><li>You are not allowed to cast `number` to string.</li><li>You have to use f-strings.</li> <br> File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py">4-print_float.py</a> <br><br>
+Complete this <a href="https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py">source code</a> in order to print the float stored in the variable <code>number</code> with a precision of 2 digits.<br> 
+<ul>
+  <li> The output of the program should be: 
+    <ul> 
+      <li><code>Float:</code>, followed by the float with only 2 digits.</li> 
+      <li>followed by a new line.</li>
+    </ul>
+  </li>
+  <li>You are not allowed to cast <code>number</code> to string.</li>
+  <li>You have to use f-strings.</li>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py">4-print_float.py</a> <br><br>
   
 |Filename|Details|
 |---|---|
