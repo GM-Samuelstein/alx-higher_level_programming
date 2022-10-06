@@ -37,7 +37,7 @@ IF/ELSE, LOOPS, FUNCTIONS.
 <h1 align="center">TASKS</h1>
 
 <h2>0. Positive anything is better than negative nothing</h2>
-This <a href="https://github.com/holbertonschool/0x01.py/blob/master/0-positive_or_negative_py">program</a> will assign a random signed number to the variable <code>number</code> each time it is executed. Complete the source code in order to print whether the number stored in the variable <code>number</code> is positive or negative. <br> 
+This <a href="https://github.com/holbertonschool/0x01.py/blob/master/0-positive_or_negative_py">program</a> will assign a random signed number to the variable <code>number</code> each time it is executed. Complete the source code in order to print whether the number stored in the variable <code>number</code> is positive or negative.
 <ul>
   <li>The variable <code>number</code> will store a different value every time you will run this program.</li>
   <li>You don’t have to understand what <code>import</code>, <code>random. randint</code> do. Do not touch this code.</li>
@@ -83,7 +83,22 @@ guillaume@ubuntu:~/0x01$
 <h2>1. The last digit</h2>
 This <a href="https://github.com/holbertonschool/0x01.py/blob/master/1-last_digit_py">program</a> will assign a random signed number to the variable <code>number</code> each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable <code>number</code>. <br>
 <ul>
-  <li>
+  <li>The variable <code>number</code> will store a different value every time you will run this program.</li>
+  <li>You don’t have to understand what <code>import</code>, <code>random.randint</code> do. Do not touch this code. This line should not change: <code>number = random.randint(-10000, 10000).</code></li>
+  <li>The output of the program should be:
+    <ul>
+      <li>The string <code>Last digit of</code>, followed by</li>
+      <li>the number, followed by</li>
+      <li>the string <code>is</code>, followed by the last digit of <code>number</code>, followed by
+        <ul>
+          <li>if the last digit is greater than 5: the string <code>and is greater than 5</code>.</li>
+          <li>if the last digit is 0: the string <code>and is 0</code>.</li>
+          <li>if the last digit is less than 6 and not 0: the string <code>and is less than 6 and not 0</code>.</li>
+        </ul>
+      </li>
+      <li>followed by a new line.</li>
+    </ul>
+  </li>
 </ul>
 File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/1-last_digit.py">1-last_digit.py</a> <br><br>
 
@@ -112,3 +127,20 @@ guillaume@ubuntu:~/0x01$ ./1-last_digit.py
 Last digit of 5169 is 9 and is greater than 5
 guillaume@ubuntu:~/0x01$ 
 ```
+
+<h2>2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game</h2>
+Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
+<ul>
+  <li>You can only use one <code>print</code> function with string format.</li>
+  <li>You can only use one loop in your code.</li>
+  <li>You are not allowed to store characters in a variable.</li>
+  <li>You are not allowed to import any module.</li>
+</ul>  
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/2-print_alphabet.py">2-print_alphabet.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ ./2-print_alphabet.py
+abcdefghijklmnopqrstuvwxyzguillaume@ubuntu:~/0x01$
+```
+
+<h2>3. When I was having that alphabet soup, I never thought that it would pay off</h2>
