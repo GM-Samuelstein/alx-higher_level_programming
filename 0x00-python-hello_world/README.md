@@ -509,5 +509,5 @@ Write the Python function <code>def magic_calculation(a, b):</code> that does ex
 </ul>  
 File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py">102-magic_calculation.py</a> <br><br> 
 
-<h2>Notes<h2>
+<h2>Notes</h2>
 10; 13
