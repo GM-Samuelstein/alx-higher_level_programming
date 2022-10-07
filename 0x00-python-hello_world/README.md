@@ -508,3 +508,6 @@ Write the Python function <code>def magic_calculation(a, b):</code> that does ex
   <li>Tips on Python Bytecode can be found <a href ="https://docs.python.org/3.4/library/dis.html">here</a>.</li>
 </ul>  
 File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py">102-magic_calculation.py</a> <br><br> 
+
+<h2>Notes<h2>
+10; 13
