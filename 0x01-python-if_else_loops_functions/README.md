@@ -47,7 +47,7 @@ IF/ELSE, LOOPS, FUNCTIONS.
   <li>All your files should end with a new line.</li>
   <li>The first line of all your files should be exactly <code>#!/usr/bin/python3</code>.</li>
   <li>A <code>README.md</code> file, at the root of the folder of the project, is mandatory.</li>
-  <li>Your code should use the pycodestyle (version <code>2.8.*/<code>).</li>
+  <li>Your code should use the pycodestyle (version <code>2.8.*</code>).</li>
   <li>All your files must be executable.</li>
   <li>The length of your files will be tested using <code>wc</code>.</li>
 </ul>
@@ -176,3 +176,19 @@ abcdefghijklmnopqrstuvwxyzguillaume@ubuntu:~/0x01$
 ```
 
 <h2>3. When I was having that alphabet soup, I never thought that it would pay off</h2>
+
+<h2>4. Hexadecimal printing</h2>
+<h2>5. 00...99</h2>
+<h2>6. Inventing is a combination of brains and materials. The more brains you use, the less material you need</h2>
+<h2>7. islower</h2>
+<h2>8. To uppercase</h2>
+<h2>9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important</h2>
+<h2>10. a + b</h2>
+<h2>11. a ^ b</h2>
+<h2>12. Fizz Buzz</h2>
+<h2>13. Insert in sorted linked list</h2>
+<h2>14. Smile in the mirror</h2>
+<h2>15. Remove at position</h2>
+<h2>16. ByteCode -> Python #2</h2>
+
+<h2>Notes</h2>
