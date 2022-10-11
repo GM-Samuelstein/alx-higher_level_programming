@@ -4,7 +4,7 @@ HELLO, WORLD!
 <h3>Read</h3>
 <ul>
   <li><a href="https://docs.python.org/3/tutorial/index.html">The Python Tutorial(Python.org)</a>(Read only the first 3 chapters.)</li>
-  <li><a href="https://realpython.com/python-f-strings/">How to use string formatters in Python3</a>.</li>
+  <li><a href="https://realpython.com/python-f-strings/">How to use string formatters in Python3[RealPython]</a>.</li>
   <li><a href="https://pypi.org/project/pycodestyle/">Pycodestyle - Style Guide for Python Code.</a></li>
 </ul>
 <h3>Watch</h3>
