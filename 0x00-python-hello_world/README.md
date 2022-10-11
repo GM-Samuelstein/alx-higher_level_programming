@@ -3,13 +3,13 @@ HELLO, WORLD!
 <h2>Resources</h2>
 <h3>Read</h3>
 <ul>
-  <li><a href="https://docs.python.org/3/tutorial/index.html">The Python Tutorial(Python.org)[Chapter 1-3]</a></li>
-  <li><a href="https://realpython.com/python-f-strings/">How to use string formatters in Python3[RealPython]</a>.</li>
+  <li><a href="https://docs.python.org/3/tutorial/index.html">The Python Tutorial(Python.org)[Chapter 1-3].</a></li>
+  <li><a href="https://realpython.com/python-f-strings/">How to use string formatters in Python3[RealPython].</a></li>
   <li><a href="https://pypi.org/project/pycodestyle/">Pycodestyle - Style Guide for Python Code.</a></li>
 </ul>
 <h3>Watch</h3>
 <ul>
-  <li><a href="https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt">Derek Barnas - Learn to Program</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt">Derek Barnas - Learn to Program 1</a></li>
 </ul>
 
 <h2>Learning Objectives</h2>
