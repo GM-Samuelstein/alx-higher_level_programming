@@ -267,7 +267,7 @@ Requirements:<br>
 <ul>
   <li>Only these functions are allowed: <code>write</code>, <code>printf</code>, <code>putchar</code>, <code>puts</code>, <code>malloc</code>, <code>free</code>.</li>
 </ul>
-File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c">10-check_cycle.c</a> <br><br>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c">10-check_cycle.c</a>, <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/lists.h">lists.h</a> <br><br>
 
 ```
 carrie@ubuntu:~/0x00$ cat lists.h
