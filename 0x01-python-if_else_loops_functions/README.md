@@ -1,11 +1,13 @@
 <h1 align="center">0x01.PYTHON</h1>
 IF/ELSE, LOOPS, FUNCTIONS.
+
 <h2>Resources</h2>
 
 <h3>Read</h3>
 <ul>
-  <li><a href="https://docs.python.org/3/tutorial/controlflow.html">More Control Flow Tools(Python.org)[Chapter 4].</a></li>
+  <li><a href="https://docs.python.org/3/tutorial/controlflow.html">More Control Flow Tools[Python.org][Chapter 4].</a></li>
   <li><a href="https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3">How to use string formatters in Python3[DigitalOcean].</a></li>
+  <li><a href="https://www.geeksforgeeks.org/string-formatting-in-python/">String formatting in python[GeeksforGeeks].</a></li>
 </ul>
 
 <h3>Watch</h3>
@@ -176,12 +178,156 @@ abcdefghijklmnopqrstuvwxyzguillaume@ubuntu:~/0x01$
 ```
 
 <h2>3. When I was having that alphabet soup, I never thought that it would pay off</h2>
+Write a program that prints the ASCII alphabet, in lowercase, not followed by a new line.
+<ul>
+  <li>Print all the letters except <code>q</code> and <code>e</code>.</li>
+  <li>You can only use one <code>print</code> function with string format.</li>
+  <li>You can only use one loop in your code.</li>
+  <li>You are not allowed to store characters in a variable.</li>
+  <li>You are not allowed to import any module.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/3-print_alphabt.py">3-print_alphabt.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ ./3-print_alphabt.py
+abcdfghijklmnoprstuvwxyzguillaume@ubuntu:~/0x01$
+```
 
 <h2>4. Hexadecimal printing</h2>
+Write a program that prints all numbers from <code>0</code> to <code>98</code> in decimal and in hexadecimal (as in the following example).
+<ul>
+  <li>You can only use one <code>print</code> function with string format.</li>
+  <li>You can only use one loop in your code.</li>
+  <li>You are not allowed to store numbers or strings in a variable.</li>
+  <li>You are not allowed to import any module.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/4-print_hexa.py">4-print_hexa.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ ./4-print_hexa.py
+0 = 0x0
+1 = 0x1
+2 = 0x2
+3 = 0x3
+4 = 0x4
+5 = 0x5
+6 = 0x6
+7 = 0x7
+8 = 0x8
+9 = 0x9
+10 = 0xa
+11 = 0xb
+12 = 0xc
+13 = 0xd
+14 = 0xe
+15 = 0xf
+16 = 0x10
+17 = 0x11
+18 = 0x12
+...
+96 = 0x60
+97 = 0x61
+98 = 0x62
+guillaume@ubuntu:~/0x01$
+```
+
 <h2>5. 00...99</h2>
+Write a program that prints numbers from <code>0</code> to <code>99</code>.
+<ul>
+  <li>Numbers must be separated by <code>,</code>, followed by a space.</li>
+  <li>Numbers should be printed in ascending order, with two digits.</li>
+  <li>The last number should be followed by a new line.</li>
+  <li>You can only use no more than 2 <code>print</code> functions with string format.</li>
+  <li>You can only use one loop in your code.</li>
+  <li>You are not allowed to store numbers or strings in a variable.</li>
+  <li>You are not allowed to import any module.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/5-print_comb2.py">5-print_comb2.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ ./5-print_comb2.py
+00, 01, 02, 03, 04, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99
+guillaume@ubuntu:~/0x01$ 
+```
+
 <h2>6. Inventing is a combination of brains and materials. The more brains you use, the less material you need</h2>
+Write a program that prints all possible different combinations of two digits.
+<ul>
+  <li>Numbers must be separated by <code>,</code>, followed by a space.</li>
+  <li>The two digits must be different.</li>
+  <li><code>01</code> and <code>10</code> are considered the same combination of the two digits <code>0</code> and <code>1</code>.</li>
+  <li>Print only the smallest combination of two digits.</li>
+  <li>Numbers should be printed in ascending order, with two digits.</li>
+  <li>The last number should be followed by a new line.</li>
+  <li>You can only use no more than 3 <code>print</code> functions with string format.</li>
+  <li>You can only use no more than 2 loops in your code.</li>
+  <li>You are not allowed to store numbers or strings in a variable.</li>
+  <li>You are not allowed to import any module.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/6-print_comb3.py">6-print_comb3.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ ./6-print_comb3.py
+01, 02, 03, 04, 05, 06, 07, 08, 09, 12, 13, 14, 15, 16, 17, 18, 19, 23, 24, 25, 26, 27, 28, 29, 34, 35, 36, 37, 38, 39, 45, 46, 47, 48, 49, 56, 57, 58, 59, 67, 68, 69, 78, 79, 89
+guillaume@ubuntu:~/0x01$ 
+```
 <h2>7. islower</h2>
+Write a function that checks for lowercase character.
+<ul>
+  <li>Prototype: <code>def islower(c):</code></li>
+  <li>Returns <code>True</code> if <code>c</code> is lowercase.</li>
+  <li>Returns <code>False</code> if otherwise.</li>
+  <li>You are not allowed to import any module.</li>
+  <li>You are not allowed to use <code>str.lower()</code> and <code>str.islower()</code>.</li>
+  <li><a href="https://docs.python.org/3.4/library/functions.html?highlight=ord#ord">Tips:ord()</a></li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/7-islower.py">7-islower.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ cat 7-main.py
+#!/usr/bin/env python3
+islower = __import__('7-islower').islower
+
+print("a is {}".format("lower" if islower("a") else "upper"))
+print("H is {}".format("lower" if islower("H") else "upper"))
+print("A is {}".format("lower" if islower("A") else "upper"))
+print("3 is {}".format("lower" if islower("3") else "upper"))
+print("g is {}".format("lower" if islower("g") else "upper"))
+
+guillaume@ubuntu:~/0x01$ ./7-main.py
+a is lower
+H is upper
+A is upper
+3 is upper
+g is lower
+guillaume@ubuntu:~/0x01$ 
+```
+
 <h2>8. To uppercase</h2>
+Write a function that prints a string in uppercase followed by a new line.
+<ul>
+  <li>Prototype: <code>def uppercase(str):</code></li>
+  <li>You can only use no more than 2 <code>print</code> functions with string format.</li>
+  <li>You can only use one loop in your code.</li>
+  <li>You are not allowed to import any module.</li>
+  <li>You are not allowed to use <code>str.upper()</code> and <code>str.isupper()</code></li>
+  <li><a href="https://docs.python.org/3.4/library/functions.html?highlight=ord#ord">Tips:ord()</a></li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/8-uppercase.py">8-uppercase.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ cat 8-main.py
+#!/usr/bin/env python3
+uppercase = __import__('8-uppercase').uppercase
+
+uppercase("best")
+uppercase("Best School 98 Battery street")
+
+guillaume@ubuntu:~/0x01$ ./8-main.py
+BEST
+BEST SCHOOL 98 BATTERY STREET
+guillaume@ubuntu:~/0x01$
+```
 <h2>9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important</h2>
 <h2>10. a + b</h2>
 <h2>11. a ^ b</h2>
