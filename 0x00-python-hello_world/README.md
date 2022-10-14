@@ -511,4 +511,6 @@ File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/bl
 
 <h2>Notes</h2>
 10; 13
-<a href="#top>Back to Top</a>
+
+<br><br>
+<a href="#top">Back to Top</a>
