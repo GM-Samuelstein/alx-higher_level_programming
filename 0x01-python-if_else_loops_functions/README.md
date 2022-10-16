@@ -329,12 +329,362 @@ BEST SCHOOL 98 BATTERY STREET
 guillaume@ubuntu:~/0x01$
 ```
 <h2>9. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important</h2>
+Write a function that prints the last digit of a number.
+<ul>
+  <li>Prototype: <code>def print_last_digit(number):</code></li>
+  <li>Returns the value of the last digit.</li>
+  <li>You are not allowed to import any module.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/9-print_last_digit.py">9-print_last_digit.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ cat 9-main.py
+#!/usr/bin/env python3
+print_last_digit = __import__('9-print_last_digit').print_last_digit
+
+print_last_digit(98)
+print_last_digit(0)
+r = print_last_digit(-1024)
+print(r)
+
+guillaume@ubuntu:~/0x01$ ./9-main.py
+8044
+guillaume@ubuntu:~/0x01$ 
+```
+
 <h2>10. a + b</h2>
+Write a function that adds two integers and returns the result.
+<ul>
+  <li>Prototype: <code>def add(a, b):</code></li>
+  <li>Returns the value of <code>a + b</code></li>
+  <li>You are not allowed to import any module.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/10-add.py">10-add.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ cat 10-main.py
+#!/usr/bin/env python3
+add = __import__('10-add').add
+
+print(add(1, 2))
+print(add(98, 0))
+print(add(100, -2))
+
+guillaume@ubuntu:~/0x01$ ./10-main.py
+3
+98
+98
+guillaume@ubuntu:~/0x01$ 
+```
+
 <h2>11. a ^ b</h2>
+Write a function that computes <code>a</code> to the power of <code>b</code> and return the value.
+<ul>
+  <li>Prototype: <code>def pow(a, b):</code></li>
+  <li>Returns the value of <code>a ^ b</code></li>
+  <li>You are not allowed to import any module.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/11-pow.py">11-pow.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ cat 11-main.py
+#!/usr/bin/env python3
+pow = __import__('11-pow').pow
+
+print(pow(2, 2))
+print(pow(98, 2))
+print(pow(98, 0))
+print(pow(100, -2))
+print(pow(-4, 5))
+
+guillaume@ubuntu:~/0x01$ ./11-main.py
+4
+9604
+1
+0.0001
+-1024
+guillaume@ubuntu:~/0x01$ 
+```
+
 <h2>12. Fizz Buzz</h2>
+Write a function that prints the numbers from 1 to 100 separated by a space.
+<ul>
+  <li>For multiples of three print <code>Fizz</code> instead of the number and for multiples of five print <code>Buzz</code>.</li>
+  <li>For numbers which are multiples of both three and five print <code>FizzBuzz</code>.</li>
+  <li>Prototype: <code>def fizzbuzz():</code></li>
+  <li>Each element should be followed by a space.</li>
+  <li>You are not allowed to import any module.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/12-fizzbuzz.py">12-fizzbuzz.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ cat 12-main.py
+#!/usr/bin/env python3
+fizzbuzz = __import__('12-fizzbuzz').fizzbuzz
+
+fizzbuzz()
+print("")
+
+guillaume@ubuntu:~/0x01$ ./12-main.py | cat -e
+1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz 16 17 Fizz 19 Buzz Fizz 22 23 Fizz Buzz 26 Fizz 28 29 FizzBuzz 31 32 Fizz 34 Buzz Fizz 37 38 Fizz Buzz 41 Fizz 43 44 FizzBuzz 46 47 Fizz 49 Buzz Fizz 52 53 Fizz Buzz 56 Fizz 58 59 FizzBuzz 61 62 Fizz 64 Buzz Fizz 67 68 Fizz Buzz 71 Fizz 73 74 FizzBuzz 76 77 Fizz 79 Buzz Fizz 82 83 Fizz Buzz 86 Fizz 88 89 FizzBuzz 91 92 Fizz 94 Buzz Fizz 97 98 Fizz Buzz $
+guillaume@ubuntu:~/0x01$ 
+```
+
 <h2>13. Insert in sorted linked list</h2>
+<b>Technical interview preparation:<b>
+<ul>
+  <li>You are not allowed to google anything.</li>
+  <li>Whiteboard first.</li>
+</ul>
+Write a function in C that inserts a number into a sorted singly linked list.
+<ul>
+  <li>Prototype: <code>listint_t *insert_node(listint_t **h<code>ead, int number);</code></li>
+  <li>Return: the address of the new node, or <code>NULL</code> if it failed.</li>
+</ul>
+Files: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/13-insert_number.c">13-insert_number.c</a>, <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/lists.h">lists.h</a> <br><br>
+
+```
+carrie@ubuntu:0x01$ cat lists.h 
+#ifndef LISTS_H
+#define LISTS_H
+
+/**
+ * struct listint_s - singly linked list
+ * @n: integer
+ * @next: points to the next node
+ *
+ * Description: singly linked list node structure
+ *
+ */
+typedef struct listint_s
+{
+    int n;
+    struct listint_s *next;
+} listint_t;
+
+size_t print_listint(const listint_t *h);
+listint_t *add_nodeint_end(listint_t **head, const int n);
+void free_listint(listint_t *head);
+
+listint_t *insert_node(listint_t **head, int number);
+
+#endif /* LISTS_H */
+```
+
+```
+carrie@ubuntu:0x01$ cat linked_lists.c 
+#include <stdio.h>
+#include <stdlib.h>
+#include "lists.h"
+
+/**
+ * print_listint - prints all elements of a listint_t list
+ * @h: pointer to head of list
+ * Return: number of nodes
+ */
+size_t print_listint(const listint_t *h)
+{
+    const listint_t *current;
+    unsigned int n; /* number of nodes */
+
+    current = h;
+    n = 0;
+    while (current != NULL)
+    {
+        printf("%i\n", current->n);
+        current = current->next;
+        n++;
+    }
+
+    return (n);
+}
+
+/**
+ * add_nodeint_end - adds a new node at the end of a listint_t list
+ * @head: pointer to pointer of first node of listint_t list
+ * @n: integer to be included in new node
+ * Return: address of the new element or NULL if it fails
+ */
+listint_t *add_nodeint_end(listint_t **head, const int n)
+{
+    listint_t *new;
+    listint_t *current;
+
+    current = *head;
+
+    new = malloc(sizeof(listint_t));
+    if (new == NULL)
+        return (NULL);
+
+    new->n = n;
+    new->next = NULL;
+
+    if (*head == NULL)
+        *head = new;
+    else
+    {
+        while (current->next != NULL)
+            current = current->next;
+        current->next = new;
+    }
+
+    return (new);
+}
+
+/**
+ * free_listint - frees a listint_t list
+ * @head: pointer to list to be freed
+ * Return: void
+ */
+void free_listint(listint_t *head)
+{
+    listint_t *current;
+
+    while (head != NULL)
+    {
+        current = head;
+        head = head->next;
+        free(current);
+    }
+}
+```
+
+```
+carrie@ubuntu:0x01$ cat 13-main.c 
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
+#include "lists.h"
+
+/**
+ * main - check the code for
+ *
+ * Return: Always 0.
+ */
+int main(void)
+{
+    listint_t *head;
+
+    head = NULL;
+    add_nodeint_end(&head, 0);
+    add_nodeint_end(&head, 1);
+    add_nodeint_end(&head, 2);
+    add_nodeint_end(&head, 3);
+    add_nodeint_end(&head, 4);
+    add_nodeint_end(&head, 98);
+    add_nodeint_end(&head, 402);
+    add_nodeint_end(&head, 1024);
+    print_listint(head);
+
+    printf("-----------------\n");
+
+    insert_node(&head, 27);
+
+    print_listint(head);
+
+    free_listint(head);
+
+    return (0);
+}
+```
+
+```
+carrie@ubuntu:0x01$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 13-main.c linked_lists.c 13-insert_number.c -o insert
+carrie@ubuntu:0x01$ ./insert
+0
+1
+2
+3
+4
+98
+402
+1024
+-----------------
+0
+1
+2
+3
+4
+27
+98
+402
+1024
+carrie@ubuntu:0x01$  
+```
+
 <h2>14. Smile in the mirror</h2>
+Write a program that prints the ASCII alphabet, in reverse order, alternating lowercase and uppercase (<code>z</code> in lowercase and <code>Y</code> in uppercase) , not followed by a new line.
+<ul>
+  <li>You can only use one <code>print</code> function with string format.</li>
+  <li>You can only use one loop in your code.</li>
+  <li>You are not allowed to store characters in a variable.</li>
+  <li>You are not allowed to import any module.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/100-print_tebahpla.py">100-print_tebahpla.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ ./100-print_tebahpla.py
+zYxWvUtSrQpOnMlKjIhGfEdCbAguillaume@ubuntu:~/0x01$
+```
+
 <h2>15. Remove at position</h2>
+Write a function that creates a copy of the string, removing the character at the position <code>n</code> (not the Python way, the “C array index”).
+<ul>
+  <li>Prototype: <code>def remove_char_at(str, n):</code></li>
+  <li>You are not allowed to import any module.</li>
+</ul>
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/101-remove_char_at.py">101-remove_char_at.py</a> <br><br>
+
+```
+guillaume@ubuntu:~/0x01$ cat 101-main.py
+#!/usr/bin/env python3
+remove_char_at = __import__('101-remove_char_at').remove_char_at
+
+print(remove_char_at("Best School", 3))
+print(remove_char_at("Chicago", 2))
+print(remove_char_at("C is fun!", 0))
+print(remove_char_at("School", 10))
+print(remove_char_at("Python", -2))
+
+guillaume@ubuntu:~/0x01$ ./101-main.py
+Bes School
+Chcago
+ is fun!
+School
+Python
+guillaume@ubuntu:~/0x01$
+```
+
 <h2>16. ByteCode -> Python #2</h2>
+Write the Python function <code>def magic_calculation(a, b, c):</code> that does exactly the same as the following Python bytecode: <br><br>
+<a href="https://docs.python.org/3.4/library/dis.html">tips-ByteCode</a> 
+File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/102-magic_calculation.py">102-magic_calculation.py</a> <br><br>
+
+```
+3           0 LOAD_FAST                0 (a)
+              3 LOAD_FAST                1 (b)
+              6 COMPARE_OP               0 (<)
+              9 POP_JUMP_IF_FALSE       16
+
+  4          12 LOAD_FAST                2 (c)
+             15 RETURN_VALUE
+
+  5     >>   16 LOAD_FAST                2 (c)
+             19 LOAD_FAST                1 (b)
+             22 COMPARE_OP               4 (>)
+             25 POP_JUMP_IF_FALSE       36
+
+  6          28 LOAD_FAST                0 (a)
+             31 LOAD_FAST                1 (b)
+             34 BINARY_ADD
+             35 RETURN_VALUE
+
+  7     >>   36 LOAD_FAST                0 (a)
+             39 LOAD_FAST                1 (b)
+             42 BINARY_MULTIPLY
+             43 LOAD_FAST                2 (c)
+             46 BINARY_SUBTRACT
+             47 RETURN_VALUE
+```
 
 <h2>Notes</h2>
