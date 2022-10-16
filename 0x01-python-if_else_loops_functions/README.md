@@ -1,4 +1,4 @@
-<h1 align="center">0x01.PYTHON</h1>
+<h1 align="center" id="top">0x01.PYTHON</h1>
 IF/ELSE, LOOPS, FUNCTIONS.
 
 <h2>Resources</h2>
@@ -438,7 +438,7 @@ guillaume@ubuntu:~/0x01$
 </ul>
 Write a function in C that inserts a number into a sorted singly linked list.
 <ul>
-  <li>Prototype: <code>listint_t *insert_node(listint_t **h<code>ead, int number);</code></li>
+  <li>Prototype: <code>listint_t *insert_node(listint_t **head, int number);</code></li>
   <li>Return: the address of the new node, or <code>NULL</code> if it failed.</li>
 </ul>
 Files: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/13-insert_number.c">13-insert_number.c</a>, <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/lists.h">lists.h</a> <br><br>
@@ -656,8 +656,8 @@ guillaume@ubuntu:~/0x01$
 ```
 
 <h2>16. ByteCode -> Python #2</h2>
-Write the Python function <code>def magic_calculation(a, b, c):</code> that does exactly the same as the following Python bytecode: <br><br>
-<a href="https://docs.python.org/3.4/library/dis.html">tips-ByteCode</a> 
+Write the Python function <code>def magic_calculation(a, b, c):</code> that does exactly the same as the following Python bytecode:<br>
+<a href="https://docs.python.org/3.4/library/dis.html">tips-ByteCode</a> <br>
 File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/102-magic_calculation.py">102-magic_calculation.py</a> <br><br>
 
 ```
@@ -688,3 +688,9 @@ File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/bl
 ```
 
 <h2>Notes</h2>
+AUTH: <a href="https://github.com/GM-Samuelstein">GM-Samuelstein</a> <br>
+MSG: "You are free to use the CODE, but write your own README." <br>
+SIG: 10; 13
+
+<br><br>
+<a href="#top">Back to Top</a>
