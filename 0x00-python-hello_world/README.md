@@ -510,7 +510,9 @@ Write the Python function <code>def magic_calculation(a, b):</code> that does ex
 File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py">102-magic_calculation.py</a> <br><br> 
 
 <h2>Notes</h2>
-10; 13
+AUTH: <a href="https://github.com/GM-Samuelstein">GM-Samuelstein</a> <br>
+MSG: "You are free to use the CODE, but write your own README." <br>
+SIG: 10; 13
 
 <br><br>
 <a href="#top">Back to Top</a>
