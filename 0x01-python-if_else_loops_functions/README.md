@@ -690,7 +690,7 @@ File: <a href="https://github.com/GM-Samuelstein/alx-higher_level_programming/bl
 <h2>Notes</h2>
 AUTH: <a href="https://github.com/GM-Samuelstein">GM-Samuelstein</a> <br>
 MSG: "You are free to use the CODE, but write your own README." <br>
-SIG: 10; 13
+SIG: 13; 16
 
 <br><br>
 <a href="#top">Back to Top</a>
