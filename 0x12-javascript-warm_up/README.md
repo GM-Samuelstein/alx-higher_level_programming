@@ -1,2 +1,2 @@
-<h1 align="center">0x12. JavaScript - Warm up</h1>
+<h1 align="center">0x12. JAVASCRIPT - WARM UP</h1>
 
