@@ -1,4 +1,4 @@
-<h1 align="center"><b>0x0D-SQL_introduction</b></h1>
+<h1 align="center"><b>0x0D-SQL_INTRODUCTION</b></h1>
 
 An introduction to SQL. 
 
@@ -6,6 +6,7 @@ An introduction to SQL.
 <li>List, create and delete a database.</li>
 <li>Create and delete a table.</li>
 <li>List data in, insert new data into, update existing data in, delete data from a table.</li>
+<li>Manipulate and work with data in a table.</li>
 <li>Syntax and usage of SQL statements.</li> 
 </ul>
 
