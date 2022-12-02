@@ -12,8 +12,8 @@ An introduction to SQL.
 
 |File | Description |
 |---|---|
-|0-list_databases.sql|Lists all databases in the specified server.|
-|1-create_database_if_missing.sql||
+|0-list_databases.sql|Lists all databases in a MySQL server.|
+|1-create_database_if_missing.sql|Creates a database in a MySQL server.|
 |2-remove_database.sql||
 |3-list_tables.sql||
 |4-first_table.sql||
