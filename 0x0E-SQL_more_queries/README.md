@@ -1,1 +1,33 @@
-0x0E-SQL_more_queries
+<h1 align="center"><b>0x0E-SQL MORE QUERIES</b></h1>
+
+More SQL...
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+|SQL File| Description|
+|---|---|
+|0-privileges.sql|Lists all privileges of some given users in a MySQL server.|
+|1-create_user.sql|Creates a new user in a MySQL server, and sets a password.|
+|2-create_read_user.sql|Creates a new database and a new user in a MySQL server.|
+|3-force_name.sql|Creates a new table in a database in a MySQL server.|
+|4-never_empty.sql|Creates a new table in a database in a MySQL server, and adds a default value to a field.|
+|5-unique_id.sql|Creates a new table in a database in a MySQL server, and adds a default value to a field, and also makes each field data unique.|
+|6-states.sql|Creates a new database and a new table in a MySQL server, and adds a default value to a field, and also makes each field data unique.|
+|7-cities.sql||
+|8-cities_of_california_subquery.sql||
+|9-cities_by_state_join.sql||
+|10-genre_id_by_show.sql||
+|11-genre_id_all_shows.sql||
+|12-no_genre.sql||
+|13-count_shows_by_genre.sql||
+|14-my_genres.sql||
+|15-comedy_only.sql||
+|16-shows_by_genre.sql||
+|100-not_my_genres.sql||
+|101-not_a_comedy.sql||
+|102-rating_shows.sql||
+|103-rating_genres.sql||
