@@ -22,7 +22,7 @@ An introduction to SQL.
 |7-insert_value.sql|Inserts a new row into a table in a database in a MySQL server.|
 |8-count_89.sql|Displays the number of records with a given value from a table in a database in a MySQL server.|
 |9-full_creation.sql|Creates a table in a database in a MySQL server and adds multiples rows.|
-|10-top_score.sql||
+|10-top_score.sql|Lists all records of selected fields from a table in a database in a MySQL server, in a particular order.|
 |11-best_score.sql||
 |12-no_cheating.sql||
 |13-change_class.sql||
