@@ -24,7 +24,7 @@ An introduction to SQL.
 |9-full_creation.sql|Creates a table in a database in a MySQL server and adds multiples rows.|
 |10-top_score.sql|Lists all records of selected fields from a table in a database in a MySQL server, and displays them in a particular order.|
 |11-best_score.sql|Filters out some records of selected fields from a table in a database in a MySQL server, and displays them in a particular order.|
-|12-no_cheating.sql||
+|12-no_cheating.sql|Updates an existing record in a table in a MySQL server.|
 |13-change_class.sql||
 |14-average.sql||
 |15-groups.sql||
