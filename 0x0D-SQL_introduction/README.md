@@ -5,8 +5,8 @@ An introduction to SQL.
 <ul>
 <li>List existing, create new and delete a database in a MySQL server.</li>
 <li>List existing, and create new tables in a database in a MySQL server.</li>
-<li>List data in, insert new data into, update existing data in, and delete data from a table.</li>
-<li>Manipulate and work with data in a table.</li>
+<li>List data in, insert new data into, update existing data in, and delete data from a table in a MySQL server.</li>
+<li>Manipulate and work with data in a table in a MySQL server.</li>
 <li>Syntax and usage of SQL statements.</li> 
 </ul>
 
