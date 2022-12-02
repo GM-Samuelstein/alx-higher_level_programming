@@ -21,7 +21,7 @@ An introduction to SQL.
 |6-list_values.sql|Lists all the rows of a table in a database in a MySQL server.|
 |7-insert_value.sql|Inserts a new row into a table in a database in a MySQL server.|
 |8-count_89.sql|Displays the number of records with a given value from a table in a database in a MySQL server.|
-|9-full_creation.sql||
+|9-full_creation.sql|Creates a table in a database in a MySQL server and adds multiples rows.|
 |10-top_score.sql||
 |11-best_score.sql||
 |12-no_cheating.sql||
