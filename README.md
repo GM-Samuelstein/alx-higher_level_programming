@@ -21,3 +21,6 @@ The following projects were done during Full Stack Software Engineering Studies 
 |[0x0C.PYTHON - ALMOST A CIRCLE.](https://github.com/GM-Samuelstein/alx-higher_level_programming/tree/master/0x0C-python-almost_a_circle)||
 |[0x0D.SQL - INTRODUCTION](https://github.com/GM-Samuelstein/alx-higher_level_programming/tree/master/0x0D-SQL_introduction)|An introduction to SQL. <ul><li>List existing, create new and delete a database in a MySQL server.</li><li>List existing, and create new tables in a database in a MySQL server.</li><li>List data in, insert new data into, update existing data in, and delete data from a table in a MySQL server.</li><li>Manipulate and work with data in a table in a MySQL server.</li><li>Syntax and usage of SQL statements.</li> </ul>
 |[0x0E.SQL - MORE QUERIES](https://github.com/GM-Samuelstein/alx-higher_level_programming/tree/master/0x0E-SQL_more_queries)||
+|[0x0F. PYTHON - OBJECT-RELATIONAL MAPPING](https://github.com/GM-Samuelstein/alx-higher_level_programming/tree/master/0x0F-python-object_relational_mapping)||
+|[0x12. JAVASCRIPT - WARM UP](https://github.com/GM-Samuelstein/alx-higher_level_programming/tree/master/0x12-javascript-warm_up)||
+|[0x13. JAVASCRIPT - OBJECTS, SCOPES and CLOSURES](https://github.com/GM-Samuelstein/alx-higher_level_programming/tree/master/0x13-javascript_objects_scopes_closures)||
