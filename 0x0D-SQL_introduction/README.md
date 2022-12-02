@@ -10,7 +10,7 @@ An introduction to SQL.
 <li>Syntax and usage of SQL statements.</li> 
 </ul>
 
-|File | Description |
+|SQL File | Description |
 |---|---|
 |0-list_databases.sql|Lists all databases in a MySQL server.|
 |1-create_database_if_missing.sql|Creates a database in a MySQL server.|
@@ -20,7 +20,7 @@ An introduction to SQL.
 |5-full_table.sql|Prints the full description of a table in a database in a MySQL server.|
 |6-list_values.sql|Lists all the rows of a table in a database in a MySQL server.|
 |7-insert_value.sql|Inserts a new row into a table in a database in a MySQL server.|
-|8-count_89.sql||
+|8-count_89.sql|Displays the number of records with a given value from a table in a database in a MySQL server.|
 |9-full_creation.sql||
 |10-top_score.sql||
 |11-best_score.sql||
