@@ -25,8 +25,8 @@ An introduction to SQL.
 |10-top_score.sql|Lists all records of selected fields from a table in a database in a MySQL server, and displays them in a particular order.|
 |11-best_score.sql|Filters out some records of selected fields from a table in a database in a MySQL server, and displays them in a particular order.|
 |12-no_cheating.sql|Updates an existing record in a table in a MySQL server.|
-|13-change_class.sql||
-|14-average.sql||
+|13-change_class.sql|Filters out and deletes some records of selected fields from a table in a database in a MySQL server.|
+|14-average.sql|Computes the score average of all records in a table in a database in a MySQL server.|
 |15-groups.sql||
 |16-no_link.sql||
 |100-move_to_utf8.sql||
