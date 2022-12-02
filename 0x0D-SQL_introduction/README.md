@@ -16,7 +16,7 @@ An introduction to SQL.
 |1-create_database_if_missing.sql|Creates a database in a MySQL server.|
 |2-remove_database.sql|Deletes a database in a MySQL server.|
 |3-list_tables.sql|Lists all the tables of a database in a MySQL server.|
-|4-first_table.sql||
+|4-first_table.sql|Creates a table in the current database in a MySQL server.|
 |5-full_table.sql||
 |6-list_values.sql||
 |7-insert_value.sql||
