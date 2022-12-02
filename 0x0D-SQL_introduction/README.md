@@ -19,7 +19,7 @@ An introduction to SQL.
 |4-first_table.sql|Creates a table in the current database in a MySQL server.|
 |5-full_table.sql|Prints the full description of a table in a database in a MySQL server.|
 |6-list_values.sql|Lists all the rows of a table in a database in a MySQL server.|
-|7-insert_value.sql||
+|7-insert_value.sql|Inserts a new row into a table in a database in a MySQL server.|
 |8-count_89.sql||
 |9-full_creation.sql||
 |10-top_score.sql||
