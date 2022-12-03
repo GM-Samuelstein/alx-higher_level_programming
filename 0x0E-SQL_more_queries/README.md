@@ -20,9 +20,9 @@ More SQL...
 |7-cities.sql|Creates a new database and a new table in the database, and adds NOT NULL, PRIMARY KEY, FOREIGN KEY and AUTO GENERATE attributes to one of the fields, and also makes each data in the field unique.|
 |8-cities_of_california_subquery.sql|Filters out some records of selected fields from a table in a database in a MySQL server using SQL SUBQUERY, and displays them in a particular order.|
 |9-cities_by_state_join.sql|Filters out some records of selected fields from a table in a database in a MySQL server using SQL JOIN, and displays them in a particular order.|
-|10-genre_id_by_show.sql||
-|11-genre_id_all_shows.sql||
-|12-no_genre.sql||
+|10-genre_id_by_show.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql` in a MySQL server using SQL JOIN, and displays them in a particular order.|
+|11-genre_id_all_shows.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql` in a MySQL server using SQL JOIN, and displays them in a particular order.|
+|12-no_genre.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql` in a MySQL server using SQL JOIN, and displays them in a particular order.|
 |13-count_shows_by_genre.sql||
 |14-my_genres.sql||
 |15-comedy_only.sql||
@@ -31,3 +31,4 @@ More SQL...
 |101-not_a_comedy.sql||
 |102-rating_shows.sql||
 |103-rating_genres.sql||
+|hbtn_0d_tvshows.sql||
