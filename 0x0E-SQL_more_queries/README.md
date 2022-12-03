@@ -2,7 +2,7 @@
 
 More SQL...
 <ul>
-<li></li>
+<li>Create a new user, grant the new user privileges and show all the privileges that a user has.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -11,8 +11,8 @@ More SQL...
 |SQL File| Description|
 |---|---|
 |0-privileges.sql|Lists all privileges of some given users in a MySQL server.|
-|1-create_user.sql|Creates a new user in a MySQL server, and sets a password.|
-|2-create_read_user.sql|Creates a new database and a new user in a MySQL server.|
+|1-create_user.sql|Creates a new user in a MySQL server, sets a password for the user, and grants the user ALL privileges.|
+|2-create_read_user.sql|Creates a new database and a new user in the database, sets a password for the user, and grants the user only the SELECT privilege, in a MySQL server.|
 |3-force_name.sql|Creates a new table in a database in a MySQL server.|
 |4-never_empty.sql|Creates a new table in a database in a MySQL server, and adds a default value to a field.|
 |5-unique_id.sql|Creates a new table in a database in a MySQL server, and adds a default value to a field, and also makes each field data unique.|
