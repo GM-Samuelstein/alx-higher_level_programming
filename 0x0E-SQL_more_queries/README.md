@@ -30,6 +30,7 @@ More SQL...
 |100-not_my_genres.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql`, that passes a specified condition, in a MySQL server using SQL JOIN and SQL SUBQUERY, and displays them in a particular order.|
 |101-not_a_comedy.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql`, that passes a specified condition, in a MySQL server using SQL JOIN and SQL SUBQUERY, and displays them in a particular order.|
 |102-rating_shows.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows_rate.sql`, that passes a specified condition, in a MySQL server using SQL JOIN, and displays them in a particular order.|
-|103-rating_genres.sql||
-|hbtn_0d_tvshows.sql||
+|103-rating_genres.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows_rate.sql`, that passes a specified condition, in a MySQL server using SQL JOIN, and displays them in a particular order.|
+|hbtn_0d_tvshows.sql|A SQL database dump containing three tables. <ul><li>tv_genres: A SQL table that records tv genres and their IDs.</li><li>tv_show_genres: A SQL table that records genre_IDs and show_IDs.</li><li>tv_shows: A SQL table that records tv_show titles and their IDs.</li></ul>|
 |hbtn_0d_tvshows_rate.sql||
+
