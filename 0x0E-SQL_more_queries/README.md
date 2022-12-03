@@ -13,8 +13,8 @@ More SQL...
 |0-privileges.sql|Lists all privileges of some given users in a MySQL server.|
 |1-create_user.sql|Creates a new user in a MySQL server, sets a password for the user, and grants the user ALL privileges.|
 |2-create_read_user.sql|Creates a new database and a new user in the database, sets a password for the user, and grants the user only the SELECT privilege, in a MySQL server.|
-|3-force_name.sql|Creates a new table in a database in a MySQL server.|
-|4-never_empty.sql|Creates a new table in a database in a MySQL server, and adds a default value to a field.|
+|3-force_name.sql|Creates a new table in a database in a MySQL server and sets the value of one of the fields to NOT NULL.|
+|4-never_empty.sql|Creates a new table in a database in a MySQL server, and adds a default value to one of the fields.|
 |5-unique_id.sql|Creates a new table in a database in a MySQL server, and adds a default value to a field, and also makes each field data unique.|
 |6-states.sql|Creates a new database and a new table in a MySQL server, and adds a default value to a field, and also makes each field data unique.|
 |7-cities.sql||
