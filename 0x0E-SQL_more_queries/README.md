@@ -26,7 +26,7 @@ More SQL...
 |13-count_shows_by_genre.sql|Displays the number of some selected fields from the database dump `hbtn_0d_tvshows.sql` in a MySQL server using SQL JOIN, and displays them in a particular order.|
 |14-my_genres.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql` in a MySQL server using SQL JOIN, and displays them in a particular order.|
 |15-comedy_only.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql` in a MySQL server using SQL JOIN, and displays them in a particular order.|
-|16-shows_by_genre.sql||
+|16-shows_by_genre.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql` in a MySQL server using SQL JOIN, and displays them in a particular order.|
 |100-not_my_genres.sql||
 |101-not_a_comedy.sql||
 |102-rating_shows.sql||
