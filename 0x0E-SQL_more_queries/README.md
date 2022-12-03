@@ -3,7 +3,7 @@
 More SQL...
 <ul>
 <li>Create a new user, grant the new user privileges and show all the privileges that a user has.</li>
-<li></li>
+<li>Add DEFAULT, NOT NULL, PRIMARY KEY, FOREIGN KEY, AUTO GENERATE and UNIQUE attributes to fields in a table.</li>
 <li></li>
 <li></li>
 </ul>
@@ -16,8 +16,8 @@ More SQL...
 |3-force_name.sql|Creates a new table in a database in a MySQL server and sets the value of one of the fields to NOT NULL.|
 |4-never_empty.sql|Creates a new table in a database in a MySQL server, and adds a default value to one of the fields.|
 |5-unique_id.sql|Creates a new table in a database in a MySQL server, and adds a default value to one of the fields, and also makes each field data unique.|
-|6-states.sql|Creates a new database and a new table in a MySQL server, and adds a default value to one of the fields, and also makes each data in the field unique.|
-|7-cities.sql||
+|6-states.sql|Creates a new database and a new table in the database, and adds NOT NULL, PRIMARY KEY, and AUTO GENERATE attributes to one of the fields, and also makes each data in the field unique.|
+|7-cities.sql|Creates a new database and a new table in the database, and adds NOT NULL, PRIMARY KEY, FOREIGN KEY and AUTO GENERATE attributes to one of the fields, and also makes each data in the field unique.|
 |8-cities_of_california_subquery.sql||
 |9-cities_by_state_join.sql||
 |10-genre_id_by_show.sql||
