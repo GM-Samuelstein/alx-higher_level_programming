@@ -5,7 +5,6 @@ More SQL...
 <li>Create a new user, grant the new user privileges and show all the privileges that a user has.</li>
 <li>Add DEFAULT, NOT NULL, PRIMARY KEY, FOREIGN KEY, AUTO GENERATE and UNIQUE attributes to fields in a table.</li>
 <li>Manipulate and work with data in a table using SQL SUBQUERY and SQL JOIN.</li>
-<li></li>
 </ul>
 
 |SQL File| Description|
