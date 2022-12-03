@@ -4,7 +4,7 @@ More SQL...
 <ul>
 <li>Create a new user, grant the new user privileges and show all the privileges that a user has.</li>
 <li>Add DEFAULT, NOT NULL, PRIMARY KEY, FOREIGN KEY, AUTO GENERATE and UNIQUE attributes to fields in a table.</li>
-<li></li>
+<li>Manipulate and work with data in a table using SQL SUBQUERY and SQL JOIN.</li>
 <li></li>
 </ul>
 
@@ -24,8 +24,8 @@ More SQL...
 |11-genre_id_all_shows.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql` in a MySQL server using SQL JOIN, and displays them in a particular order.|
 |12-no_genre.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql` in a MySQL server using SQL JOIN, and displays them in a particular order.|
 |13-count_shows_by_genre.sql|Displays the number of some selected fields from the database dump `hbtn_0d_tvshows.sql` in a MySQL server using SQL JOIN, and displays them in a particular order.|
-|14-my_genres.sql||
-|15-comedy_only.sql||
+|14-my_genres.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql` in a MySQL server using SQL JOIN, and displays them in a particular order.|
+|15-comedy_only.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql` in a MySQL server using SQL JOIN, and displays them in a particular order.|
 |16-shows_by_genre.sql||
 |100-not_my_genres.sql||
 |101-not_a_comedy.sql||
