@@ -27,8 +27,8 @@ More SQL...
 |14-my_genres.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql`, that passes a specified condition, in a MySQL server using SQL JOIN, and displays them in a particular order.|
 |15-comedy_only.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql`, that passes a specified condition, in a MySQL server using SQL JOIN, and displays them in a particular order.|
 |16-shows_by_genre.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql`, that passes a specified condition, in a MySQL server using SQL JOIN, and displays them in a particular order.|
-|100-not_my_genres.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql`, that passes a specified condition, in a MySQL server using SQL JOIN, and displays them in a particular order.|
-|101-not_a_comedy.sql||
+|100-not_my_genres.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql`, that passes a specified condition, in a MySQL server using SQL JOIN and SQL SUBQUERY, and displays them in a particular order.|
+|101-not_a_comedy.sql|Filters out some records of selected fields from the database dump `hbtn_0d_tvshows.sql`, that passes a specified condition, in a MySQL server using SQL JOIN and SQL SUBQUERY, and displays them in a particular order.|
 |102-rating_shows.sql||
 |103-rating_genres.sql||
 |hbtn_0d_tvshows.sql||
