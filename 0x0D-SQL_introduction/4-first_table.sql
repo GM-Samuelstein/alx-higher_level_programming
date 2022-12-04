@@ -1,0 +1,7 @@
+-- Creates a table in the current database in a MySQL server.
+CREATE TABLE
+IF NOT EXISTS
+    `first_table`(
+        `id` INT DEFAULT NULL,
+        `name` VARCHAR(256) DEFAULT NULL
+    ) ENGINE=InnoDB DEFAULT CHARSET=utfmb4 COLLATE=utfmb4_0900-ai-ci;
