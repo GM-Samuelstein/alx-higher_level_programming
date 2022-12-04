@@ -1,6 +1,7 @@
 ![python-code](https://user-images.githubusercontent.com/104820502/192988661-4e0920fa-346e-4ba4-b4da-4f769e6aa66a.jpeg)
 
-<h1 align="center">HIGHER LEVEL PROGRAMMING-PYTHON</h1>
+<h1 align="center"><b>HIGHER LEVEL PROGRAMMING <br />PYTHON -- JAVASCRIPT -- SQL</b></h1>
+
 The following projects were done during Full Stack Software Engineering Studies at ALX SCHOOL.
 <br><br>
 
