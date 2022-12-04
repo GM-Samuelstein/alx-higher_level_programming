@@ -8,21 +8,9 @@ IF NOT EXISTS
     ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 INSERT INTO
-    `second_table` (
-        `id`,
-        `name`,
-        `score`
-    )
+    `second_table` (`id`, `name`, `score`)
 VALUES
-    (1,
-    "John",
-    10),
-    (2,
-    "Alex",
-    3),
-    (3,
-    "Bob",
-    14),
-    (4,
-    "George",
-    8);
+    (1, "John", 10),
+    (2, "Alex", 3),
+    (3, "Bob", 14),
+    (4, "George", 8);
