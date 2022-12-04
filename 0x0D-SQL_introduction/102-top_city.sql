@@ -1,5 +1,5 @@
 -- Displays the top 3 of cities temperature during July and August ordered
--- by temperature, from the table temperatures.sql.
+-- by temperature, from the table temperatures.sql
 SELECT
     `city`,
     AVG(`value`) AS `avg_temp`
