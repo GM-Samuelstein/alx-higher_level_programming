@@ -1,13 +1,12 @@
 <h1 align="center"><b>0x0D-SQL_INTRODUCTION</b></h1>
 
-An introduction to SQL. 
-
+An introduction to SQL. In the table below, you will find a brief description of what each script is doing. Here is a summary of what I learnt in this project:
 <ul>
 <li>List existing, create new and delete a database in a MySQL server.</li>
 <li>List existing, and create new tables in a database in a MySQL server.</li>
 <li>List data in, insert new data into, update existing data in, and delete data from a table in a MySQL server.</li>
 <li>Manipulate and work with data in a table in a MySQL server.</li>
-<li>Syntax and usage of Basic SQL statements.</li> 
+<li>The syntax and usage of Basic SQL statements.</li> 
 </ul>
 
 |SQL File | Description |
