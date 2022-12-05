@@ -25,8 +25,4 @@ More than a mere warm up actually, more like a crash course.
 |100-let_me_const.js||
 |101-call_me_moby.js||
 |102-add_me_maybe.js||
-|||
-|||
-|||
-|||
-|||
+|103-object_fct.js||
