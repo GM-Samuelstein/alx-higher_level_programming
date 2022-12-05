@@ -1,4 +1,4 @@
-<h1 align="center">0x12. JAVASCRIPT - WARM UP</h1>
+<h1 align="center"><b>0x12. JAVASCRIPT - WARM UP</b></h1>
 
 A full JavaScript crash course that covers a little beyond the basics. This project teaches how to use JavaScript for scripting, like Python. In the table below, you will find a brief description of what each script is doing. Here is a summary of what I learnt in this project:
 
