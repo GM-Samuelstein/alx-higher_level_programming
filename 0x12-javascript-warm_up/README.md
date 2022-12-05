@@ -1,6 +1,7 @@
 <h1 align="center">0x12. JAVASCRIPT - WARM UP</h1>
 
-More than a mere warm up actually, more like a crash course.
+A full JavaScript crash course that covers a little beyond the basics. This project teaches how to use JavaScript for scripting, like Python.
+
 <ul>
 <li></li>
 <li></li>
