@@ -5,7 +5,7 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 <ul>
 <li>How to declare and assign a variable.</li>
 <li>How to use console.log.</li>
-<li></li>
+<li>How to use and work with process.argv</li>
 <li></li>
 <li></li>
 <li></li>
