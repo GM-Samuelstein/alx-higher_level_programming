@@ -6,7 +6,7 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 <li>How to declare and assign a variable.</li>
 <li>How to use console.log.</li>
 <li>How to use and work with process.argv</li>
-<li></li>
+<li>How to use the if ...else if...else statement.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -16,7 +16,7 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 |--- |---|
 |[0-javascript_is_amazing.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/0-javascript_is_amazing.js)|Prints one line of message.|
 |[1-multi_languages.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/1-multi_languages.js)|Prints three lines of message.|
-|[2-arguments.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/2-arguments.js)||
+|[2-arguments.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/2-arguments.js)|Prints a message depending on the number of arguments passed.|
 |[3-value_argument.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/3-value_argument.js)||
 |[4-concat.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/4-concat.js)||
 |[5-to_integer.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/5-to_integer.js)||
