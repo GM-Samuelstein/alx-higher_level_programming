@@ -3,6 +3,7 @@
 A full JavaScript crash course that covers a little beyond the basics. This project teaches how to use JavaScript for scripting, like Python. In the table below, you will find a brief description of what each script is doing. Here is a summary of what I learnt in this project:
 
 <ul>
+<li>How to declare and assign a variable.</li>
 <li>How to use console.log.</li>
 <li></li>
 <li></li>
