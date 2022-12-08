@@ -24,7 +24,7 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 |[4-concat.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/4-concat.js)|Concatenates and prints two arguments passed to it.|
 |[5-to_integer.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/5-to_integer.js)|Converts an argument to an integer if it can be converted, and prints it out.|
 |[6-multi_languages_loop.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/6-multi_languages_loop.js)|Prints three lines of message from an array, using a loop.|
-|[7-multi_c.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/7-multi_c.js)||
+|[7-multi_c.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/7-multi_c.js)|Prints a message a specified number of times.|
 |[8-square.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/8-square.js)||
 |[9-add.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/9-add.js)||
 |[10-factorial.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/10-factorial.js)||
