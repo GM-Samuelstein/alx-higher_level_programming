@@ -7,7 +7,7 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 <li>How to use console.log.</li>
 <li>How to use and work with process.argv, and access its array elements.</li>
 <li>How to use the if ...else if...else statement.</li>
-<li></li>
+<li>How to check if an argument is/is not a number.</li>
 <li></li>
 <li></li>
 <li></li>
