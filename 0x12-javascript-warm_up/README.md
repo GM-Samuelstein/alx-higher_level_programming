@@ -10,7 +10,7 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 <li>How to check if an argument is/is not a number.</li>
 <li>How to create an array.</li>
 <li>How to use the for and while loop.</li>
-<li></li>
+<li>How to create a function.</li>
 <li></li>
 <li></li>
 </ul>
@@ -26,7 +26,7 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 |[6-multi_languages_loop.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/6-multi_languages_loop.js)|Prints three lines of message from an array, using a loop.|
 |[7-multi_c.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/7-multi_c.js)|Prints a message a specified number of times.|
 |[8-square.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/8-square.js)|Prints a square of a specified size.|
-|[9-add.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/9-add.js)||
+|[9-add.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/9-add.js)|Prints the addition of 2 integers passed as arguments.|
 |[10-factorial.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/10-factorial.js)||
 |[11-second_biggest.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/11-second_biggest.js)||
 |[12-object.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/12-object.js)||
