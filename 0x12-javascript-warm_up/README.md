@@ -10,7 +10,7 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 <li>How to check if an argument is/is not a number.</li>
 <li>How to create an array.</li>
 <li>How to use the for and while loop.</li>
-<li>How to create a function.</li>
+<li>How to create and use a function.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -30,7 +30,7 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 |[8-square.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/8-square.js)|Prints a square of a specified size.|
 |[9-add.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/9-add.js)|Prints the addition of 2 integers passed as arguments.|
 |[10-factorial.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/10-factorial.js)|Computes and prints the factorial of a given integer.|
-|[11-second_biggest.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/11-second_biggest.js)||
+|[11-second_biggest.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/11-second_biggest.js)|Searches for the second biggest integer in a list of arguments.|
 |[12-object.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/12-object.js)||
 |[13-add.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/13-add.js)||
 |[100-let_me_const.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/100-let_me_const.js)||
