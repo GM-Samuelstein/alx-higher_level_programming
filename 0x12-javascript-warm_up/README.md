@@ -1,7 +1,8 @@
 <h1 align="center"><b>0x12. JAVASCRIPT - WARM UP</b></h1>
 
-A full JavaScript crash course that covers a little beyond the basics. This project teaches how to use JavaScript for scripting, like Python. In the table below, you will find a brief description of what each script is doing. Here is a summary of what I learnt in this project:
+A full JavaScript crash course that covers a little beyond the basics. This project teaches how to use JavaScript for scripting, like Python.  
 
+Here is a summary of what I learnt in this project:
 <ul>
 <li>How to declare and assign a variable.</li>
 <li>How to use console.log.</li>
@@ -20,6 +21,9 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 </ul></li>
 <li>How to import and export a module.</li>
 </ul>
+
+<br />
+In the table below, you will find a brief description of what each script is doing.
 
 |JavaScript File| Description|
 |--- |---|
