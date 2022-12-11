@@ -49,6 +49,6 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 |[100-main.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/100-main.js)|Imports the module 100-let_me_const.js and makes use of it.|
 |[101-call_me_moby.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/101-call_me_moby.js)|Exports a module that contains a function that executes another function a specified number of times.|
 |[101-main.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/101-main.js)|Imports the module 101-call_me_moby.js and makes use of it.|
-|[102-add_me_maybe.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/102-add_me_maybe.js)||
+|[102-add_me_maybe.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/102-add_me_maybe.js)|Exports a module that contains a function that increments and calls another function.|
 |[102-main.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/102-main.js)|Imports the module 102-add_me_maybe.js and makes use of it.|
 |[103-object_fct.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/103-object_fct.js)||
