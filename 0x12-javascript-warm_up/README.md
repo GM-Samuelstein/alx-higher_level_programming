@@ -25,6 +25,7 @@ In the table below, you will find a brief description of what each script is doi
 <br />
 <br />
 
+
 |JavaScript File| Description|
 |--- |---|
 |[0-javascript_is_amazing.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/0-javascript_is_amazing.js)|Prints one line of message.|
