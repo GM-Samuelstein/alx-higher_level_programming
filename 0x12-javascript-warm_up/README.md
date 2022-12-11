@@ -19,13 +19,6 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 <li>update the properties and methods of the object.</li>
 </ul></li>
 <li>How to import and export a module.</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
 </ul>
 
 |JavaScript File| Description|
