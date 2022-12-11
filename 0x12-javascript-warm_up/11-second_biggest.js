@@ -1,18 +1,14 @@
 #!/usr/bin/node
 let biggest = 0;
 let secondBiggest = 0;
-if (process.argv.length < 4) {
-  console.log(secondBiggest);
-} else {
-  for (let i = 2; i < process.argv.length; i++) {
-    const n = parseInt(process.argv[i]);
-    if (n > biggest) {
-      biggest = n;
-    } else if (n > secondBiggest) {
-      secondBiggest = n;
-    } else {
-      continue;
-    } console.log(secondBiggest);
+for (let i = 2; i < process.argv.length; i++) {
+  if (parseInt(process.argv[i]) > biggest) {
+    secondBiggest = biggest;
+    biggest = parseInt(process.argv[i]);
+  } else if (parseInt(process.argv[i]) > secondBiggest) {
+    secondBiggest = parseInt(process.argv[i]);
+  } else {
+    continue;
   }
 }
-
+console.log(secondBiggest);
