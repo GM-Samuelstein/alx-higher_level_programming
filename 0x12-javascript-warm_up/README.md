@@ -45,4 +45,3 @@ A full JavaScript crash course that covers a little beyond the basics. This proj
 |[102-add_me_maybe.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/102-add_me_maybe.js)|Exports a module that contains a function that increments and calls another function.|
 |[102-main.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/102-main.js)|Imports the module 102-add_me_maybe.js and makes use of it.|
 |[103-object_fct.js](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x12-javascript-warm_up/103-object_fct.js)|Adds a new function to an existing object.|
-hfrr
