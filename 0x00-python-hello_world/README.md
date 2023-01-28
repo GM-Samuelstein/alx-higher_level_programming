@@ -1,7 +1,7 @@
 <h1 align="center" id="top">0x00.PYTHON - HELLO WORLD</h1>
 Here is a summary of what I learnt in this project:
 <ul>
-<li></li>
+<li>How to run a python file and a python code from the command line.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -13,8 +13,8 @@ In the table below, you will find a brief description of what each script is doi
 
 |File|Description|
 |---|---|
-|[0-run](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/0-run)||
-|[1-run_inline](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/1-run_inline)||
+|[0-run](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/0-run)|A shell script that runs a python file.|
+|[1-run_inline](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/1-run_inline)|A shell script that runs a python code.|
 |[2-print.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/2-print.py)||
 |[3-print_number.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/3-print_number.py)||
 |[4-print_float.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)||
