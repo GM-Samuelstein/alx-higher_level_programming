@@ -5,7 +5,7 @@ Here is a summary of what I learnt in this project:
 <li>How to use the print() function to print a line of texts.</li>
 <li>How to use and print a value stored in a variable.</li>
 <li>How to use f-strings to print formatted output.</li>
-<li></li>
+<li>How to concatenate and slice through strings.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -22,9 +22,9 @@ In the table below, you will find a brief description of what each script is doi
 |[0-run](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/0-run)|A shell script that runs a python file.|
 |[1-run_inline](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/1-run_inline)|A shell script that runs a python code.|
 |[2-print.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/2-print.py)|A python script that prints a simple message.|
-|[3-print_number.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/3-print_number.py)|A python code that makes use of a variable and prints out formatted output.|
-|[4-print_float.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)|A python code that makes use of a variable and prints out formatted output.|
-|[5-print_string.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py)||
+|[3-print_number.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/3-print_number.py)|A python code that makes use of an integer stored in a variable and prints out formatted output.|
+|[4-print_float.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)|A python code that makes use of a float stored in a variable and prints out formatted output.|
+|[5-print_string.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py)|A python code that makes use of a string stored in a variable and prints out formatted output.|
 |[6-concat.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py)||
 |[7-edges.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py)||
 |[8-concat_edges.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py)||
