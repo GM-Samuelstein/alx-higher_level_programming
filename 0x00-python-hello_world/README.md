@@ -26,7 +26,7 @@ In the table below, you will find a brief description of what each script is doi
 |[4-print_float.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)|A python code that makes use of a float stored in a variable and prints out formatted output.|
 |[5-print_string.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py)|A python code that makes use of a string stored in a variable and prints out formatted output.|
 |[6-concat.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py)|A python code that concatenates the strings stored in two different variables and prints it out as a single string.|
-|[7-edges.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py)||
+|[7-edges.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py)|A python code that slices through a given string in three different ways.|
 |[8-concat_edges.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py)||
 |[9-easter_egg.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/9-easter_egg.py)||
 |[10-check_cycle.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c)||
