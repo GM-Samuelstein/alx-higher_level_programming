@@ -33,4 +33,4 @@ In the table below, you will find a brief description of what each script is doi
 |[lists.h](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/lists.h)|The header file for the C function in "10-check_cycle.c"|
 |[100-write.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/100-write.py)|A python code that imports the sys module and prints a message to standard error.|
 |[101-compile](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/101-compile)|A shell script that compiles a python file.|
-|[102-magic_calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)||
+|[102-magic_calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)|A python function that does exactly the same as a given python bytecode.|
