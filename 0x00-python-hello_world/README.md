@@ -5,7 +5,7 @@ Here is a summary of what I learnt in this project:
 <li>How to use the print() function to print a line of texts.</li>
 <li>How to use and print a value stored in a variable.</li>
 <li>How to use f-strings to print formatted output.</li>
-<li>How to concatenate and slice through strings.</li>
+<li>How to join and slice through strings.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -25,10 +25,10 @@ In the table below, you will find a brief description of what each script is doi
 |[3-print_number.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/3-print_number.py)|A python code that makes use of an integer stored in a variable and prints out formatted output.|
 |[4-print_float.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py)|A python code that makes use of a float stored in a variable and prints out formatted output.|
 |[5-print_string.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py)|A python code that makes use of a string stored in a variable and prints out formatted output.|
-|[6-concat.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py)|A python code that concatenates the strings stored in two different variables and prints it out as a single string.|
+|[6-concat.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py)|A python code that joins the strings stored in two different variables with another string and prints it out as a single string.|
 |[7-edges.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py)|A python code that slices through a given string to create new words.|
 |[8-concat_edges.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py)|A python code that slices through a given string to create a new sentence.|
-|[9-easter_egg.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/9-easter_egg.py)||
+|[9-easter_egg.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/9-easter_egg.py)|A python code that prints “The Zen of Python”, by Tim Peters.|
 |[10-check_cycle.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c)||
 |[lists.h](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/lists.h)||
 |[100-write.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/100-write.py)||
