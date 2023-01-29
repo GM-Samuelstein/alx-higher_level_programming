@@ -29,8 +29,8 @@ In the table below, you will find a brief description of what each script is doi
 |[7-edges.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py)|A python code that slices through a given string to create new words.|
 |[8-concat_edges.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py)|A python code that slices through a given string to create a new sentence.|
 |[9-easter_egg.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/9-easter_egg.py)|A python code that prints “The Zen of Python”, by Tim Peters.|
-|[10-check_cycle.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c)||
-|[lists.h](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/lists.h)||
+|[10-check_cycle.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c)|A C function that checks if a singly linked list has a cycle in it.|
+|[lists.h](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/lists.h)|The header file for the C function in 10-check_cycle.c|
 |[100-write.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/100-write.py)||
 |[101-compile](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/101-compile)||
 |[102-magic_calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x00-python-hello_world/102-magic_calculation.py)||
