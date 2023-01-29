@@ -6,7 +6,7 @@ Here is a summary of what I learnt in this project:
 <li>How to use and print a value stored in a variable.</li>
 <li>How to use f-strings to print formatted output.</li>
 <li>How to join and slice through strings.</li>
-<li></li>
+<li>How to import the Easter egg that prints "The Zen of Python" by Tim Peters.</li>
 <li></li>
 <li></li>
 <li></li>
