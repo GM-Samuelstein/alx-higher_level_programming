@@ -1,14 +1,14 @@
 <h1 align="center" id="top">0x01.PYTHON - IF/ELSE, LOOPS, FUNCTIONS</h1>
 Here is a summary of what I learnt in this project: 
 <ul>
-<li></li>
+<li>How to use the if ... elif... else statement.</li>
 <li></li>
 <li></li>
 </ul>
 
 |File|Description|
 |---|---|
-|[0-positive_or_negative.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/0-positive_or_negative.py)||
+|[0-positive_or_negative.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/0-positive_or_negative.py)|A python program that prints a message depending on whether the number stored in a variable is positive, negative or zero.|
 |[1-last_digit.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/1-last_digit.py)||
 |[2-print_alphabet.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/2-print_alphabet.py)||
 |[3-print_alphabt.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/3-print_alphabt.py)||
