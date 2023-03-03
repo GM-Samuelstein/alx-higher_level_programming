@@ -9,7 +9,7 @@ Here is a summary of what I learnt in this project:
 |File|Description|
 |---|---|
 |[0-positive_or_negative.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/0-positive_or_negative.py)|A python program that prints a message depending on whether the number stored in a variable is positive, negative or zero.|
-|[1-last_digit.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/1-last_digit.py)||
+|[1-last_digit.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/1-last_digit.py)|A python program that prints a message depending on whether the last digit of the number stored in a variable is greater r than 5, equal to zero, or anything else.|
 |[2-print_alphabet.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/2-print_alphabet.py)||
 |[3-print_alphabt.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/3-print_alphabt.py)||
 |[4-print_hexa.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/4-print_hexa.py)||
