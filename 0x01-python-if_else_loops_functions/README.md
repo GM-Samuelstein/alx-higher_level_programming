@@ -2,7 +2,7 @@
 Here is a summary of what I learnt in this project: 
 <ul>
 <li>How to use the if ... elif ... else statement.</li>
-<li></li>
+<li>How to import a module and access a function from the module.</li>
 <li></li>
 </ul>
 
