@@ -3,6 +3,14 @@ Here is a summary of what I learnt in this project:
 <ul>
 <li>How to use the if ... elif ... else statement.</li>
 <li>How to import a module and access a function from the module.</li>
+<li>How to use the range() function.</li>
+<li>How to use str.format to print formatted output.</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 <li></li>
 </ul>
 
