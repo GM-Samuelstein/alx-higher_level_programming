@@ -2,10 +2,10 @@
 
 def fizzbuzz():
     """
-    A python function that prints the numbers from 1 to 100. 
-    
-    Multiples of three are printed as Fizz, multiples of 
-    five are printed as Buzz, while multiples of both three and five 
+    A python function that prints the numbers from 1 to 100.
+
+    Multiples of three are printed as Fizz, multiples of
+    five are printed as Buzz, while multiples of both three and five
     are printed as FizzBuzz.
     """
     for number in range(1, 101):
