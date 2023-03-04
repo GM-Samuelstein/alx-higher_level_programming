@@ -4,4 +4,4 @@ for number in range(90, 64, -1):
         number = number + 32
     else:
         number = number
-    print(f"{number:c}", end="")
+    print("{:c}".format(number), end="")
