@@ -38,7 +38,8 @@ Here is a summary of what I learnt in this project:
 |[10-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/10-main.py)|A python file that tests the function defined in 10-main.py.|
 |[11-pow.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/11-pow.py)|A python function that computes 'a' to the power of 'b'.|
 |[11-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/11-main.py)|A python file that tests the function defined in 11-pow.py.|
-|[12-fizzbuzz.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/12-fizzbuzz.py)||
+|[12-fizzbuzz.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/12-fizzbuzz.py)|A python function that prints the numbers from 1 to 100 separated by a space. Multiples of three are printed as Fizz,multiples of five are printed as Buzz, while multiples of both three and five are printed as FizzBuzz.|
+|[12-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/12-main.py)|A python file that tests the function defined in 12-fizzbuzz.py.|
 |[13-insert_number.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/13-insert_number.c)|A C function that inserts a number into a sorted singly linked list.|
 |[lists.h](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/lists.h)|The header file for the C function in "13-insert_number.c"|
 |[100-print_tebahpla.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/100-print_tebahpla.py)||
