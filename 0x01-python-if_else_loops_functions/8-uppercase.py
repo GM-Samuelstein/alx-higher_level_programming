@@ -6,7 +6,7 @@ def uppercase(str):
     """
     for i in range(len(str)):
         if ord(str[i]) >= 97 and ord(str[i]) <= 122:
-            char = 32
+            char = ord(str[i]) - 32
         else:
-            char = 0
-        print("{:c}".format(ord(str[i]) - char), end="")
+            char = ord(str[i])
+        print("{:c}".format(char), end="")
