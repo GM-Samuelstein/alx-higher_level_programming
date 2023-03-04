@@ -20,8 +20,8 @@ Here is a summary of what I learnt in this project:
 |[1-last_digit.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/1-last_digit.py)|A python program that prints a message depending on whether the last digit of the number stored in a variable is greater than 5, equal to zero, or anything else.|
 |[2-print_alphabet.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/2-print_alphabet.py)|A python program that prints the ASCII alphabet in lowercase.|
 |[3-print_alphabt.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/3-print_alphabt.py)|A python program that prints the ASCII alphabet in lowercase, while omitting the letters 'e' and 'q'.|
-|[4-print_hexa.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/4-print_hexa.py)|A python program that prints all numbers from 0 to 98 in decimal and in hexadecimal|
-|[5-print_comb2.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/5-print_comb2.py)||
+|[4-print_hexa.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/4-print_hexa.py)|A python program that prints all numbers from 0 to 98 in decimal and in hexadecimal.|
+|[5-print_comb2.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/5-print_comb2.py)|A python program that prints numbers from 0 to 99.|
 |[6-print_comb3.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/6-print_comb3.py)||
 |[7-islower.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/7-islower.py)||
 |[8-uppercase.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/8-uppercase.py)||
