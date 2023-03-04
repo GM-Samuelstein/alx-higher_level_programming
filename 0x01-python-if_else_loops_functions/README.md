@@ -5,7 +5,7 @@ Here is a summary of what I learnt in this project:
 <li>How to import a module and access a function from the module.</li>
 <li>How to use the range() function.</li>
 <li>How to use str.format() to print formatted output.</li>
-<li>How to work with the :c and :f format specifiers.</li>
+<li>How to work with the :c and :x format specifiers.</li>
 <li>How to use 'break' and 'continue' in if blocks.</li>
 <li></li>
 <li></li>
@@ -19,7 +19,7 @@ Here is a summary of what I learnt in this project:
 |[0-positive_or_negative.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/0-positive_or_negative.py)|A python program that prints a message depending on whether the number stored in a variable is positive, negative or zero.|
 |[1-last_digit.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/1-last_digit.py)|A python program that prints a message depending on whether the last digit of the number stored in a variable is greater than 5, equal to zero, or anything else.|
 |[2-print_alphabet.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/2-print_alphabet.py)|A python program that prints the ASCII alphabet in lowercase.|
-|[3-print_alphabt.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/3-print_alphabt.py)||
+|[3-print_alphabt.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/3-print_alphabt.py)|A python program that prints the ASCII alphabet in lowercase, while omitting the letters 'e' and 'q'.|
 |[4-print_hexa.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/4-print_hexa.py)||
 |[5-print_comb2.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/5-print_comb2.py)||
 |[6-print_comb3.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/6-print_comb3.py)||
