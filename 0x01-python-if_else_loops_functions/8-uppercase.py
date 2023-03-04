@@ -9,6 +9,5 @@ def uppercase(str):
             char = 32
         else:
             char = 0
-            
         print("{:c}".format(ord(str[i]) - char), end="")
     print()
