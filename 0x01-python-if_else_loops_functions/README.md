@@ -32,7 +32,8 @@ Here is a summary of what I learnt in this project:
 |[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/7-main.py)|A python file that tests the function defined in 7-islower.py.|
 |[8-uppercase.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/8-uppercase.py)|A python function that prints a string in uppercase.|
 |[8-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/8-main.py)|A python file that tests the function defined in 8-uppercase.py.|
-|[9-print_last_digit.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/9-print_last_digit.py)||
+|[9-print_last_digit.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/9-print_last_digit.py)|A python function that prints the last digit of a number.|
+|[9-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/9-main.py)|A python file that tests the function defined in 9-print_last_digit.py.|
 |[10-add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/10-add.py)||
 |[11-pow.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/11-pow.py)||
 |[12-fizzbuzz.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/12-fizzbuzz.py)||
