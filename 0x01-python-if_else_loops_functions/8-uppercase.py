@@ -10,3 +10,5 @@ def uppercase(str):
         else:
             char = ord(str[i])
         print("{:c}".format(char), end="")
+    
+    print()
