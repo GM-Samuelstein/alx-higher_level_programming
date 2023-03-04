@@ -9,16 +9,16 @@ Here is a summary of what I learnt in this project:
 
 |File|Description|
 |---|---|
-|[0-add.py]()||
-|[add_0.py]()||
-|[1-calculation.py]()||
-|[calculator_1.py]()||
-|[2-args.py]()||
-|[3-infinite_add.py]()||
-|[4-hidden_discovery.py]()||
-|[5-variable_load.py]()||
-|[variable_load_5.py]()||
-|[100-my_calculator.py]()||
-|[101-easy_print.py]()||
-|[102-magic_calculation.py]()||
-|[103-fast_alphabet.py]()||
+|[0-add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/0-add.py)||
+|[add_0.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/add_0.py)||
+|[1-calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/1-calculation.py)||
+|[calculator_1.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/calculator_1.py)||
+|[2-args.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/2-args.py)||
+|[3-infinite_add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/3-infinite_add.py)||
+|[4-hidden_discovery.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/4-hidden_discovery.py)||
+|[5-variable_load.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/5-variable_load.py)||
+|[variable_load_5.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/variable_load_5.py)||
+|[100-my_calculator.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/100-my_calculator.py)||
+|[101-easy_print.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/101-easy_print.py)||
+|[102-magic_calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/102-magic_calculation.py)|A python function that does exactly the same as a given python bytecode.|
+|[103-fast_alphabet.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/103-fast_alphabet.py)||
