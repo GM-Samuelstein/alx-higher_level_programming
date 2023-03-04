@@ -11,12 +11,6 @@ Here is a summary of what I learnt in this project:
 <li>How to define a function.</li>
 <li>How to import a function and use it in a python program.</li>
 <li>How to use the ord(c) function.</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
 </ul>
 
 |File|Description|
