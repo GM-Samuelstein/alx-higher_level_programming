@@ -12,4 +12,4 @@ def uppercase(str):
 
         print("{:c}".format(char), end="")
 
-    print()
+    print("")
