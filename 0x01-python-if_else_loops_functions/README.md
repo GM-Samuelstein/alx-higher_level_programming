@@ -24,6 +24,7 @@ Here is a summary of what I learnt in this project:
 |[5-print_comb2.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/5-print_comb2.py)|A python program that prints numbers from 0 to 99.|
 |[6-print_comb3.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/6-print_comb3.py)|A python program that prints all possible different combinations of two digits.|
 |[7-islower.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/7-islower.py)||A python function that checks for lowercase character.|
+|[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/7-main.py)|A python file that tests the function defined in 7-islower.py.|
 |[8-uppercase.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/8-uppercase.py)||
 |[9-print_last_digit.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/9-print_last_digit.py)||
 |[10-add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/10-add.py)||
