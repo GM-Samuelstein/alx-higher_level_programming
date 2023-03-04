@@ -9,7 +9,7 @@ def uppercase(str):
             char = ord(str[i]) - 32
         else:
             char = ord(str[i])
-            
+
         print("{:c}".format(char), end="")
-    
+
     print()
