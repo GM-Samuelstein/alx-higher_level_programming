@@ -22,8 +22,8 @@ Here is a summary of what I learnt in this project:
 |[3-print_alphabt.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/3-print_alphabt.py)|A python program that prints the ASCII alphabet in lowercase, while omitting the letters 'e' and 'q'.|
 |[4-print_hexa.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/4-print_hexa.py)|A python program that prints all numbers from 0 to 98 in decimal and in hexadecimal.|
 |[5-print_comb2.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/5-print_comb2.py)|A python program that prints numbers from 0 to 99.|
-|[6-print_comb3.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/6-print_comb3.py)|A python program that prints all possible different combinations of two digits. |
-|[7-islower.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/7-islower.py)||
+|[6-print_comb3.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/6-print_comb3.py)|A python program that prints all possible different combinations of two digits.|
+|[7-islower.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/7-islower.py)||A python function that checks for lowercase character.|
 |[8-uppercase.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/8-uppercase.py)||
 |[9-print_last_digit.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/9-print_last_digit.py)||
 |[10-add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/10-add.py)||
