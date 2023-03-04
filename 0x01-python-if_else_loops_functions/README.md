@@ -6,7 +6,7 @@ Here is a summary of what I learnt in this project:
 <li>How to use the range() function.</li>
 <li>How to use str.format() to print formatted output.</li>
 <li>How to work with the :c and :f format specifiers.</li>
-<li></li>
+<li>How to use 'break' and 'continue' in if blocks.</li>
 <li></li>
 <li></li>
 <li></li>
