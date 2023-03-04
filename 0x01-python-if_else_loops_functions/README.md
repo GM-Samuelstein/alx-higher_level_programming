@@ -9,7 +9,7 @@ Here is a summary of what I learnt in this project:
 <li>How to work with the :c and :x format specifiers.</li>
 <li>How to use 'break' and 'continue' in if statements.</li>
 <li>How to define a function.</li>
-<li></li>
+<li>How to import a function and use it in a python program.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -30,7 +30,8 @@ Here is a summary of what I learnt in this project:
 |[6-print_comb3.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/6-print_comb3.py)|A python program that prints all possible different combinations of two digits.|
 |[7-islower.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/7-islower.py)|A python function that checks for lowercase character.|
 |[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/7-main.py)|A python file that tests the function defined in 7-islower.py.|
-|[8-uppercase.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/8-uppercase.py)||
+|[8-uppercase.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/8-uppercase.py)|A python function that prints a string in uppercase.|
+|[8-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/8-main.py)|A python file that tests the function defined in 8-uppercase.py.|
 |[9-print_last_digit.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/9-print_last_digit.py)||
 |[10-add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/10-add.py)||
 |[11-pow.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/11-pow.py)||
