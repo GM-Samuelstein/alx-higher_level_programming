@@ -19,6 +19,7 @@ Here is a summary of what I learnt in this project:
 |---|---|
 |[0-add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/0-add.py)|A python program that imports the function <code>def add(a, b):</code> from the file <code>add_0.py</code> and makes use of the imported function.|
 |[add_0.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/add_0.py)|A python function that adds two integers.|
+|[0-import_add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/0-import_add.py)|A python file that checks to make sure the code in <code>0-add.py</code> is not executed when imported.|
 |[1-calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/1-calculation.py)||
 |[calculator_1.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/calculator_1.py)||
 |[2-args.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/2-args.py)||
