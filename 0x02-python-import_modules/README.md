@@ -9,8 +9,8 @@ Here is a summary of what I learnt in this project:
 
 |File|Description|
 |---|---|
-|[0-add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/0-add.py)||
-|[add_0.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/add_0.py)||
+|[0-add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/0-add.py)|A python program that imports the function <code>def add(a, b):</code> from the file <code>add_0.py</code> and makes use of it.|
+|[add_0.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/add_0.py)|A python function that adds two integers.|
 |[1-calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/1-calculation.py)||
 |[calculator_1.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/calculator_1.py)||
 |[2-args.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/2-args.py)||
