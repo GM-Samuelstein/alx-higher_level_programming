@@ -1,6 +1,14 @@
 <h1 align="center" id="top">0x02.PYTHON - IMPORT, MODULES</h1>
 Here is a summary of what I learnt in this project: 
 <ul>
+<li>How to import a function from another file(module) and how to use the imported function.</li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
 <li></li>
 <li></li>
 <li></li>
@@ -9,7 +17,7 @@ Here is a summary of what I learnt in this project:
 
 |File|Description|
 |---|---|
-|[0-add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/0-add.py)|A python program that imports the function <code>def add(a, b):</code> from the file <code>add_0.py</code> and makes use of it.|
+|[0-add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/0-add.py)|A python program that imports the function <code>def add(a, b):</code> from the file <code>add_0.py</code> and makes use of the imported function.|
 |[add_0.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/add_0.py)|A python function that adds two integers.|
 |[1-calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/1-calculation.py)||
 |[calculator_1.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/calculator_1.py)||
