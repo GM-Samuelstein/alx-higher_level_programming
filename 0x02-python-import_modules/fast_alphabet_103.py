@@ -1,0 +1,3 @@
+#!/usr/bin/python3
+LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+print(LETTERS)
