@@ -1,2 +1,3 @@
 #!/usr/bin/python3
-import fast_alphabet_103
+if __name__ == "__main__":
+    import fast_alphabet_103
