@@ -4,7 +4,7 @@ Here is a summary of what I learnt in this project:
 <li>How to import a function or functions from another file(module) and how to use the imported function(s).</li>
 <li>How to use the sys module to take command line arguments.</li>
 <li>How to use the built-in function <code>dir()</code>.</li>
-<li></li>
+<li>How to import a variable or variables from another file(module) and how to use the imported variable(s).</li>
 <li></li>
 <li></li>
 <li></li>
@@ -27,7 +27,7 @@ Here is a summary of what I learnt in this project:
 |[4-hidden_discovery.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/4-hidden_discovery.py)|A python program that prints all the names defined by the compiled module hidden_4.pyc|
 |[hidden_4.pyc](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/hidden_4.pyc)|A compiled python module that contains some definitions.|
 |[5-variable_load.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/5-variable_load.py)||
-|[variable_load_5.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/variable_load_5.py)||
+|[variable_load_5.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/variable_load_5.py)|A python module that contains the definition of variable <code>a</code>.|
 |[100-my_calculator.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/100-my_calculator.py)||
 |[101-easy_print.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/101-easy_print.py)||
 |[102-magic_calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/102-magic_calculation.py)|A python function that does exactly the same as a given python bytecode.|
