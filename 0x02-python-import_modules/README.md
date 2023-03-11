@@ -28,7 +28,7 @@ Here is a summary of what I learnt in this project:
 |[hidden_4.pyc](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/hidden_4.pyc)|A compiled python module that contains some definitions.|
 |[5-variable_load.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/5-variable_load.py)|A python program that imports the variable <code>a</code> from the module variable_load_5.py and makes use of the imported variable.|
 |[variable_load_5.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/variable_load_5.py)|A python module that contains the variable definition: <code>a</code>.|
-|[100-my_calculator.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/100-my_calculator.py)||
+|[100-my_calculator.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/100-my_calculator.py)|A python program that imports all functions from the file calculator_1.py and handles basic operations.|
 |[101-easy_print.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/101-easy_print.py)||
 |[102-magic_calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/102-magic_calculation.py)|A python function that does exactly the same as a given python bytecode.|
 |[103-fast_alphabet.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/103-fast_alphabet.py)||
