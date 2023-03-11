@@ -1,7 +1,7 @@
 <h1 align="center" id="top">0x02.PYTHON - IMPORT, MODULES</h1>
 Here is a summary of what I learnt in this project: 
 <ul>
-<li>How to import a function from another file(module) and how to use the imported function.</li>
+<li>How to import a function or functions from another file(module) and how to use the imported function(s).</li>
 <li></li>
 <li></li>
 <li></li>
