@@ -26,7 +26,7 @@ Here is a summary of what I learnt in this project:
 |[3-infinite_add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/3-infinite_add.py)|A program that prints the result of the addition of all arguments.|
 |[4-hidden_discovery.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/4-hidden_discovery.py)|A python program that prints all the names defined by the compiled module hidden_4.pyc|
 |[hidden_4.pyc](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/hidden_4.pyc)|A compiled python module that contains some definitions.|
-|[5-variable_load.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/5-variable_load.py)||
+|[5-variable_load.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/5-variable_load.py)|A python program that imports the variable: <code>a</code> from the module variable_load_5.py and makes use of the imported variable.|
 |[variable_load_5.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/variable_load_5.py)|A python module that contains the variable definition: <code>a</code>.|
 |[100-my_calculator.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/100-my_calculator.py)||
 |[101-easy_print.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/101-easy_print.py)||
