@@ -3,7 +3,7 @@ Here is a summary of what I learnt in this project:
 <ul>
 <li>How to import a function or functions from another file(module) and how to use the imported function(s).</li>
 <li>How to use the sys module to take command line arguments.</li>
-<li>How to use the built-in function dir().</li>
+<li>How to use the built-in function <code>dir()</code>.</li>
 <li></li>
 <li></li>
 <li></li>
