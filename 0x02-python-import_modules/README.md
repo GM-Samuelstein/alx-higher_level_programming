@@ -6,13 +6,6 @@ Here is a summary of what I learnt in this project:
 <li>How to use the built-in function <code>dir()</code> to list all the names that a module defines.</li>
 <li>How to import a variable or variables from another file(module) and how to use the imported variable(s).</li>
 <li>How to create a module.</li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
 </ul>
 
 |File|Description|
