@@ -3,7 +3,7 @@ Here is a summary of what I learnt in this project:
 <ul>
 <li>How to import a function or functions from another file(module) and how to use the imported function(s).</li>
 <li>How to use the sys module to take command line arguments.</li>
-<li></li>
+<li>How to use the built-in function dir().</li>
 <li></li>
 <li></li>
 <li></li>
@@ -25,6 +25,7 @@ Here is a summary of what I learnt in this project:
 |[2-args.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/2-args.py)|A python program that prints the number of and the list of its arguments.|
 |[3-infinite_add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/3-infinite_add.py)|A program that prints the result of the addition of all arguments.|
 |[4-hidden_discovery.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/4-hidden_discovery.py)|A python program that prints all the names defined by the compiled module hidden_4.pyc|
+|[hidden_4.pyc](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/hidden_4.pyc)|A compiled python module that contains some definitions.|
 |[5-variable_load.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/5-variable_load.py)||
 |[variable_load_5.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/variable_load_5.py)||
 |[100-my_calculator.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/100-my_calculator.py)||
