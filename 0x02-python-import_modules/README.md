@@ -27,4 +27,3 @@ Here is a summary of what I learnt in this project:
 |[102-magic_calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/102-magic_calculation.py)|A python function that does exactly the same as a given python bytecode.|
 |[103-fast_alphabet.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/103-fast_alphabet.py)|A python program that imports a module <code>fast_alphabet_103.py</code> and prints the alphabet in uppercase, followed by a new line.|
 |[fast_alphabet_103.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/fast_alphabet_103.py)|A python module that contains the alphabet in uppercase.|
- 
