@@ -10,6 +10,6 @@ if __name__ == "__main__":
     else:
         print(f"{n:d} arguments:")
 
-if n != 0:
-    for i in range(len(sys.argv) - 1):
-        print(f"{i + 1}: {sys.argv[i + 1]}")
+    if n != 0:
+        for i in range(len(sys.argv) - 1):
+            print(f"{i + 1}: {sys.argv[i + 1]}")
