@@ -24,7 +24,7 @@ Here is a summary of what I learnt in this project:
 |[calculator_1.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/calculator_1.py)|A python module that contains the following function definitions: <code>def add(a, b):</code>, <code>def sub(a, b):</code>, <code>def mul(a, b):</code>, <code>def div(a, b):</code>|
 |[2-args.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/2-args.py)|A python program that prints the number of and the list of its arguments.|
 |[3-infinite_add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/3-infinite_add.py)|A program that prints the result of the addition of all arguments.|
-|[4-hidden_discovery.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/4-hidden_discovery.py)||
+|[4-hidden_discovery.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/4-hidden_discovery.py)|A python program that prints all the names defined by the compiled module hidden_4.pyc|
 |[5-variable_load.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/5-variable_load.py)||
 |[variable_load_5.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/variable_load_5.py)||
 |[100-my_calculator.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/100-my_calculator.py)||
