@@ -1,2 +1,14 @@
-<h1 align="center">0x03.PYTHON</h1>
-Data structurs: Lists, Tuples
+<h1 align="center" id="top">0x03.PYTHON - DATA STRUCTURES: LISTS, TUPLES</h1>
+Here is a summary of what I learnt in this project: 
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+|File|Description|
+|--|--|
+|[]()||
