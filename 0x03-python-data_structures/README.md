@@ -23,8 +23,8 @@ Here is a summary of what I learnt in this project:
 |[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/4-main.py)|A python file that tests the function: <code>def new_in_list(my_list, idx, element):</code> defined in 4-new_in_list.py.|
 |[5-no_c.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py)|A function that removes all characters <code>c</code> and <code>C</code> from a string.|
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-main.py)|A python file that tests the function: <code>def no_c(my_string):</code> defined in 5-no_c.py.|
-|[6-print_matrix_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py)||
-|[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-main.py)||
+|[6-print_matrix_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py)|A function that prints a matrix of integers.|
+|[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-main.py)|A python file that tests the function: <code>def print_matrix_integer(matrix=[[]]):</code> defined in 6-print_matrix_integer.py.|
 |[7-add_tuple.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/7-add_tuple.py)||
 |[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/7-main.py)||
 |[8-multiple_returns.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/8-multiple_returns.py)||
