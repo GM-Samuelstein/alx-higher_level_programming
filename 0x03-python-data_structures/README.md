@@ -2,7 +2,7 @@
 Here is a summary of what I learnt in this project: 
 <ul>
 <li>How to loop through and access the items in a list.</li>
-<li></li>
+<li>How to find the length of a list.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -13,8 +13,8 @@ Here is a summary of what I learnt in this project:
 |--|--|
 |[0-print_list_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/0-print_list_integer.py)|A function that prints all integers of a list.|
 |[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/0-main.py)|A python file that tests the function: <code>def print_list_integer(my_list=[]):</code> defined in 0-print_list_integer.py.|
-|[1-element_at.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py)||
-|[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/1-main.py)||
+|[1-element_at.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py)|A function that retrieves an element from a list.|
+|[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/1-main.py)|A python file that tests the function: <code>element_at(my_list, idx):</code> defined in 1-element_at.py.|
 |[2-replace_in_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/2-replace_in_list.py)||
 |[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/2-main.py)||
 |[3-print_reversed_list_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/3-print_reversed_list_integer.py)||

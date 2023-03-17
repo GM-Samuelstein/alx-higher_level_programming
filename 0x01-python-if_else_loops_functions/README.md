@@ -8,6 +8,7 @@ Here is a summary of what I learnt in this project:
 <li>How to use str.format() to print formatted output.</li>
 <li>How to work with the :c and :x format specifiers.</li>
 <li>How to use 'break' and 'continue' in if statements.</li>
+<li>How to find the length of a string.</li>
 <li>How to define a function.</li>
 <li>How to import a function and use it in a python program.</li>
 <li>How to use the ord(c) function.</li>
