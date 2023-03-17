@@ -3,7 +3,7 @@ Here is a summary of what I learnt in this project:
 <ul>
 <li>How to loop through and access the items in a list.</li>
 <li>How to find the length of a list.</li>
-<li></li>
+<li>How to replace items in a list.</li>
 <li></li>
 <li></li>
 <li></li>
