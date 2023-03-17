@@ -4,7 +4,7 @@ Here is a summary of what I learnt in this project:
 <li>How to loop through and access the items in a list.</li>
 <li>How to find the length of a list.</li>
 <li>How to replace items in a list.</li>
-<li>How to use common list methods.</li>
+<li>How to use common list methods such as <code>list.reverse()</code>.</li>
 <li></li>
 <li></li>
 </ul>
