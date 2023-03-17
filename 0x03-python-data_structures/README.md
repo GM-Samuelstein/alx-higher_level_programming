@@ -39,5 +39,3 @@ Here is a summary of what I learnt in this project:
 |[13-is_palindrome.c]()||
 |[lists.h]()||
 |[100-print_python_list_info.c]()||
-|[]()||
-|[]()||
