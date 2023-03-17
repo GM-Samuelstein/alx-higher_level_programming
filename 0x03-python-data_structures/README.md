@@ -12,7 +12,7 @@ Here is a summary of what I learnt in this project:
 |File|Description|
 |--|--|
 |[0-print_list_integer.py]()||
-|[0-main.py]()||
+|[0-main.py]()|A python file that tests the function: <code>def print_list_integer(my_list=[]):</code> defined in 0-print_list_integer.py.|
 |[1-element_at.py]()||
 |[1-main.py]()||
 |[2-replace_in_list.py]()||
