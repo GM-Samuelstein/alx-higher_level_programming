@@ -1,7 +1,7 @@
 <h1 align="center" id="top">0x03.PYTHON - DATA STRUCTURES: LISTS, TUPLES</h1>
 Here is a summary of what I learnt in this project: 
 <ul>
-<li>How to loop through the items in a list.</li>
+<li>How to loop through and access the items in a list.</li>
 <li></li>
 <li></li>
 <li></li>
