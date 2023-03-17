@@ -16,7 +16,7 @@ Here is a summary of what I learnt in this project:
 |[1-element_at.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py)|A function that retrieves an element from a list.|
 |[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/1-main.py)|A python file that tests the function: <code>element_at(my_list, idx):</code> defined in 1-element_at.py.|
 |[2-replace_in_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/2-replace_in_list.py)|A function that replaces an element of a list at a specific position.|
-|[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/2-main.py)|A python file that tests the function: <code>def replace_in_list(my_list, idx, element):</code> defined in 2-replace_in_list.py|
+|[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/2-main.py)|A python file that tests the function: <code>def replace_in_list(my_list, idx, element):</code> defined in 2-replace_in_list.py.|
 |[3-print_reversed_list_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/3-print_reversed_list_integer.py)||
 |[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/3-main.py)||
 |[4-new_in_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py)||
