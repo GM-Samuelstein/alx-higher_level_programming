@@ -1,7 +1,7 @@
 <h1 align="center" id="top">0x03.PYTHON - DATA STRUCTURES: LISTS, TUPLES</h1>
 Here is a summary of what I learnt in this project: 
 <ul>
-<li></li>
+<li>How to loop through the items in a list.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -11,7 +11,7 @@ Here is a summary of what I learnt in this project:
 
 |File|Description|
 |--|--|
-|[0-print_list_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/0-print_list_integer.py)||
+|[0-print_list_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/0-print_list_integer.py)|A function that prints all integers of a list.|
 |[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/0-main.py)|A python file that tests the function: <code>def print_list_integer(my_list=[]):</code> defined in 0-print_list_integer.py.|
 |[1-element_at.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py)||
 |[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/1-main.py)||
