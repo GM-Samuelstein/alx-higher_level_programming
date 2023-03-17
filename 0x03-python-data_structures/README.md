@@ -22,7 +22,7 @@ Here is a summary of what I learnt in this project:
 |[4-new_in_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py)||
 |[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/4-main.py)||
 |[5-no_c.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py)||
-|[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/[5-main.py)||
+|[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-main.py)||
 |[6-print_matrix_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py)||
 |[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-main.py)||
 |[7-add_tuple.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/7-add_tuple.py)||
