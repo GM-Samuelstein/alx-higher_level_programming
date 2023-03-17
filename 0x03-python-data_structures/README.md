@@ -4,7 +4,7 @@ Here is a summary of what I learnt in this project:
 <li>How to loop through and access the items in a list.</li>
 <li>How to find the length of a list.</li>
 <li>How to replace items in a list.</li>
-<li>How to use common list methods such as <code>list.reverse()</code>, <code>list.copy()</code>.</li>
+<li>How to use common list methods such as: <code>list.reverse()</code>, <code>list.copy()</code>.</li>
 <li></li>
 <li></li>
 </ul>
@@ -21,8 +21,8 @@ Here is a summary of what I learnt in this project:
 |[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/3-main.py)|A python file that tests the function: <code>def print_reversed_list_integer(my_list=[]):</code> defined in 3-print_reversed_list_integer.py.|
 |[4-new_in_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py)|A function that replaces an element in a list at a specific position without modifying the original list.|
 |[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/4-main.py)|A python file that tests the function: <code>def new_in_list(my_list, idx, element):</code> defined in 4-new_in_list.py.|
-|[5-no_c.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py)||
-|[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-main.py)||
+|[5-no_c.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py)|A function that removes all characters <code>c</code> and <code>C</code> from a string.|
+|[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-main.py)|A python file that tests the function: <code>def no_c(my_string):</code> defined in 5-no_c.py.|
 |[6-print_matrix_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py)||
 |[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-main.py)||
 |[7-add_tuple.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/7-add_tuple.py)||
