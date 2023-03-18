@@ -6,7 +6,7 @@ Here is a summary of what I learnt in this project:
 <li>How to replace items in a list.</li>
 <li>How to use common list methods such as: <code>list.reverse()</code>, <code>list.copy()</code>.</li>
 <li>How to access elements in nested lists.</li>
-<li></li>
+<li>How to access the items in a tuple.</li>
 </ul>
 
 |File|Description|
@@ -25,8 +25,8 @@ Here is a summary of what I learnt in this project:
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-main.py)|A python file that tests the function: <code>def no_c(my_string):</code> defined in 5-no_c.py.|
 |[6-print_matrix_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py)|A function that prints a matrix of integers.|
 |[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-main.py)|A python file that tests the function: <code>def print_matrix_integer(matrix=[[]]):</code> defined in 6-print_matrix_integer.py.|
-|[7-add_tuple.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/7-add_tuple.py)||
-|[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/7-main.py)||
+|[7-add_tuple.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/7-add_tuple.py)|A function that adds 2 tuples.|
+|[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/7-main.py)|A python file that tests the function: <code>def add_tuple(tuple_a=(), tuple_b=()):</code> defined in 7-add_tuple.py.|
 |[8-multiple_returns.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/8-multiple_returns.py)||
 |[8-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/8-main.py)||
 |[9-max_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/9-max_integer.py)||
