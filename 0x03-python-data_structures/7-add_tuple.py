@@ -11,7 +11,8 @@ def add_tuple(tuple_a=(), tuple_b=()):
         a = tuple_a[0]
         b = 0
     else:
-        a, b = tuple_a
+        a = tuple_a[0]
+        b = tuple_a[1]
 
     if len(tuple_b) == 0:
         x = 0
@@ -20,7 +21,8 @@ def add_tuple(tuple_a=(), tuple_b=()):
         x = tuple_b[0]
         y = 0
     else:
-        x, y = tuple_b
+        x = tuple_b[0]
+        y = tuple_b[1]
 
     new_tuple = (a + x, b + y)
     return new_tuple
