@@ -2,6 +2,7 @@
 Here is a summary of what I learnt in this project: 
 <ul>
 <li>How to loop through and access the items in a list.</li>
+<li>How to delete an item in a list using <code>del</>. </li>
 <li>How to find the length of a list.</li>
 <li>How to replace items in a list.</li>
 <li>How to use common list methods such as: <code>list.reverse()</code>, <code>list.copy()</code>, <code>list.append(x)</code>.</li>
@@ -37,8 +38,8 @@ Here is a summary of what I learnt in this project:
 |[9-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/9-main.py)|A python file that tests the function: <code>def max_integer(my_list=[]):</code> defined in 9-max_integer.py.|
 |[10-divisible_by_2.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/10-divisible_by_2.py)|A function that finds all multiples of 2 in a list.|
 |[10-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/10-main.py)|A python file that tests the function: <code>def divisible_by_2(my_list=[]):</code> defined in 10-divisible_by_2.py.|
-|[11-delete_at.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/11-delete_at.py)||
-|[11-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/11-main.py)||
+|[11-delete_at.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/11-delete_at.py)|A function that deletes the item at a specific position in a list.|
+|[11-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/11-main.py)|A python file that tests the function: <code>def delete_at(my_list=[], idx=0):</code> defined in 11-delete_at.py.|
 |[12-switch.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/12-switch.py)||
 |[13-is_palindrome.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/13-is_palindrome.c)||
 |[lists.h](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/lists.h)||
