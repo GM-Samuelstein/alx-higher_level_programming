@@ -4,7 +4,7 @@ Here is a summary of what I learnt in this project:
 <li>How to loop through and access the items in a list.</li>
 <li>How to find the length of a list.</li>
 <li>How to replace items in a list.</li>
-<li>How to use common list methods such as: <code>list.reverse()</code>, <code>list.copy()</code>, <code>list.append()</code>.</li>
+<li>How to use common list methods such as: <code>list.reverse()</code>, <code>list.copy()</code>, <code>list.append(x)</code>.</li>
 <li>How to access elements in nested lists.</li>
 <li>How to access the items in a tuple.</li>
 <li>How to unpack a sequence.</li>
