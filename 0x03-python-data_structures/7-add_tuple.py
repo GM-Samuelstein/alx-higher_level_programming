@@ -4,8 +4,6 @@ def add_tuple(tuple_a=(), tuple_b=()):
     """
     A function that adds 2 tuples.
     """
-    new_tuple = ()
-
     if len(tuple_a) == 0:
         a = 0
         b = 0
