@@ -8,10 +8,8 @@ Here is a summary of what I learnt in this project:
 <li>How to use common list methods such as: <code>list.reverse()</code>, <code>list.copy()</code>, <code>list.append(x)</code>.</li>
 <li>How to access elements in nested lists.</li>
 <li>How to access the items in a tuple.</li>
-<li>How to unpack a sequence.</li>
+<li>How to unpack a tuple.</li>
 <li>How to pack values together in a tuple.</li>
-<li></li>
-<li></li>
 </ul>
 
 |File|Description|
@@ -41,6 +39,6 @@ Here is a summary of what I learnt in this project:
 |[11-delete_at.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/11-delete_at.py)|A function that deletes the item at a specific position in a list.|
 |[11-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/11-main.py)|A python file that tests the function: <code>def delete_at(my_list=[], idx=0):</code> defined in 11-delete_at.py.|
 |[12-switch.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/12-switch.py)|Python code that switches the value of two variables, using the tuple unpacking feature.|
-|[13-is_palindrome.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/13-is_palindrome.c)||
-|[lists.h](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/lists.h)||
-|[100-print_python_list_info.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/100-print_python_list_info.c)||
+|[13-is_palindrome.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/13-is_palindrome.c)|A function in C that checks if a singly linked list is a palindrome.|
+|[lists.h](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/lists.h)|The header file for the C function in <code>13-is_palindrome.c</code>.|
+|[100-print_python_list_info.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/100-print_python_list_info.c)|A C function that prints some basic info about Python lists.|
