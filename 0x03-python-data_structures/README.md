@@ -33,8 +33,8 @@ Here is a summary of what I learnt in this project:
 |[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/7-main.py)|A python file that tests the function: <code>def add_tuple(tuple_a=(), tuple_b=()):</code> defined in 7-add_tuple.py.|
 |[8-multiple_returns.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/8-multiple_returns.py)|A function that returns a tuple with the length of a string and its first character.|
 |[8-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/8-main.py)|A python file that tests the function: <code>def multiple_returns(sentence):</code> defined in 8-multiple_returns.py.|
-|[9-max_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/9-max_integer.py)||
-|[9-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/9-main.py)||
+|[9-max_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/9-max_integer.py)|A function that finds the biggest integer of a list.|
+|[9-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/9-main.py)|A python file that tests the function: <code>def max_integer(my_list=[]):</code> defined in 9-max_integer.py.|
 |[10-divisible_by_2.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/10-divisible_by_2.py)||
 |[10-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/10-main.py)||
 |[11-delete_at.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/11-delete_at.py)||
