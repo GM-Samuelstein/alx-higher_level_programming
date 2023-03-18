@@ -40,7 +40,7 @@ Here is a summary of what I learnt in this project:
 |[10-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/10-main.py)|A python file that tests the function: <code>def divisible_by_2(my_list=[]):</code> defined in 10-divisible_by_2.py.|
 |[11-delete_at.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/11-delete_at.py)|A function that deletes the item at a specific position in a list.|
 |[11-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/11-main.py)|A python file that tests the function: <code>def delete_at(my_list=[], idx=0):</code> defined in 11-delete_at.py.|
-|[12-switch.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/12-switch.py)||
+|[12-switch.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/12-switch.py)|Python code that switches the value of two variables, using the tuple unpacking feature.|
 |[13-is_palindrome.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/13-is_palindrome.c)||
 |[lists.h](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/lists.h)||
 |[100-print_python_list_info.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x03-python-data_structures/100-print_python_list_info.c)||
