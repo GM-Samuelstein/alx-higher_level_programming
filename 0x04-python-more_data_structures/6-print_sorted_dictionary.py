@@ -1,6 +1,15 @@
 #!/usr/bin/python3
+
 def print_sorted_dictionary(a_dictionary):
-    list_ord = list(a_dictionary.keys())
-    list_ord.sort()
-    for i in list_ord:
-        print("{}: {}".format(i, a_dictionary.get(i)))
+    """
+    A function that prints a dictionary by ordered keys.
+
+    Args:
+        a_dictionary: The given dictionary.
+
+    Returns:
+        No return value.
+    """
+    sorted_dictionary = sorted(list(a_dictionary))
+    for key in sorted_dictionary:
+        print(f"{key}: {a_dictionary[key]}")
