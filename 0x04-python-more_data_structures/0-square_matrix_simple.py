@@ -11,5 +11,5 @@ def square_matrix_simple(matrix=[]):
         for column in row:
             temp_list.append(column ** 2)
         new_matrix.append(temp_list)
-    
+
     return new_matrix
