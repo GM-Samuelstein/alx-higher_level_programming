@@ -31,8 +31,8 @@ Here is a summary of what I learnt in this project:
 |[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/7-main.py)|A python file that tests the function: <code>def update_dictionary(a_dictionary, key, value):</code> defined in 7-update_dictionary.py.|
 |[8-simple_delete.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/8-simple_delete.py)|A function that deletes a key in a dictionary.|
 |[8-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/8-main.py)|A python file that tests the function: <code>def simple_delete(a_dictionary, key=""):</code> defined in 8-simple_delete.py.|
-|[9-multiply_by_2.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/9-multiply_by_2.py)||
-|[9-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/9-main.py)||
+|[9-multiply_by_2.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/9-multiply_by_2.py)|A function that returns a new dictionary with all values multiplied by 2.|
+|[9-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/9-main.py)|A python file that tests the function: <code>def multiply_by_2(a_dictionary):</code> defined in 9-multiply_by_2.py.|
 |[10-best_score.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/10-best_score.py)||
 |[10-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/10-main.py)||
 |[11-multiply_list_map.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/11-multiply_list_map.py)||
