@@ -11,8 +11,8 @@ Here is a summary of what I learnt in this project:
 |--|--|
 |[0-square_matrix_simple.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/0-square_matrix_simple.py)|A function that computes the square value of all integers of a matrix.|
 |[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/0-main.py)|A python file that tests the function: <code>def square_matrix_simple(matrix=[]):</code> defined in 0-square_matrix_simple.py.|
-|[1-search_replace.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-search_replace.py)||
-|[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-main.py)||
+|[1-search_replace.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-search_replace.py)|A function that replaces all occurrences of an element by another in a new list.|
+|[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-main.py)|A python file that tests the function: <code>def search_replace(my_list, search, replace):</code> defined in 1-search_replace.py.|
 |[2-uniq_add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py)||
 |[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-main.py)||
 |[3-common_elements.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py)||
