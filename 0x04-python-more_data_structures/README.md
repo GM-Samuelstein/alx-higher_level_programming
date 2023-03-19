@@ -2,8 +2,8 @@
 Here is a summary of what I learnt in this project: 
 <ul>
 <li>How to use the <code>set()</code> function.</li>
-<li>How to find common elements in two sets.</li>
-<li></li>
+<li>How to find elements that are common in two given sets.</li>
+<li>How to find elements that are not common in two given sets.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -19,8 +19,8 @@ Here is a summary of what I learnt in this project:
 |[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-main.py)|A python file that tests the function: <code>def uniq_add(my_list=[]):</code> defined in 2-uniq_add.py.|
 |[3-common_elements.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py)|A function that returns a set of common elements in two sets.|
 |[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-main.py)|A python file that tests the function: <code>def common_elements(set_1, set_2):</code> defined in 3-common_elements.py.|
-|[4-only_diff_elements.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/4-only_diff_elements.py)||
-|[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/4-main.py)||
+|[4-only_diff_elements.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/4-only_diff_elements.py)|A function that returns a set of all elements present in only one set.|
+|[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/4-main.py)|A python file that tests the function: <code>def only_diff_elements(set_1, set_2):</code> defined in 4-only_diff_elements.py|
 |[5-number_keys.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/5-number_keys.py)||
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/5-main.py)||
 |[6-print_sorted_dictionary.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/6-print_sorted_dictionary.py)||
