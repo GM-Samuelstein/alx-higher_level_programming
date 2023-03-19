@@ -4,6 +4,8 @@ Here is a summary of what I learnt in this project:
 <li>How to use the <code>set()</code> function.</li>
 <li>How to find elements that are common in two given sets.</li>
 <li>How to find elements that are not common in two given sets.</li>
+<li>How to access only the keys in a dictionary.</li>
+<li></li>
 <li></li>
 <li></li>
 <li></li>
@@ -21,8 +23,8 @@ Here is a summary of what I learnt in this project:
 |[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-main.py)|A python file that tests the function: <code>def common_elements(set_1, set_2):</code> defined in 3-common_elements.py.|
 |[4-only_diff_elements.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/4-only_diff_elements.py)|A function that returns a set of all elements present in only one set.|
 |[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/4-main.py)|A python file that tests the function: <code>def only_diff_elements(set_1, set_2):</code> defined in 4-only_diff_elements.py|
-|[5-number_keys.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/5-number_keys.py)||
-|[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/5-main.py)||
+|[5-number_keys.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/5-number_keys.py)|A function that returns the number of keys in a dictionary.|
+|[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/5-main.py)|A python file that tests the function: <code>def number_keys(a_dictionary):</code> defined in 5-number_keys.py.|
 |[6-print_sorted_dictionary.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/6-print_sorted_dictionary.py)||
 |[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/6-main.py)||
 |[7-update_dictionary.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/7-update_dictionary.py)||
