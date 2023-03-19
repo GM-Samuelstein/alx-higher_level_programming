@@ -1,7 +1,7 @@
 <h1 align="center">0x04.PYTHON - MORE DATA STRUCTURES: SET, DICTIONARIES</h1>
 Here is a summary of what I learnt in this project: 
 <ul>
-<li>How to use the set() function.</li>
+<li>How to use the <code>set()</code> function.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -15,8 +15,8 @@ Here is a summary of what I learnt in this project:
 |[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-main.py)|A python file that tests the function: <code>def search_replace(my_list, search, replace):</code> defined in 1-search_replace.py.|
 |[2-uniq_add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py)|A function that adds all unique integers in a list (only once for each integer).|
 |[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-main.py)|A python file that tests the function: <code>def uniq_add(my_list=[]):</code> defined in 2-uniq_add.py.|
-|[3-common_elements.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py)||
-|[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-main.py)||
+|[3-common_elements.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py)|A function that returns a set of common elements in two sets.|
+|[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-main.py)|A python file that tests the function: <code>def common_elements(set_1, set_2):</code> defined in 3-common_elements.py.|
 |[4-only_diff_elements.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/4-only_diff_elements.py)||
 |[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/4-main.py)||
 |[5-number_keys.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/5-number_keys.py)||
