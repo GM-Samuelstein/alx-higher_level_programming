@@ -2,6 +2,8 @@
 Here is a summary of what I learnt in this project: 
 <ul>
 <li>How to use the <code>set()</code> function.</li>
+<li>How to find common elements in two sets.</li>
+<li></li>
 <li></li>
 <li></li>
 <li></li>
