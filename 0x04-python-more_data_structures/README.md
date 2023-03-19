@@ -1,7 +1,7 @@
 <h1 align="center">0x04.PYTHON - MORE DATA STRUCTURES: SET, DICTIONARIES</h1>
 Here is a summary of what I learnt in this project: 
 <ul>
-<li></li>
+<li>How to use the set() function.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -13,8 +13,8 @@ Here is a summary of what I learnt in this project:
 |[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/0-main.py)|A python file that tests the function: <code>def square_matrix_simple(matrix=[]):</code> defined in 0-square_matrix_simple.py.|
 |[1-search_replace.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-search_replace.py)|A function that replaces all occurrences of an element by another in a new list.|
 |[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-main.py)|A python file that tests the function: <code>def search_replace(my_list, search, replace):</code> defined in 1-search_replace.py.|
-|[2-uniq_add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py)||
-|[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-main.py)||
+|[2-uniq_add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py)|A function that adds all unique integers in a list (only once for each integer).|
+|[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-main.py)|A python file that tests the function: <code>def uniq_add(my_list=[]):</code> defined in 2-uniq_add.py.|
 |[3-common_elements.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py)||
 |[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-main.py)||
 |[4-only_diff_elements.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/4-only_diff_elements.py)||

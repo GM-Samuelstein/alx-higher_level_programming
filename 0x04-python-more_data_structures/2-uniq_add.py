@@ -1,9 +1,18 @@
 #!/usr/bin/python3
+
 def uniq_add(my_list=[]):
-    uniq_list = set(my_list)
-    num = 0
+    """
+    A function that adds all unique integers in a list.
+    (only once for each integer).
 
-    for i in uniq_list:
-        num += i
+    Args:
+        my_list: The initial list.
 
-    return (num)
+    Returns:
+        sum: The sum of all unique integers in the input list.
+    """
+    uniq = set(my_list)
+    sum = 0
+    for integer in uniq:
+        sum += integer
+    return sum
