@@ -1,2 +1,44 @@
-<h1>0x04:PYTHON</h1>
-More Data Structures: Set, Dictionaries
+<h1 align="center">0x04.PYTHON - MORE DATA STRUCTURES: SET, DICTIONARIES</h1>
+Here is a summary of what I learnt in this project: 
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+|File|Description|
+|--|--|
+|[0-square_matrix_simple.py]()||
+|[0-main.py]()||
+|[1-search_replace.py]()||
+|[1-main.py]()||
+|[2-uniq_add.py]()||
+|[2-main.py]()||
+|[3-common_elements.py]()||
+|[3-main.py]()||
+|[4-only_diff_elements.py]()||
+|[4-main.py]()||
+|[5-number_keys.py]()||
+|[5-main.py]()||
+|[6-print_sorted_dictionary.py]()||
+|[6-main.py]()||
+|[7-update_dictionary.py]()||
+|[7-main.py]()||
+|[8-simple_delete.py]()||
+|[8-main.py]()||
+|[9-multiply_by_2.py]()||
+|[9-main.py]()||
+|[10-best_score.py]()||
+|[10-main.py]()||
+|[11-multiply_list_map.py]()||
+|[11-main.py]()||
+|[12-roman_to_int.py]()||
+|[12-main.py]()||
+|[100-weight_average.py]()||
+|[100-main.py]()||
+|[101-square_matrix_map.py]()||
+|[101-main.py]()||
+|[102-complex_delete.py]()||
+|[102-main.py]()||
+|[103-python.c]()||
