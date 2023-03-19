@@ -5,7 +5,7 @@ Here is a summary of what I learnt in this project:
 <li>How to find elements that are common in two given sets.</li>
 <li>How to find elements that are not common in two given sets.</li>
 <li>How to access only the keys in a dictionary.</li>
-<li></li>
+<li>How to create a new key/Value pair OR change the value of a key in a dictionary.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -27,8 +27,8 @@ Here is a summary of what I learnt in this project:
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/5-main.py)|A python file that tests the function: <code>def number_keys(a_dictionary):</code> defined in 5-number_keys.py.|
 |[6-print_sorted_dictionary.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/6-print_sorted_dictionary.py)|A function that prints a dictionary by ordered keys.|
 |[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/6-main.py)|A python file that tests the function: <code>def print_sorted_dictionary(a_dictionary):</code> defined in 6-print_sorted_dictionary.py.|
-|[7-update_dictionary.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/7-update_dictionary.py)||
-|[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/7-main.py)||
+|[7-update_dictionary.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/7-update_dictionary.py)|A function that replaces or adds key/value in a dictionary.|
+|[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/7-main.py)|A python file that tests the function: <code>def update_dictionary(a_dictionary, key, value):</code> defined in 7-update_dictionary.py.|
 |[8-simple_delete.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/8-simple_delete.py)||
 |[8-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/8-main.py)||
 |[9-multiply_by_2.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/9-multiply_by_2.py)||
