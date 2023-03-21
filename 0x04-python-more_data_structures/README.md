@@ -7,6 +7,8 @@ Here is a summary of what I learnt in this project:
 <li>How to access only the keys in a dictionary.</li>
 <li>How to create a new key/Value pair OR change the value of a key in a dictionary.</li>
 <li>How to delete a key in a dictionary.</li>
+<li>How to copy a dictionary.</li>
+<li></li>
 <li></li>
 <li></li>
 </ul>
@@ -33,8 +35,8 @@ Here is a summary of what I learnt in this project:
 |[8-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/8-main.py)|A python file that tests the function: <code>def simple_delete(a_dictionary, key=""):</code> defined in 8-simple_delete.py.|
 |[9-multiply_by_2.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/9-multiply_by_2.py)|A function that returns a new dictionary with all values multiplied by 2.|
 |[9-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/9-main.py)|A python file that tests the function: <code>def multiply_by_2(a_dictionary):</code> defined in 9-multiply_by_2.py.|
-|[10-best_score.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/10-best_score.py)||
-|[10-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/10-main.py)||
+|[10-best_score.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/10-best_score.py)|A function that returns a key with the biggest integer value.|
+|[10-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/10-main.py)|A python file that tests the function: <code>def best_score(a_dictionary):</code> defined in 10-best_score.py.|
 |[11-multiply_list_map.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/11-multiply_list_map.py)||
 |[11-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/11-main.py)||
 |[12-roman_to_int.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/12-roman_to_int.py)||
