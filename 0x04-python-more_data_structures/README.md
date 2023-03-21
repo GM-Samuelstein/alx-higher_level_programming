@@ -44,8 +44,8 @@ Here is a summary of what I learnt in this project:
 |[11-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/11-main.py)|A python file that tests the function: <code>def multiply_list_map(my_list=[], number=0):</code> defined in 11-multiply_list_map.py.|
 |[12-roman_to_int.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/12-roman_to_int.py)|A function that converts a Roman numeral to an integer.|
 |[12-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/12-main.py)|A python file that tests the function: <code>def roman_to_int(roman_string):</code> defined in 12-roman_to_int.py.|
-|[100-weight_average.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/100-weight_average.py)||
-|[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/100-main.py)||
+|[100-weight_average.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/100-weight_average.py)|A function that returns the weighted average of all integers tuple <code>(&lt;score&gt;, &lt;weight&gt;)</code>.|
+|[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/100-main.py)|A python file that tests the function: <code>def weight_average(my_list=[]):</code> defined in 100-weight_average.py.|
 |[101-square_matrix_map.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/101-square_matrix_map.py)||
 |[101-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/101-main.py)||
 |[102-complex_delete.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/102-complex_delete.py)||
