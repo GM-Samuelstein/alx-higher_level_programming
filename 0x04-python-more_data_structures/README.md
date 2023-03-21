@@ -49,6 +49,3 @@ Here is a summary of what I learnt in this project:
 |[102-complex_delete.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/102-complex_delete.py)||
 |[102-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/102-main.py)||
 |[103-python.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/103-python.c)||
-|re|efefefef|vvedd
-|qwdwd|
-|qww|www|
