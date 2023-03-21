@@ -42,8 +42,8 @@ Here is a summary of what I learnt in this project:
 |[10-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/10-main.py)|A python file that tests the function: <code>def best_score(a_dictionary):</code> defined in 10-best_score.py.|
 |[11-multiply_list_map.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/11-multiply_list_map.py)|A function that returns a list with all values multiplied by a number without using any loops.|
 |[11-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/11-main.py)|A python file that tests the function: <code>def multiply_list_map(my_list=[], number=0):</code> defined in 11-multiply_list_map.py.|
-|[12-roman_to_int.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/12-roman_to_int.py)||
-|[12-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/12-main.py)||
+|[12-roman_to_int.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/12-roman_to_int.py)|A function that converts a Roman numeral to an integer.|
+|[12-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/12-main.py)|A python file that tests the function: <code>def roman_to_int(roman_string):</code> defined in 12-roman_to_int.py.|
 |[100-weight_average.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/100-weight_average.py)||
 |[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/100-main.py)||
 |[101-square_matrix_map.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/101-square_matrix_map.py)||
