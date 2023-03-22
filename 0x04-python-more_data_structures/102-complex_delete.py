@@ -1,9 +1,23 @@
 #!/usr/bin/python3
+
 def complex_delete(a_dictionary, value):
-    list_keys = list(a_dictionary.keys())
+    """
+    A function that deletes keys with a specific value in a dictionary.
 
-    for value_dic in list_keys:
-        if value == a_dictionary.get(value_dic):
-            del a_dictionary[value_dic]
+    Args:
+        a_dictionary: The given dictionary.
 
-    return (a_dictionary)
+    Returns:
+
+    """
+    death_row = []
+    for dict_key, dict_value in a_dictionary.items():
+        if dict_value == value:
+            death_row.append(dict_key)
+        else:
+            continue
+    
+    for inmate in death_row:
+        del a_dictionary[inmate]
+    
+    return a_dictionary
