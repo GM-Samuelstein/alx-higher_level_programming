@@ -16,8 +16,8 @@ def complex_delete(a_dictionary, value):
             death_row.append(dict_key)
         else:
             continue
-    
+
     for inmate in death_row:
         del a_dictionary[inmate]
-    
+
     return a_dictionary
