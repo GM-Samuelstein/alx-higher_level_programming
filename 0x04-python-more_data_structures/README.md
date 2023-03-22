@@ -46,8 +46,8 @@ Here is a summary of what I learnt in this project:
 |[12-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/12-main.py)|A python file that tests the function: <code>def roman_to_int(roman_string):</code> defined in 12-roman_to_int.py.|
 |[100-weight_average.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/100-weight_average.py)|A function that returns the weighted average of all integers tuple <code>(&lt;score&gt;, &lt;weight&gt;)</code>.|
 |[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/100-main.py)|A python file that tests the function: <code>def weight_average(my_list=[]):</code> defined in 100-weight_average.py.|
-|[101-square_matrix_map.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/101-square_matrix_map.py)||
-|[101-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/101-main.py)||
+|[101-square_matrix_map.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/101-square_matrix_map.py)|A function that computes the square value of all integers of a matrix using <code>map</code>.|
+|[101-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/101-main.py)|A python file that tests the function: <code>def square_matrix_map(matrix=[]):</code> defined in 101-square_matrix_map.py.|
 |[102-complex_delete.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/102-complex_delete.py)||
 |[102-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/102-main.py)||
 |[103-python.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/103-python.c)||
