@@ -9,7 +9,7 @@ Here is a summary of what I learnt in this project:
 <li>How to create a new key/Value pair OR change the value of a key in a dictionary.</li>
 <li>How to delete a key in a dictionary.</li>
 <li>How to copy a dictionary.</li>
-<li>How to use lambda together with map.</li>
+<li>How to use lambda together with <code>map</code>.</li>
 </ul>
 
 |File|Description|
