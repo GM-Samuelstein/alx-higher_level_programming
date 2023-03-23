@@ -16,8 +16,8 @@ Here is a summary of what I learnt in this project:
 |[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/2-main.py)||
 |[3-safe_print_division.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/3-safe_print_division.py)||
 |[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/3-main.py)||
-|[4-list_division.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/4-list_division.py)||
-|[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/4-main.py)||
+|[4-list_division.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/4-list_division.py)|A function that divides element by element 2 lists.|
+|[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/4-main.py)|A python file that tests the function: <code>def list_division(my_list_1, my_list_2, list_length):</code> defined in 4-list_division.py.|
 |[5-raise_exception.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/5-raise_exception.py)|A function that raises a type exception.|
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/5-main.py)|A python file that tests the function: <code>def raise_exception():</code> defined in 5-raise_exception.py.|
 |[6-raise_exception_msg.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/6-raise_exception_msg.py)|A function that raises a name exception with a message.|
