@@ -12,8 +12,8 @@ Here is a summary of what I learnt in this project:
 |[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/0-main.py)|A python file that tests the function: <code>def safe_print_list(my_list=[], x=0):</code> defined in 0-safe_print_list.py.|
 |[1-safe_print_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/1-safe_print_integer.py)||
 |[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/1-main.py)||
-|[2-safe_print_list_integers.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/2-safe_print_list_integers.py)||
-|[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/2-main.py)||
+|[2-safe_print_list_integers.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/2-safe_print_list_integers.py)|A function that prints the first x elements of a list and only integers.|
+|[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/2-main.py)|A python file that tests the function: <code>def safe_print_list_integers(my_list=[], x=0):</code> defined in 2-safe_print_list_integers.py.|
 |[3-safe_print_division.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/3-safe_print_division.py)|A function that divides 2 integers and prints the result.|
 |[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/3-main.py)|A python file that tests the function: <code>def safe_print_division(a, b):</code> defined in 3-safe_print_division.py.|
 |[4-list_division.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/4-list_division.py)|A function that divides element by element 2 lists.|
