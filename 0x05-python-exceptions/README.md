@@ -20,8 +20,8 @@ Here is a summary of what I learnt in this project:
 |[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/4-main.py)||
 |[5-raise_exception.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/5-raise_exception.py)|A function that raises a type exception.|
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/5-main.py)|A python file that tests the function: <code>def raise_exception():</code> defined in 5-raise_exception.py.|
-|[6-raise_exception_msg.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/6-raise_exception_msg.py)||
-|[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/6-main.py)||
+|[6-raise_exception_msg.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/6-raise_exception_msg.py)|A function that raises a name exception with a message.|
+|[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/6-main.py)|A python file that tests the function: <code>def raise_exception_msg(message=""):</code> defined in 6-raise_exception_msg.py.|
 |[100-safe_print_integer_err.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/100-safe_print_integer_err.py)||
 |[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/100-main.py)||
 |[101-safe_function.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/101-safe_function.py)||
