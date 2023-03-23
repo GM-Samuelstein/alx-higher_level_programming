@@ -8,7 +8,7 @@ def list_division(my_list_1, my_list_2, list_length):
         my_list_1: The first given list.
         my_list_2: The second given list.
         list_length: The length of the result list.
-    
+
     Returns:
         result: A new list (length = list_length) with all divisions.
     """
