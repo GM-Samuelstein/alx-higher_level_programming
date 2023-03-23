@@ -2,7 +2,7 @@
 
 Here is a summary of what I learnt in this project: 
 <ul>
-<li></li>
+<li>How to use <code>try: / except:</code></li>
 <li></li>
 <li></li>
 <li></li>
@@ -18,8 +18,8 @@ Here is a summary of what I learnt in this project:
 
 |File|Description|
 |--|--|
-|[0-safe_print_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/0-safe_print_list.py)||
-|[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/0-main.py)||
+|[0-safe_print_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/0-safe_print_list.py)|A function that prints x elements of a list.|
+|[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/0-main.py)|A python file that tests the function: <code>def safe_print_list(my_list=[], x=0):</code> defined in 0-safe_print_list.py.|
 |[1-safe_print_integer.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/1-safe_print_integer.py)||
 |[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/1-main.py)||
 |[2-safe_print_list_integers.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/2-safe_print_list_integers.py)||
