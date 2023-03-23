@@ -14,8 +14,8 @@ Here is a summary of what I learnt in this project:
 |[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/1-main.py)||
 |[2-safe_print_list_integers.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/2-safe_print_list_integers.py)||
 |[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/2-main.py)||
-|[3-safe_print_division.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/3-safe_print_division.py)||
-|[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/3-main.py)||
+|[3-safe_print_division.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/3-safe_print_division.py)|A function that divides 2 integers and prints the result.|
+|[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/3-main.py)|A python file that tests the function: <code>def safe_print_division(a, b):</code> defined in 3-safe_print_division.py.|
 |[4-list_division.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/4-list_division.py)|A function that divides element by element 2 lists.|
 |[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/4-main.py)|A python file that tests the function: <code>def list_division(my_list_1, my_list_2, list_length):</code> defined in 4-list_division.py.|
 |[5-raise_exception.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/5-raise_exception.py)|A function that raises a type exception.|
