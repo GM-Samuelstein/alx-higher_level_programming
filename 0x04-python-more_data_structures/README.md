@@ -46,4 +46,4 @@ Here is a summary of what I learnt in this project:
 |[101-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/101-main.py)|A python file that tests the function: <code>def square_matrix_map(matrix=[]):</code> defined in 101-square_matrix_map.py.|
 |[102-complex_delete.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/102-complex_delete.py)|A function that deletes keys with a specific value in a dictionary.|
 |[102-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/102-main.py)|A python file that tests the function: <code>def complex_delete(a_dictionary, value):</code> defined in 102-complex_delete.py.|
-|[103-python.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/103-python.c)||
+|[103-python.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/103-python.c)|Two C functions that print some basic info about Python lists and Python bytes objects.|
