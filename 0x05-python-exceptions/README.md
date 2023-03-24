@@ -24,7 +24,7 @@ Here is a summary of what I learnt in this project:
 |[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/6-main.py)|A python file that tests the function: <code>def raise_exception_msg(message=""):</code> defined in 6-raise_exception_msg.py.|
 |[100-safe_print_integer_err.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/100-safe_print_integer_err.py)|A function that prints an integer.|
 |[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/100-main.py)|A python file that tests the function: <code>def safe_print_integer_err(value):</code> defined in 100-safe_print_integer_err.py.|
-|[101-safe_function.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/101-safe_function.py)||
-|[101-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/101-main.py)||
+|[101-safe_function.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/101-safe_function.py)|A function that executes a function safely.|
+|[101-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/101-main.py)|A python file that tests the function: <code>def safe_function(fct, *args):</code> defined in 101-safe_function.py.|
 |[102-magic_calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/102-magic_calculation.py)|A python function that does exactly the same as a given python bytecode.|
 |[103-python.c](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/103-python.c)|Three C functions that print some basic info about Python lists, Python bytes an Python float objects.|
