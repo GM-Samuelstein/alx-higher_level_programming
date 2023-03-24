@@ -2,7 +2,7 @@
 
 Here is a summary of what I learnt in this project: 
 <ul>
-<li>How to use <code>try: / except ... except/ else / finally:</code> to handle exception.</li>
+<li>How to use <code>try: / except: ... except: / else: / finally:</code> to handle exception.</li>
 <li>How to use <code>raise</code> to raise an exception.</li>
 </ul>
 
