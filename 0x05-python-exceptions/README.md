@@ -2,7 +2,7 @@
 
 Here is a summary of what I learnt in this project: 
 <ul>
-<li>How to use <code>try: / except:</code> to handle exception.</li>
+<li>How to use <code>try: / except ... except/ else / finally:</code> to handle exception.</li>
 <li>How to use <code>raise</code> to raise an exception.</li>
 </ul>
 
@@ -22,8 +22,8 @@ Here is a summary of what I learnt in this project:
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/5-main.py)|A python file that tests the function: <code>def raise_exception():</code> defined in 5-raise_exception.py.|
 |[6-raise_exception_msg.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/6-raise_exception_msg.py)|A function that raises a name exception with a message.|
 |[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/6-main.py)|A python file that tests the function: <code>def raise_exception_msg(message=""):</code> defined in 6-raise_exception_msg.py.|
-|[100-safe_print_integer_err.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/100-safe_print_integer_err.py)||
-|[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/100-main.py)||
+|[100-safe_print_integer_err.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/100-safe_print_integer_err.py)|A function that prints an integer.|
+|[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/100-main.py)|A python file that tests the function: <code>def safe_print_integer_err(value):</code> defined in 100-safe_print_integer_err.py.|
 |[101-safe_function.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/101-safe_function.py)||
 |[101-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/101-main.py)||
 |[102-magic_calculation.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/102-magic_calculation.py)|A python function that does exactly the same as a given python bytecode.|
