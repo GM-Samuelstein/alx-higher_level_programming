@@ -2,11 +2,11 @@
 
 Here is a summary of what I learnt in this project: 
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
+<li>How to properly document modules, classes and functions.</li>
+<li>How to define a class.</li>
+<li>How to create an instance(object) from a defined class.</li>
+<li>How to access and use class attributes and methods.</li>
+<li>How to access and use object attributes and methods.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -16,8 +16,8 @@ Here is a summary of what I learnt in this project:
 
 |File|Description|
 |--|--|
-|[0-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/0-square.py)||
-|[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/0-main.py)||
+|[0-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/0-square.py)|An  empty class that defines a square.|
+|[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/0-main.py)|A python file that tests the class: <code>Square:</0code> defined in 0-square.py.|
 |[1-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/1-square.py)||
 |[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/1-main.py)||
 |[2-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/2-square.py)||

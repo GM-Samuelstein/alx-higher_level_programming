@@ -1,8 +1,27 @@
 #!/usr/bin/python3
-# 0-square.py
-"""Define a class Square."""
+"""
+Module 0-square.py.
+
+This module has only one class.
+
+Classes:
+    Square:
+        A class representing a Square.
+
+Functions:
+    This module has no functions.
+"""
 
 
 class Square:
-    """Represent a square."""
+    """
+    A class representing a Square.
+
+    Attributes:
+        This class has no attributes.
+
+    Methods:
+        This class has no methods.
+    """
+
     pass
