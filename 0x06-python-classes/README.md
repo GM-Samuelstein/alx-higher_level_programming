@@ -17,18 +17,18 @@ Here is a summary of what I learnt in this project:
 
 |File|Description|
 |--|--|
-|[0-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/0-square.py)|An  empty class that defines a square.|
+|[0-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/0-square.py)|An  empty class <code>Square</code> that defines a square.|
 |[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/0-main.py)|A python file that tests the class: <code>Square:</0code> defined in 0-square.py.|
-|[1-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/1-square.py)|A class that defines a square, and initializes it with an attribute <code>size</code>.|
+|[1-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/1-square.py)|A class <code>Square</code> that defines a square by: <code>(based on 0-square.py)</code>. The class initializes new square objects with the attribute <code>size</code>.|
 |[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/1-main.py)|A python file that tests the class: <code>Square:</code> defined in 1-square.py.|
-|[2-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/2-square.py)|A class that defines a square, and validates the type and value of attribute <code>size</code>, before initializing.|
+|[2-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/2-square.py)|A class <code>Square</code> that defines a square by: <code>(based on 1-square.py)</code>. The class validates the type and value of the attribute <code>size</code>, before initializing new square objects.|
 |[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/2-main.py)|A python file that tests the class: <code>Square:</code> defined in 2-square.py.|
-|[3-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/3-square.py)|A class that defines a square, and validates the type and value of attribute <code>size</code>, before initializing. The class also adds a method <code>def area(self):</code> that computes the area of the square.|
+|[3-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/3-square.py)|A class <code>Square</code> that defines a square by: <code>(based on 2-square.py)</code>. The class also adds a method <code>def area(self):</code> that computes the area of the square.|
 |[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/3-main.py)|A python file that tests the class: <code>Square:</code> defined in 3-square.py.|
-|[4-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/4-square.py)|A class that defines a square, and initializes it with an attribute <code>size</code>. The class provides methods to access and update the private attribute of new objects. The class also adds a method <code>def area(self):</code> that computes the area of the square.|
+|[4-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/4-square.py)|A class <code>Square</code> that defines a square by: <code>(based on 3-square.py)</code>. The class also provides methods to access and update the private attribute of new square objects.|
 |[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/4-main.py)|A python file that tests the class: <code>Square:</code> defined in 4-square.py.|
-|[5-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/5-square.py)||
-|[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/5-main.py)||
+|[5-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/5-square.py)|A class <code>Square</code> that defines a square by: <code>(based on 4-square.py)</code>. The class also adds a method: <code>def my_print(self):</code> that prints in stdout the square with the character <code>#</code>.|
+|[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/5-main.py)|A python file that tests the class: <code>Square:</code> defined in 5-square.py.|
 |[6-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/6-square.py)||
 |[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/6-main.py)||
 |[100-singly_linked_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/100-singly_linked_list.py)||
