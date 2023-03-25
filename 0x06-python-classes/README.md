@@ -24,8 +24,8 @@ Here is a summary of what I learnt in this project:
 |[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/2-main.py)|A python file that tests the class: <code>Square:</code> defined in 2-square.py.|
 |[3-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/3-square.py)|A class that defines a square, and validates the type and value of attribute <code>size</code>, before initializing. The class also adds a method <code>def area(self):</code> that computes the area of the square.|
 |[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/3-main.py)|A python file that tests the class: <code>Square:</code> defined in 3-square.py.|
-|[4-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/4-square.py)||
-|[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/4-main.py)||
+|[4-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/4-square.py)|A class that defines a square, and initializes it with an attribute <code>size</code>. The class provides methods to access and update the private attribute of new objects. The class also adds a method <code>def area(self):</code> that computes the area of the square.|
+|[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/4-main.py)|A python file that tests the class: <code>Square:</code> defined in 4-square.py.|
 |[5-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/5-square.py)||
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/5-main.py)||
 |[6-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/6-square.py)||
