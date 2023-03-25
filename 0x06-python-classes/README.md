@@ -8,7 +8,7 @@ Here is a summary of what I learnt in this project:
 <li>How to add attributes and methods to a class.</li>
 <li>How to access and use class attributes and methods.</li>
 <li>How to access and use object attributes and methods.</li>
-<li>How to write getters and setters in the pythonic way.</li>
+<li>How to write getters and setters the pythonic way.</li>
 <li>How to add public, protected and private attributes.</li>
 <li></li>
 <li></li>
