@@ -23,12 +23,12 @@ class Square:
 
     Methods:
         __init__(self, size) :
-            Initializes a new square object as soon as it is created.
+            Initializes a new square object with the given attribute.
     """
 
     def __init__(self, size):
         """
-        Initializes a new square object as soon as it is created.
+        Initializes a new square object with the given attribute.
 
         Args:
             size (int) : Private instance attribute.
