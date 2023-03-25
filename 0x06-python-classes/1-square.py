@@ -32,6 +32,6 @@ class Square:
 
         Args:
             size (int) : Private instance attribute.
-            The size of a new square object.
+                The size of a new square object.
         """
         self.__size = size
