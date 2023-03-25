@@ -1,14 +1,37 @@
 #!/usr/bin/python3
-# 1-square.py
-"""Define a class Square."""
+"""
+Module 1-square.py.
+
+This module has only one class.
+
+Classes:
+    Square:
+        A class representing a Square.
+
+Functions:
+    This module has no functions.
+"""
 
 
 class Square:
-    """Represent a square."""
+    """
+    A class representing a square.
+
+    Attributes:
+        size (int) : Private instance attribute.
+            The size of a new square object.
+
+    Methods:
+        __init__(self, size) :
+            Initializes a new square object as soon as it is created.
+    """
 
     def __init__(self, size):
-        """Initialize a new Square.
+        """
+        Initializes a new square object as soon as it is created.
+
         Args:
-            size (int): The size of the new square.
+            size (int) : Private instance attribute.
+            The size of a new square object.
         """
         self.__size = size

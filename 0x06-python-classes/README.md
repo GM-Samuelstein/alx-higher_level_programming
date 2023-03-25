@@ -18,8 +18,8 @@ Here is a summary of what I learnt in this project:
 |--|--|
 |[0-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/0-square.py)|An  empty class that defines a square.|
 |[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/0-main.py)|A python file that tests the class: <code>Square:</0code> defined in 0-square.py.|
-|[1-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/1-square.py)||
-|[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/1-main.py)||
+|[1-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/1-square.py)|A class that defines a square, and initializes it with an attribute <code>size</code>.|
+|[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/1-main.py)|A python file that tests the class: <code>Square:</0code> defined in 1-square.py.|
 |[2-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/2-square.py)||
 |[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/2-main.py)||
 |[3-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/3-square.py)||
