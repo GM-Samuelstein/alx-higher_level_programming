@@ -33,8 +33,8 @@ Here is a summary of what I learnt in this project:
 |[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/6-main.py)|A python file that tests the class: <code>Square:</code> defined in 6-square.py.|
 |[100-singly_linked_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/100-singly_linked_list.py)|A class <code>Node</code> that defines a node of a singly linked list.|
 |[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/100-main.py)|A python file that tests the class: <code>Node:</code> defined in 100-singly_linked_list.py.|
-|[101-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/101-square.py)||
-|[101-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/101-main.py)||
+|[101-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/101-square.py)|A class <code>Square</code> that defines a square by: <code>(based on 6-square.py)</code>. The class also adds a method: <code>def &#95;&#95;str&#95;&#95;(self):</code> that has the same behavior as the method: <code>def my_print(self):</code>.|
+|[101-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/101-main.py)|A python file that tests the class: <code>Square:</code> defined in 101-square.py.|
 |[102-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/102-square.py)||
 |[102-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/102-main.py)||
 |[103-magic_class.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/103-magic_class.py)|A python class that does exactly the same as a given python bytecode.|
