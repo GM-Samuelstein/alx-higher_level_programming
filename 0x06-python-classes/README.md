@@ -31,8 +31,8 @@ Here is a summary of what I learnt in this project:
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/5-main.py)|A python file that tests the class: <code>Square:</code> defined in 5-square.py.|
 |[6-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/6-square.py)|A class <code>Square</code> that defines a square by: <code>(based on 5-square.py)</code>. The class also adds a new attribute `position`, and validates its type and value before initializing new square objects with the attribute. Additionally, the class modifies the method: <code>def my_print(self):</code> to start printing the square at the position specified by <code>position</code>.|
 |[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/6-main.py)|A python file that tests the class: <code>Square:</code> defined in 6-square.py.|
-|[100-singly_linked_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/100-singly_linked_list.py)||
-|[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/100-main.py)||
+|[100-singly_linked_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/100-singly_linked_list.py)|A class <code>Node</code> that defines a node of a singly linked list.|
+|[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/100-main.py)|A python file that tests the class: <code>Node:</code> defined in 100-singly_linked_list.py.|
 |[101-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/101-square.py)||
 |[101-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/101-main.py)||
 |[102-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/102-square.py)||
