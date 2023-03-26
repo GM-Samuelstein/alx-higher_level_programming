@@ -1,27 +1,77 @@
 #!/usr/bin/python3
-# 103-magic_calculation.py
-"""Define a MagicClass matching exactly a bytecode provided by Holberton."""
+"""
+Module 103-magic_class.py
+
+This module has only one class.
+
+Classes:
+    MagicClass :
+        A class representing a circle.
+
+Functions:
+    This module has no functions.
+"""
 
 import math
 
 
 class MagicClass:
-    """Represent a circle."""
+    """
+    A class representing a circle.
+
+    The class does exactly the same as a given Python bytecode.
+
+    Attributes:
+        radius (int, float) : Private instance attribute.
+            The radius of the new circle instance.
+
+    Methods:
+        __init__(self, radius) :
+            Initializes a new circle object with the given attribute.
+
+        area(self) :
+            Computes the area of the circle object.
+
+        circumference(self) :
+            Computes the circumference of the circle object.
+    """
 
     def __init__(self, radius=0):
-        """Initialize a MagicClass.
-        Arg:
-            radius (float or int): The radius of the new MagicClass.
         """
-        self.__radius = 0
-        if type(radius) is not int and type(radius) is not float:
+        Initializes a new circle object with the given attribute.
+
+        Arg:
+            radius (int, float) : Private instance attribute.
+                The radius of the new circle instance. The default value = 0
+        """
+        if (
+            not isinstance(radius, int)
+            or not isinstance(radius, float)
+        ):
             raise TypeError("radius must be a number")
-        self.__radius = radius
+        else:
+            self.__radius = radius
 
     def area(self):
-        """Return the area of the MagicClass."""
-        return (self.__radius ** 2 * math.pi)
+        """
+        Computes the area of the circle object.
+
+        Returns:
+            circle_area (float) :
+                The area of the circle based on its radius.
+        """
+        circle_area = (self.__radius ** 2) * math.pi
+
+        return circle_area
 
     def circumference(self):
-        """Return The circumference of the MagicClass."""
-        return (2 * math.pi * self.__radius)
+        """
+        Computes the circumference of the circle object.
+
+        Returns:
+            circle_circumference (float) :
+                The circumference of the circle based on its radius.
+        """
+        circle_circumference = 2 * math.pi * self.__radius
+
+        return circle_circumference
