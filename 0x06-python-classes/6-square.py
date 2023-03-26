@@ -154,11 +154,11 @@ class Square:
         if self.__size == 0:
             print("")
         else:
-            height = self.__size
+            height = self.__size +self.position[1]
             width = self.__size + self.__position[0]
             for y in range(height):
                 if y < self.__position[1]:
-                    print(" ")
+                    print("")
                 else:
                     for x in range(width):
                         if x < self.__position[0]:
