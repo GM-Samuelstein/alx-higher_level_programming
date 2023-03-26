@@ -20,7 +20,7 @@ class Square:
     Attributes:
         size (int) : Private instance attribute.
             The size of a new square object.
-        
+
         position (tuple) : Private instance attribute.
             A tuple of 2 positive integers that defines the position of
             the square.
@@ -99,7 +99,7 @@ class Square:
         This method gets the property `position`.
         """
         return self.__position
-    
+
     @position.setter
     def position(self, value):
         """
@@ -164,17 +164,3 @@ class Square:
                         else:
                             print("#", end="")
                     print("")
-                        
-    
-            
-            
-            
-            
-"""
-
-            for i in range(self.__size):
-                square_line = ""
-                for j in range(self.__size):
-                    square_line += "#"
-                print(square_line)
-"""
