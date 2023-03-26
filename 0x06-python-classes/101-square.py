@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-Module 6-square.py.
+Module 101-square.py.
 
 This module has only one class.
 
