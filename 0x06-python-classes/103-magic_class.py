@@ -46,7 +46,7 @@ class MagicClass:
         """
         if (
             not isinstance(radius, int)
-            or not isinstance(radius, float)
+            and not isinstance(radius, float)
         ):
             raise TypeError("radius must be a number")
         else:
