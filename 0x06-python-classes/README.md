@@ -10,7 +10,7 @@ Here is a summary of what I learnt in this project:
 <li>How to access and use object attributes and methods.</li>
 <li>How to write getters and setters for attributes the pythonic way.</li>
 <li>How to add public, protected and private attributes.</li>
-<li></li>
+<li>How to implement other special methods such as <code>&#95;&#95;str&#95;&#95;</code>, <code>&#95;&#95;rpr&#95;&#95;</code>, <code>&#95;&#95;eq&#95;&#95;</code>, <code>&#95;&#95;ne&#95;&#95;</code>, <code>&#95;&#95;gt&#95;&#95;</code>, <code>&#95;&#95;ge&#95;&#95;</code>, <code>&#95;&#95;lt&#95;&#95;</code>, and <code>&#95;&#95;le&#95;&#95;</code></li>
 <li></li>
 <li></li>
 </ul>
@@ -35,6 +35,6 @@ Here is a summary of what I learnt in this project:
 |[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/100-main.py)|A python file that tests the class: <code>Node:</code> defined in 100-singly_linked_list.py.|
 |[101-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/101-square.py)|A class <code>Square</code> that defines a square by: <code>(based on 6-square.py)</code>. The class also adds a method: <code>def &#95;&#95;str&#95;&#95;(self):</code> that has the same behavior as the method: <code>def my_print(self):</code>.|
 |[101-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/101-main.py)|A python file that tests the class: <code>Square:</code> defined in 101-square.py.|
-|[102-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/102-square.py)||
-|[102-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/102-main.py)||
+|[102-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/102-square.py)|A class <code>Square</code> that defines a square by: <code>(based on 4-square.py)</code>. |
+|[102-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/102-main.py)|A python file that tests the class: <code>Square:</code> defined in 102-square.py.|
 |[103-magic_class.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/103-magic_class.py)|A python class that does exactly the same as a given python bytecode.|
