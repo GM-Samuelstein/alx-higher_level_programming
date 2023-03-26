@@ -62,7 +62,7 @@ class Square:
         This method sets the property `size`.
 
         Args:
-            size (int): Private instance attribute.
+            value (int): Private instance attribute.
                 The size of a new square object.
 
         Raises:
