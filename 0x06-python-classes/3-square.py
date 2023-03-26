@@ -35,7 +35,7 @@ class Square:
 
         Args:
             size (int) : Private instance attribute.
-                The size of a new square object. The default value = 1.
+                The size of a new square object. The default value = 0.
 
         Raises:
             TypError:
