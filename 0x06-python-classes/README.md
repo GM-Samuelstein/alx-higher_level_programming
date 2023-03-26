@@ -2,13 +2,13 @@
 
 Here is a summary of what I learnt in this project: 
 <ul>
-<li>How to properly document modules, classes and functions.</li>
+<li>How to properly document modules, classes and functions using <code>google style python docstrings</code>.</li>
 <li>How to define a class.</li>
 <li>How to create an instance(object) from a defined class.</li>
 <li>How to add attributes and methods to a class.</li>
 <li>How to access and use class attributes and methods.</li>
 <li>How to access and use object attributes and methods.</li>
-<li>How to write getters and setters the pythonic way.</li>
+<li>How to write getters and setters for attributes the pythonic way.</li>
 <li>How to add public, protected and private attributes.</li>
 <li></li>
 <li></li>
