@@ -153,7 +153,6 @@ class Square:
         """
         if self.__size == 0:
             print("")
-            return
         else:
             height = self.__size
             width = self.__size + self.__position[0]
