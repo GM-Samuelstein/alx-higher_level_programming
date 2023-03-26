@@ -17,11 +17,7 @@ class Square:
     """
     A class representing a Square.
 
-    Attributes:
-        This class has no attributes.
-
-    Methods:
-        This class has no methods.
+    This is an empty class.
     """
 
     pass
