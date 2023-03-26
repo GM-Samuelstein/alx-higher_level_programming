@@ -54,7 +54,7 @@ class Square:
 
         Args:
             size (int) : Private instance attribute.
-                The size of a new square object. The default value = 1.
+                The size of a new square object. The default value = 0.
 
             position (tuple) : Private instance attribute.
                 A tuple of 2 positive integers that defines the position of
@@ -112,10 +112,11 @@ class Square:
 
         Raises:
             TypError:
-                If `value` is not an tuple.
+                If `value` is not a tuple.
                 If len(value) != 2.
-                If `value[0]` and `value[1]` are less than zero.
                 If `value[0]` and `value[1]` are not integers.
+                If `value[0]` and `value[1]` are less than zero.
+
         """
         if (
             not isinstance(value, tuple)
@@ -147,13 +148,14 @@ class Square:
         """
         Prints in stdout the square with the character `#`.
 
-        If the size = 0, an empty line is printed.
+        If the size = 0, an empty line is printed. The square is printed at
+        the position specified by `position`.
         """
         if self.__size == 0:
             print("")
             return
         else:
-            height = self.__size + self.__position[1]
+            height = self.__size
             width = self.__size + self.__position[0]
             for y in range(height):
                 if y < self.__position[1]:
