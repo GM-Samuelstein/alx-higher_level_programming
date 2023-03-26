@@ -188,4 +188,4 @@ class Square:
                         else:
                             print("#", end="")
                     print("")
-        return ""
+        return ("")
