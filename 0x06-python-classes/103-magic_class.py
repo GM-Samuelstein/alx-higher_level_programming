@@ -45,12 +45,14 @@ class MagicClass:
                 The radius of the new circle instance. The default value = 0
         """
         if (
-            not isinstance(radius, int)
-            and not isinstance(radius, float)
+            type(radius) is not int
+            and type(radius) is not float
         ):
             raise TypeError("radius must be a number")
         else:
             self.__radius = radius
+
+        return None
 
     def area(self):
         """
