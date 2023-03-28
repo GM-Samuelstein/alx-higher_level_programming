@@ -1,1 +1,34 @@
-<h1>0x08-python-more_classes</h1>
+<h1 align="center">0x06.PYTHON - MORE CLASSES</h1>
+
+Here is a summary of what I learnt in this project: 
+<ul>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+
+|File|Description|
+|--|--|
+|[0-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/0-rectangle.py)||
+|[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/0-main.py)||
+|[1-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/1-rectangle.py)||
+|[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/1-main.py)||
+|[2-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/2-rectangle.py)||
+|[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/2-main.py)||
+|[3-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/3-rectangle.py)||
+|[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/3-main.py)||
+|[4-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/4-rectangle.py)||
+|[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/4-main.py)||
+|[5-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/5-rectangle.py)||
+|[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/5-main.py)||
+|[6-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/6-rectangle.py)||
+|[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/6-main.py)||
+|[7-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/7-rectangle.py)||
+|[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/7-main.py)||
+|[8-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/8-rectangle.py)||
+|[8-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/8-main.py)||
+|[9-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/9-rectangle.py)||
+|[9-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/9-main.py)||
+|[101-nqueens.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/101-nqueens.py)||
