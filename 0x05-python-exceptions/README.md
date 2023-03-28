@@ -5,7 +5,7 @@ Here is a summary of what I learnt in this project:
 <li>How to use <code>try: / except: ... except: / else: / finally:</code> to handle exception.</li>
 <li>How to use <code>raise</code> to raise an exception.</li>
 </ul>
-
+ 
 |File|Description|
 |--|--|
 |[0-safe_print_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x05-python-exceptions/0-safe_print_list.py)|A function that prints x elements of a list.|
