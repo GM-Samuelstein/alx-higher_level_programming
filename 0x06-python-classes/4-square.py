@@ -59,14 +59,14 @@ class Square:
         This method sets the property `size`.
 
         Args:
-            size (int): Private instance attribute.
+            value (int): Private instance attribute.
                 The size of a new square object.
 
         Raises:
             TypError:
-                If `size` is not an integer.
+                If `value` is not an integer.
             ValueError:
-                If `size` is less than zero.
+                If `value` is less than zero.
         """
         if not isinstance(value, int):
             raise TypeError("size must be an integer")
