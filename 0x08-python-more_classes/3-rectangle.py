@@ -166,12 +166,15 @@ class Rectangle:
         """
         rectangle_string = ""
 
-        for row in range(self.__height):
-            for column in range(self.__width):
-                rectangle_string += "#"
-            if row == self.__height - 1:
-                continue
-            else:
-                rectangle_string += "\n"
+        if self.__width == 0 or self.__height == 0:
+            return rectangle_string
+        else:
+            for row in range(self.__height):
+                for column in range(self.__width):
+                    rectangle_string += "#"
+                if row == self.__height - 1:
+                    continue
+                else:
+                    rectangle_string += "\n"
 
         return rectangle_string
