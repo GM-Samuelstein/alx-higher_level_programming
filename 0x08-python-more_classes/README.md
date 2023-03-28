@@ -1,4 +1,4 @@
-<h1 align="center">0x06.PYTHON - MORE CLASSES</h1>
+<h1 align="center">0x08.PYTHON - MORE CLASSES</h1>
 
 Here is a summary of what I learnt in this project: 
 <ul>
@@ -11,8 +11,8 @@ Here is a summary of what I learnt in this project:
 
 |File|Description|
 |--|--|
-|[0-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/0-rectangle.py)||
-|[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/0-main.py)||
+|[0-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/0-rectangle.py)|An  empty class <code>Rectangle</code> that defines a rectangle.|
+|[0-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/0-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 0-rectangle.py.|
 |[1-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/1-rectangle.py)||
 |[1-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/1-main.py)||
 |[2-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/2-rectangle.py)||
