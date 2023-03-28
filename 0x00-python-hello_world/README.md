@@ -12,7 +12,7 @@ Here is a summary of what I learnt in this project:
 <li>How to compile a python file from the command line.</li>
 <li>How to check python code with the official python coding style, pycodestyle.</li>
 </ul>
-
+ 
 In the table below, you will find a brief description of what each script is doing. 
 
 |File|Description|
