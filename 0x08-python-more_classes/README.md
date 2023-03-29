@@ -25,8 +25,8 @@ Here is a summary of what I learnt in this project:
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/5-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 5-rectangle.py.|
 |[6-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/6-rectangle.py)|A class <code>Rectangle</code> that defines a rectangle by: <code>(based on 5-rectangle.py)</code>. A new class attribute <code>number_of_instances</code> is added, that increments during each new instance instantiation, and decrements during each instance deletion.|
 |[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/6-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 6-rectangle.py.|
-|[7-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/7-rectangle.py)||
-|[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/7-main.py)||
+|[7-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/7-rectangle.py)|A class <code>Rectangle</code> that defines a rectangle by: <code>(based on 6-rectangle.py)</code>.  A new class attribute <code>print_symbol</code> is added, which is used as symbol for string representation.|
+|[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/7-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 7-rectangle.py.|
 |[8-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/8-rectangle.py)||
 |[8-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/8-main.py)||
 |[9-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/9-rectangle.py)||
