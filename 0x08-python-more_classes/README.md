@@ -3,7 +3,7 @@
 Here is a summary of what I learnt in this project: 
 <ul>
 <li>How to implement other special methods such as <code>&#95;&#95;del&#95;&#95;</code>.</li>
-<li></li>
+<li>How to create and access a class attribute.</li>
 <li></li>
 <li></li>
 <li></li>
@@ -23,8 +23,8 @@ Here is a summary of what I learnt in this project:
 |[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/4-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 4-rectangle.py.|
 |[5-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/5-rectangle.py)|A class <code>Rectangle</code> that defines a rectangle by: <code>(based on 4-rectangle.py)</code>. The class adds a method that prints a message when an instance of Rectangle is deleted.|
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/5-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 5-rectangle.py.|
-|[6-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/6-rectangle.py)||
-|[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/6-main.py)||
+|[6-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/6-rectangle.py)|A class <code>Rectangle</code> that defines a rectangle by: <code>(based on 5-rectangle.py)</code>. A new class attribute <code>number_of_instances</code> is added, that increments during each new instance instantiation, and decrements during each instance deletion.|
+|[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/6-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 6-rectangle.py.|
 |[7-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/7-rectangle.py)||
 |[7-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/7-main.py)||
 |[8-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/8-rectangle.py)||
