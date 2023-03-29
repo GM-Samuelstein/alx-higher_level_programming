@@ -19,8 +19,8 @@ Here is a summary of what I learnt in this project:
 |[2-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/2-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 2-rectangle.py.|
 |[3-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/3-rectangle.py)|A class <code>Rectangle</code> that defines a rectangle by: <code>(based on 2-rectangle.py)</code>. The class adds a method that enables <code>print()</code> and <code>str()</code> to print a string representation of the retangle using the character <code>#</code>.|
 |[3-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/3-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 3-rectangle.py.|
-|[4-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/4-rectangle.py)||
-|[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/4-main.py)||
+|[4-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/4-rectangle.py)|A class <code>Rectangle</code> that defines a rectangle by: <code>(based on 3-rectangle.py)</code>. The class adds a method that returns a string representation of the rectangle to be able to recreate a new instance by using <code>eval()</code>.|
+|[4-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/4-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 4-rectangle.py.|
 |[5-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/5-rectangle.py)||
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/5-main.py)||
 |[6-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/6-rectangle.py)||
