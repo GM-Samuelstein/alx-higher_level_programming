@@ -173,9 +173,9 @@ class Rectangle:
         Returns a string representation of the rectangle object.
 
         A string representation of the rectangle object is printed with the
-        character `#`. The number of columns printed is equal to the width
-        of the rectangle, while the number of rows printed is equal to the
-        height of the rectangle.
+        value of the class attribute `print_symbol`. The number of columns
+        printed is equal to the width of the rectangle, while the number of
+        rows printed is equal to the height of the rectangle.
 
         Returns:
             rectangle_string (str) :
