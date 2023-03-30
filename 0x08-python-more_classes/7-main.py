@@ -24,7 +24,3 @@ my_rectangle_3.print_symbol = ["C", "is", "fun!"]
 print(my_rectangle_3)
 
 print("--")
-
-del my_rectangle_1
-del my_rectangle_2
-del my_rectangle_3
