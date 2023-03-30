@@ -38,7 +38,7 @@ class Rectangle:
             Gets the attribute `width`.
 
         width(self, value) : @width.setter
-            Sets the attribute `height`
+            Sets the attribute `width`
 
         height(self) : @property
             Gets the attribute `height`.
