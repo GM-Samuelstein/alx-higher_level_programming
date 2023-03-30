@@ -30,5 +30,5 @@ Here is a summary of what I learnt in this project:
 |[8-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/8-rectangle.py)|A class <code>Rectangle</code> that defines a rectangle by: <code>(based on 7-rectangle.py)</code>. The class adds a static method that compares the area of two instances of <code>Rectangle</code>.|
 |[8-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/8-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 8-rectangle.py.|
 |[9-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/9-rectangle.py)||
-|[9-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/9-main.py)||
+|[9-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/9-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 9-rectangle.py.|
 |[101-nqueens.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/101-nqueens.py)||
