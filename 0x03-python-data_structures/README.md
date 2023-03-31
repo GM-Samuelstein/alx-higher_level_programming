@@ -2,7 +2,6 @@
 Here is a summary of what I learnt in this project: 
 <ul>
 <li>How to loop through and access the items in a list.</li>
-<li>How to delete an item in a list using <code>del</code>. </li>
 <li>How to find the length of a list.</li>
 <li>How to replace items in a list.</li>
 <li>How to use common list methods such as: <code>list.reverse()</code>, <code>list.copy()</code>, <code>list.pop([x])</code>, <code>list.append(x)</code>.</li>
