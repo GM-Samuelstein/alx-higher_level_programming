@@ -3,11 +3,11 @@ Here is a summary of what I learnt in this project:
 <ul>
 <li>How to use the if ... elif ... else statement.</li>
 <li>How to import a module and access a function from the module using <code>__import__</code>.</li>
-<li>How to use for-loops.</li>
-<li>How to use the range() function.</li>
-<li>How to use str.format() to print formatted output.</li>
-<li>How to work with the :c and :x format specifiers.</li>
-<li>How to use 'break' and 'continue' in if statements.</li>
+<li>How to use the <code>while</code> and <code>for</code> loops.</li>
+<li>How to use the <code>range( )</code> function.</li>
+<li>How to use <code>str.format( )</code> to print formatted output.</li>
+<li>How to work with the <code>:c</code> and <code>:x</code> format specifiers.</li>
+<li>How to use <code>break</code> and <code>continue</code> in if statements.</li>
 <li>How to find the length of a string.</li>
 <li>How to define a function.</li>
 <li>How to import a function and use it in a python program.</li>
