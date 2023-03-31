@@ -11,7 +11,6 @@ Here is a summary of what I learnt in this project:
 <li>How to access items nested in a dictionary.</li>
 <li>How to create a new key/Value pair OR change the value of a key in a dictionary.</li>
 <li>How to delete a key in a dictionary.</li>
-<li>How to copy a dictionary.</li>
 <li>How to create a <code>lambda</code> function, and use it together with <code>map</code>, <code>reduce</code>, and <code>filter</code>.</li>
 </ul>
 
