@@ -8,7 +8,7 @@ Here is a summary of what I learnt in this project:
 <li>How to import a variable or variables from another file(module) and how to use the imported variable(s).</li>
 <li>How to create a module.</li>
 </ul>
- 
+  
 |File|Description|
 |---|---|
 |[0-add.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x02-python-import_modules/0-add.py)|A python program that imports the function <code>def add(a, b):</code> from the module <code>add_0.py</code> and makes use of the imported function.|
