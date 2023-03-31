@@ -3,7 +3,7 @@ Here is a summary of what I learnt in this project:
 <ul>
 <li>How to run a python file and a python code from the command line.</li>
 <li>How to use the print() function to print a line of texts.</li>
-<li>How to use and print a value stored in a variable.</li>
+<li>How to print a value stored in a variable.</li>
 <li>How to use f-strings to print formatted output.</li>
 <li>How to work with the :d and :f format specifiers.</li>
 <li>How to join and slice through strings.</li>

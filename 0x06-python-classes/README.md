@@ -10,7 +10,7 @@ Here is a summary of what I learnt in this project:
 <li>How to access and use object attributes and methods.</li>
 <li>How to write getters and setters for attributes the pythonic way.</li>
 <li>How to add public, protected and private attributes.</li>
-<li>How to implement other special methods such as <code>&#95;&#95;str&#95;&#95;</code>, <code>&#95;&#95;rpr&#95;&#95;</code>, <code>&#95;&#95;eq&#95;&#95;</code>, <code>&#95;&#95;ne&#95;&#95;</code>, <code>&#95;&#95;gt&#95;&#95;</code>, <code>&#95;&#95;ge&#95;&#95;</code>, <code>&#95;&#95;lt&#95;&#95;</code>, and <code>&#95;&#95;le&#95;&#95;</code></li>
+<li>How to implement other special methods such as <code>&#95;&#95;str&#95;&#95;</code>, <code>&#95;&#95;repr&#95;&#95;</code>, <code>&#95;&#95;eq&#95;&#95;</code>, <code>&#95;&#95;ne&#95;&#95;</code>, <code>&#95;&#95;gt&#95;&#95;</code>, <code>&#95;&#95;ge&#95;&#95;</code>, <code>&#95;&#95;lt&#95;&#95;</code>, and <code>&#95;&#95;le&#95;&#95;</code></li>
 <li></li>
 <li></li>
 </ul>
