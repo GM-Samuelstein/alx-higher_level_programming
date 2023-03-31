@@ -1,6 +1,7 @@
 <h1 align="center" id="top">0x02.PYTHON - IMPORT, MODULES</h1>
 Here is a summary of what I learnt in this project: 
 <ul>
+<li>How to prevent code from being executed when imported.</li>
 <li>How to import a function or functions from another file(module) and how to use the imported function(s).</li>
 <li>How to use the sys module to take command line arguments.</li>
 <li>How to use the built-in function <code>dir()</code> to list all the names that a module defines.</li>
