@@ -5,7 +5,7 @@ Here is a summary of what I learnt in this project:
 <li>How to use the print() function to print a line of texts.</li>
 <li>How to print a value stored in a variable.</li>
 <li>How to use f-strings to print formatted output.</li>
-<li>How to work with the :d and :f format specifiers.</li>
+<li>How to work with the <code>:d</code> and <code>:f</code> format specifiers.</li>
 <li>How to join and slice through strings.</li>
 <li>How to import the Easter egg that prints "The Zen of Python" by Tim Peters.</li>
 <li>How to import the sys module and use the write function to print to stderr.</li>
