@@ -11,7 +11,7 @@ Here is a summary of what I learnt in this project:
 <li>How to find the length of a string.</li>
 <li>How to define a function.</li>
 <li>How to import a function and use it in a python program.</li>
-<li>How to use the ord(c) function.</li>
+<li>How to use the <code>ord(c)</code> function.</li>
 </ul>
  
 |File|Description|
