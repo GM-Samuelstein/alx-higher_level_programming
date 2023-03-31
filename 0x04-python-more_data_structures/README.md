@@ -1,15 +1,17 @@
 <h1 align="center">0x04.PYTHON - MORE DATA STRUCTURES: SET, DICTIONARIES</h1>
 Here is a summary of what I learnt in this project: 
 <ul>
+<li>How to use common dictionary methods such as: <code>dict.get(key)</code>.</li>
 <li>How to use the <code>set()</code> function.</li>
 <li>How to find elements that are common in two given sets.</li>
 <li>How to find elements that are not common in two given sets.</li>
 <li>How to access only the keys in a dictionary.</li>
 <li>How to access both the keys and the values in a dictionary at the same time.</li>
+<li>How to access items nested in a dictionary.</li>
 <li>How to create a new key/Value pair OR change the value of a key in a dictionary.</li>
 <li>How to delete a key in a dictionary.</li>
 <li>How to copy a dictionary.</li>
-<li>How to use lambda together with <code>map</code>.</li>
+<li>How to create a <code>lambda</code> function, and use it together with <code>map</code>, <code>reduce</code>, and <code>filter</code>.</li>
 </ul>
 
 |File|Description|
