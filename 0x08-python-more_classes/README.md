@@ -2,7 +2,7 @@
 
 Here is a summary of what I learnt in this project: 
 <ul>
-<li>How to create and access a class attribute.</li>
+<li>What <code>staticmethods</code> are, when to use them, and how to implement them.</li>
 <li></li>
 <li></li>
 <li></li>
