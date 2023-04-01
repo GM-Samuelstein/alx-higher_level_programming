@@ -4,8 +4,7 @@ Here is a summary of what I learnt in this project:
 <ul>
 <li>What <code>staticmethods</code> are, when to use them, and how to implement them.</li>
 <li>What <code>classmethods</code> are, when to use them, and how to implement them.</li>
-<li></li>
-<li></li>
+<li>The <code>Backtracking Algorithm</code> technique.</li>
 </ul>
 
 |File|Description|
@@ -30,4 +29,4 @@ Here is a summary of what I learnt in this project:
 |[8-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/8-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 8-rectangle.py.|
 |[9-rectangle.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/9-rectangle.py)|A class <code>Rectangle</code> that defines a rectangle by: <code>(based on 8-rectangle.py)</code>. The class adds a class method that creates an instance of <code>Rectangle</code>, where the width and the height have the same value.|
 |[9-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/9-main.py)|A python file that tests the class: <code>Rectangle:</code> defined in 9-rectangle.py.|
-|[101-nqueens.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/101-nqueens.py)|A program that solves the N queens problem.|
+|[101-nqueens.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x08-python-more_classes/101-nqueens.py)|A program that solves the N queens problem. The N queens puzzle is the challenge of placing N chess queens on an N×N chessboard such that no two queen attack each other on the board. This means that no two queens can share the same row, column, or diagonal on the chessboard.|
