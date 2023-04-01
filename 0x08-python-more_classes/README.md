@@ -3,7 +3,7 @@
 Here is a summary of what I learnt in this project: 
 <ul>
 <li>What <code>staticmethods</code> are, when to use them, and how to implement them.</li>
-<li></li>
+<li>What <code>classmethods</code> are, when to use them, and how to implement them.</li>
 <li></li>
 <li></li>
 </ul>
