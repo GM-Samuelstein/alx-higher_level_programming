@@ -2,7 +2,6 @@
 
 Here is a summary of what I learnt in this project: 
 <ul>
-<li>How to implement other special methods such as <code>&#95;&#95;del&#95;&#95;</code>.</li>
 <li>How to create and access a class attribute.</li>
 <li></li>
 <li></li>

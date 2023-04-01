@@ -7,8 +7,8 @@ Here is a summary of what I learnt in this project:
 <li>How to create an instance(object) from a defined class.</li>
 <li>How to implement the <code>&#95;&#95;init&#95;&#95;</code> special method.</li>
 <li>How to add attributes and methods to a class.</li>
-<li>How to access and use class attributes and methods.</li>
-<li>How to access and use object attributes and methods.</li>
+<li>How to create, access and use class attributes and methods.</li>
+<li>How to create, access and use object attributes and methods.</li>
 <li>How to use the <code>getattr(object_name, attribute_name[, default_value])</code> function.</li>
 <li>What the <code>&#95;&#95;dict&#95;&#95;</code> of a class or an instance is and what it contains.</li>
 <li>How to write getters and setters for attributes the pythonic way.</li>
