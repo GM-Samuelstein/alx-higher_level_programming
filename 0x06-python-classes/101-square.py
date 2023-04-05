@@ -192,9 +192,10 @@ class Square:
                             print(" ", end="")
                         else:
                             print("#", end="")
-                    if y != height - 1:
-                        print("")
+                    if y == (height - 1):
+                        break
                     else:
-                        continue
+                        print("")
+
 
         return square_string
