@@ -176,6 +176,8 @@ class Square:
 
         It has the same behavior as the method `my_print(self)`.
         """
+        square_string = ""
+
         if self.__size == 0:
             print("")
         else:
@@ -194,5 +196,5 @@ class Square:
                         print("")
                     else:
                         continue
-            
-        return ""
+
+        return square_string
