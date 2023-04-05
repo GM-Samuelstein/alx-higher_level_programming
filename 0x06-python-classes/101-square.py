@@ -172,7 +172,7 @@ class Square:
 
     def __str__(self):
         """
-        A short string representation of a new square object.
+        Prints a string representation of the square object.
 
         It has the same behavior as the method `my_print(self)`.
         """
@@ -185,16 +185,16 @@ class Square:
             width = self.__size + self.__position[0]
             for y in range(height):
                 if y < self.__position[1]:
-                    print("")
+                    square_string += "\n"
                 else:
                     for x in range(width):
                         if x < self.__position[0]:
-                            print(" ", end="")
+                            square_string += " "
                         else:
-                            print("#", end="")
+                            square_string += "#"
                     if y == (height - 1):
-                        break
+                        continue
                     else:
-                        print("")
+                        square_string += "\n"
 
         return square_string
