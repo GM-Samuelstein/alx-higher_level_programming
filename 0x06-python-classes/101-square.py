@@ -184,7 +184,7 @@ class Square:
             width = self.__size + self.__position[0]
             for y in range(height):
                 if y < self.__position[1]:
-                    square_string += " "
+                    square_string += " \n"
                 else:
                     for x in range(width):
                         if x < self.__position[0]:
