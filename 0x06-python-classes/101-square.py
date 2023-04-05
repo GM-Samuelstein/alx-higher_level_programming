@@ -176,20 +176,23 @@ class Square:
 
         It has the same behavior as the method `my_print(self)`.
         """
-        square_string = ""
         if self.__size == 0:
-            return square_string
+            print("")
         else:
             height = self.__size + self.position[1]
             width = self.__size + self.__position[0]
             for y in range(height):
                 if y < self.__position[1]:
-                    square_string += " \n"
+                    print("")
                 else:
                     for x in range(width):
                         if x < self.__position[0]:
-                            square_string += " "
+                            print(" ", end="")
                         else:
-                            square_string += "#"
-                    square_string += "\n"
-        return square_string
+                            print("#", end="")
+                    if y != height - 1:
+                        print("")
+                    else:
+                        continue
+            
+        return ""
