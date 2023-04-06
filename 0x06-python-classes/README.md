@@ -14,8 +14,7 @@ Here is a summary of what I learnt in this project:
 <li>How to write <code>getters</code> and <code>setters</code> in python the pythonic way.</li>
 <li>How to add public, protected and private attributes.</li>
 <li>How to implement other special methods such as <code>&#95;&#95;str&#95;&#95;</code>, <code>&#95;&#95;repr&#95;&#95;</code>, <code>&#95;&#95;del&#95;&#95;</code>, <code>&#95;&#95;eq&#95;&#95;</code>, <code>&#95;&#95;ne&#95;&#95;</code>, <code>&#95;&#95;gt&#95;&#95;</code>, <code>&#95;&#95;ge&#95;&#95;</code>, <code>&#95;&#95;lt&#95;&#95;</code>, and <code>&#95;&#95;le&#95;&#95;</code>.</li>
-<li></li>
-<li></li>
+<li>The <code>Singly linked list</code> data strucrure in python.</li>
 </ul>
 
 |File|Description|
@@ -34,7 +33,7 @@ Here is a summary of what I learnt in this project:
 |[5-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/5-main.py)|A python file that tests the class: <code>Square:</code> defined in 5-square.py.|
 |[6-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/6-square.py)|A class <code>Square</code> that defines a square by: <code>(based on 5-square.py)</code>. The class also adds a new attribute `position`, and validates its type and value before initializing new square objects with the attribute. Additionally, the class modifies the method: <code>def my_print(self):</code> to start printing the square at the position specified by <code>position</code>.|
 |[6-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/6-main.py)|A python file that tests the class: <code>Square:</code> defined in 6-square.py.|
-|[100-singly_linked_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/100-singly_linked_list.py)|A class <code>Node</code> that defines a node of a singly linked list.|
+|[100-singly_linked_list.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/100-singly_linked_list.py)|A class <code>Node</code> that defines a node of a singly linked list and a class <code>SinglyLinkedList</code> that defines a singly linked list.|
 |[100-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/100-main.py)|A python file that tests the class: <code>Node:</code> defined in 100-singly_linked_list.py.|
 |[101-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/101-square.py)|A class <code>Square</code> that defines a square by: <code>(based on 6-square.py)</code>. The class also adds a method: <code>def &#95;&#95;str&#95;&#95;(self):</code> that has the same behavior as the method: <code>def my_print(self):</code>.|
 |[101-main.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/101-main.py)|A python file that tests the class: <code>Square:</code> defined in 101-square.py.|
