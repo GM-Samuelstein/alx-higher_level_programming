@@ -1,13 +1,13 @@
 #!/usr/bin/python3
 """
-Module 100-singly_linked_list.py.
+Singly_linked_list.py.
 
 This module has two classes and zero functions.
 
 Classes:
     Node:
         A class that defines a node of a singly linked list.
-    
+
     SinglyLinkedList:
         A class representing a singly linked list.
 
@@ -18,22 +18,22 @@ Functions:
 
 class Node:
     """
-    A class that defines a node of a singly linked list.
+    A class that defines a node in a singly linked list.
 
     Attributes:
         data (int): A private instance attribute.
             The data stored in the new node.
 
         next_node (Node) : A private instance attribute.
-            The next node in the linked list that the current node points to.
+            The next node in the linked list that the new node points to.
 
     Methods:
-        __init__(self, data, next_node=None) : 
+        __init__(self, data, next_node=None) :
             Initializes a new Node object with the given attributes.
-        
+
         data(self) : @property
             Gets the property `data`.
-        
+
         data(self, value) : @data.setter
             Sets the property `data`.
 
@@ -53,13 +53,12 @@ class Node:
                 The data stored in the new node.
 
             next_node (Node) : A private instance attribute.
-                The next node in the linked list that the current node
-                points to. Its default value = None.
-
+                The next node in the linked list that the new node points to.
+                Its default value = None.
         """
         self.data = data
         self.next_node = next_node
-    
+
     @property
     def data(self):
         """
@@ -84,7 +83,7 @@ class Node:
             raise TypeError("data must be an integer")
         else:
             self.__data = value
-    
+
     @property
     def next_node(self):
         """
@@ -106,11 +105,11 @@ class Node:
             TypeError : Exception
                 If `value` is not a Node object.
         """
-        if not isinstance(value, Node):
+        if value is not None and not isinstance(value, Node):
             raise TypeError("next_node must be a Node object")
         else:
             self.__next_node = value
-  
+
 
 class SinglyLinkedList:
     """
@@ -121,7 +120,7 @@ class SinglyLinkedList:
             The head of the singly linked list.
 
     Methods:
-        __init__(self) : 
+        __init__(self) :
             Initializes a new singly linked list with the given attribute.
 
         sorted_insert(self, value) :
@@ -137,11 +136,11 @@ class SinglyLinkedList:
                 The head of the singly linked list.
         """
         self.__head = None
-    
+
     def sorted_insert(self, value):
         """
         Inserts a new Node into the singly liked list.
-        
+
         The new Node is inserted in the correct sorted position in the
         list (increasing order).
 
@@ -150,4 +149,49 @@ class SinglyLinkedList:
                 The new node to be inserted in the singly linked list.
         """
         new_node = Node(value)
-        
+
+        if self.__head is None:
+            new_node.next_node = None
+            self.__head = new_node
+        elif new_node.data <= self.__head.data:
+            new_node.next_node = self.__head
+            self.__head = new_node
+        else:
+            current_node = self.__head
+            while (current_node.next_node is not None and
+                   new_node.data > current_node.next_node.data):
+                current_node = current_node.next_node
+            new_node.next_node = current_node.next_node
+            current_node.next_node = new_node
+
+    def __str__(self):
+        """
+        A string representation of the singly linked list.
+
+        The string contains the data in each node of the singly linked list.
+
+        Returns:
+            list_string (string) :
+                The entire list of data in the list, printed one node per
+                line.
+        """
+        list_string = ""
+
+        # Get the data in each node, starting from the head, and store it in
+        # the nodes_data list.
+        nodes_data = []
+
+        current_node = self.__head
+        while current_node is not None:
+            nodes_data.append(current_node.data)
+            current_node = current_node.next_node
+
+        # Join each value in the node_data list together in a string.
+        # Each data stands singly on its line.
+        for index in range(len(nodes_data)):
+            if index == len(nodes_data) - 1:
+                list_string += str(nodes_data[index])
+            else:
+                list_string += str(nodes_data[index]) + "\n"
+
+        return list_string
