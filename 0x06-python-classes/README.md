@@ -14,7 +14,7 @@ Here is a summary of what I learnt in this project:
 <li>How to write <code>getters</code> and <code>setters</code> in python the pythonic way.</li>
 <li>How to add public, protected and private attributes.</li>
 <li>How to implement other special methods such as <code>&#95;&#95;str&#95;&#95;</code>, <code>&#95;&#95;repr&#95;&#95;</code>, <code>&#95;&#95;del&#95;&#95;</code>, <code>&#95;&#95;eq&#95;&#95;</code>, <code>&#95;&#95;ne&#95;&#95;</code>, <code>&#95;&#95;gt&#95;&#95;</code>, <code>&#95;&#95;ge&#95;&#95;</code>, <code>&#95;&#95;lt&#95;&#95;</code>, and <code>&#95;&#95;le&#95;&#95;</code>.</li>
-<li>The <code>Singly linked list</code> data strucrure in python.</li>
+<li>The <code>Singly linked list</code> data structure in python.</li>
 </ul>
 
 |File|Description|
