@@ -16,7 +16,7 @@ Here is a summary of what I learnt in this project:
 <li>How to implement other special methods such as <code>&#95;&#95;str&#95;&#95;</code>, <code>&#95;&#95;repr&#95;&#95;</code>, <code>&#95;&#95;del&#95;&#95;</code>, <code>&#95;&#95;eq&#95;&#95;</code>, <code>&#95;&#95;ne&#95;&#95;</code>, <code>&#95;&#95;gt&#95;&#95;</code>, <code>&#95;&#95;ge&#95;&#95;</code>, <code>&#95;&#95;lt&#95;&#95;</code>, and <code>&#95;&#95;le&#95;&#95;</code>.</li>
 <li>The <code>Singly linked list</code> data structure in python.</li>
 </ul>
-
+ 
 |File|Description|
 |--|--|
 |[0-square.py](https://github.com/GM-Samuelstein/alx-higher_level_programming/blob/master/0x06-python-classes/0-square.py)|An  empty class <code>Square</code> that defines a square.|
