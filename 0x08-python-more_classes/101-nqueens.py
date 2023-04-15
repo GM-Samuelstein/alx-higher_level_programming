@@ -3,8 +3,8 @@
 A program that solves the N queens puzzle.
 
 The N queens puzzle is the challenge of placing N chess queens on an N x N
-chessboard such that no two queen attack each other on the board.This means
-that no two queens can share the same row, column, or diagonal on the
+chessboard such that no two queens attack each other on the board. This means
+that no two queens can be placed on the same row, column, or diagonal on the
 chessboard.
 """
 import sys
@@ -12,26 +12,103 @@ import sys
 
 class NQueens:
     """
+    A class representing a particular board dimension.
 
+    Attributes:
+        N (int) :
+            The dimension of the chess board, which also corresponds to
+            the number of queens that must be placed on the board.
+
+        solutions (list) :
+            A list of every possible solution for a board with the given
+            dimension.
+
+    Methods:
+        def __init__(self, N):
+            Initializes a new board with the given attribute.
+
+        def solve(self, queens=[], dif=[], sum=[]):
+            Determines all the possible solutions to the board.
+
+        def format_solutions(self):
+            Re-writes the list of solutions according to a given format.
+
+        def get_solutions(self):
+            Prints out the list of solutions.
     """
 
     def __init__(self, N):
         """
-        Initializes a new puzzle-set object with the given attribute.
+        Initializes a new board with the given attribute.
 
         Args:
             N (int) :
-                The size of the chess board.
+                The dimension of the chess board, which also corresponds to
+                the number of queens that must be placed on the board.
 
+            solutions (list) :
+                A list of every possible solution for a board with the given
+                dimension. After instantiation, this list is empty until the
+                solve method is called.
         """
-        self.board = N
+        self.N = N
         self.solutions = []
 
-    def solve_puzzle():
-        pass
+    def solve(self, queens=[], dif=[], sum=[]):
+        """
+        Determines all the possible solutions to the board.
 
-    def get_solutions():
-        pass
+        The method employs the back-tracking algorithm technique.
+
+        Args:
+            queens (list) :
+                The current queen placements on the board. It is empty at the
+                start but increases in length as the algorithm continues. Once
+                its length becomes equal to the size of the board N, a
+                complete solution has been found and it is appended to the
+                general list of solutions.
+
+            dif (list) :
+
+            sum (list) :
+        """
+        row = len(queens)
+        if row == self.N:
+            self.solutions.append(queens)
+            return
+        for col in range(self.N):
+            if (col not in queens and
+               row - col not in dif and row + col not in sum):
+                a = queens + [col]
+                b = dif + [row - col]
+                c = sum + [row + col]
+                self.solve(a, b, c)
+
+    def format_solutions(self):
+        """
+        Re-writes the list of solutions according to a given format.
+
+        For each solution, the solution is printed acording to the format
+        : [board_row, queen_position], for each queen placement.
+        After the formatting operation, the solutions-attribute is updated.
+        """
+        final_list = []
+        for solution in self.solutions:
+            tmp = []
+            for i in range(len(solution)):
+                tmp.append([i, solution[i]])
+            final_list.append(tmp)
+
+        self.solutions = final_list
+
+    def get_solutions(self):
+        """
+        Prints out the list of solutions.
+
+        One solution per line.
+        """
+        for solution in self.solutions:
+            print(solution)
 
 
 if __name__ == "__main__":
@@ -49,4 +126,7 @@ if __name__ == "__main__":
         print("N must be at least 4")
         sys.exit(1)
     else:
-        print("Cheers! The program ran successfully.")
+        board = NQueens(N)
+        board.solve()
+        board.format_solutions()
+        board.get_solutions()
