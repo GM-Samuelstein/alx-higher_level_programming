@@ -1,4 +1,4 @@
-<h1 align="center">0x07-python-test_driven_development</h1>
+<h1 align="center">0x07.PYTHON - TEST-DRIVEN DEVELOPMENT</h1>
  
  Here is a summary of what I learnt in this project: 
 <ul>
@@ -38,6 +38,3 @@
 |[tests/101-lazy_matrix_mul.txt]()||
 |[102-python.c]()||
 |[102-tests.py]()||
-|[]()||
-|[]()||
-|[]()||
